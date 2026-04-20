@@ -1,0 +1,12 @@
+baseURL = "https://til.syarif.com/"
+languageCode = "id"
+title = "Today I Learned"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "Today I Learned", Content = "Hal-hal kecil yang saya pelajari setiap hari."}
+  ShowReadingTime = true
+  ShowTags = true
+
+[taxonomies]
+  tag = "tags"
