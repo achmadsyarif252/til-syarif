@@ -11,7 +11,7 @@ Beliau adalah seorang jenius, pada saat masih muda dia sudah menjadi rektor di m
 Karya karyanya yang terkenal
 1.Ihya ulumuddin, menggabungkan ilmu syariat (hukum), tasawuf, dan akidah
 
-2.Tahafut al falasfat (kerancuan para filsuf) kritik beliau terhadap para filsuf yang menurutnya terlalu ekstrem dalam menggunakan logika rasionalitas mendewakan logika filsuf dari yunani sehingga menyimpang dari akidah, kritiknya itu tertuju kepada orang orang filsuf pada masa itu seperti ibnu sina dan al farabi.
+2.Tahafut al falasifah (kerancuan para filsuf) kritik beliau terhadap para filsuf yang menurutnya terlalu ekstrem dalam menggunakan logika rasionalitas mendewakan logika filsuf dari yunani sehingga menyimpang dari akidah, kritiknya itu tertuju kepada orang orang filsuf pada masa itu seperti ibnu sina dan al farabi.
 
 3.Munqid min al dhalal, autobigrafi perjalanan pemikiran beliau dalam menemukan kebenaran
 
