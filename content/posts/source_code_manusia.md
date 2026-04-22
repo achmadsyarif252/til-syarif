@@ -1,7 +1,7 @@
 +++
 date = '2026-04-22T21:40:45+07:00'
 draft = false
-title = 'Source_code_manusia'
+title = 'Source Code Manusia'
 tags = ["science","biology"]
 +++
 
@@ -24,3 +24,5 @@ Protein kolagen : bentuk kulit agar kenyal
 Protein Hemoglobin : Menangku toksigen dalam dalam 
 Protein melanin : memberi warna pada mata
 dst...
+
+catatan di atas super simplifikasi atas apa yang saya baca, just for knowlede purpose
