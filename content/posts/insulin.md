@@ -23,4 +23,5 @@ jangan banyak banyak simpan energi di lemak alias kurangi makan manis, perbanyak
 
 Lemak yang ada di balik otot perut itu namanya lemak viseral, lemak ini ngga biasa, dia bukan cuma nyimpen cadangan energi tapi aktif keluarain zat peradangan namanya sitokin, dia itu sengaja ngerusak si insulin, alhasil makin buncit orang makin karatan si lubang kunci selnya.
 
+karna saya itu developer ya, banyak duduk2, tips terbaik itu tiap 1-2 jam lakuin squat 2 menit aja cukup. rutin,disiplin.
 
