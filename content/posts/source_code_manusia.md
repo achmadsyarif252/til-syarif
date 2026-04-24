@@ -2,7 +2,7 @@
 date = '2026-04-22T21:40:45+07:00'
 draft = false
 title = 'Source Code Manusia'
-tags = ["science","biology"]
+tags = ["Sains","Biologi"]
 +++
 
 Deoxyribucleic Acid cukup sulit menulis dan mengejanya , alias DNA.

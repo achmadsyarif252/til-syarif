@@ -2,6 +2,7 @@
 date = '2026-04-20T22:17:34+07:00'
 draft = false
 title = 'Pelapis Tangki Pesawat'
+tags = ["Sains","Engineering"]
 +++
 
 Tangki Pesawat Pakai Bahan Pelapis Karet

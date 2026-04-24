@@ -2,6 +2,7 @@
 date = '2026-04-21T20:11:39+07:00'
 draft = false
 title = 'Abu Hamid Muhammad Bin Muhammad AlGhazali'
+tags = ["Sejarah","Islam","Biografi"]
 +++
 
 Al Ghazali adalah salah satu tokoh paling berpengaruh dalam sejarah pemikiran islam, nama lengkap beliau adalah Abu Hamid Muhammad bin Muhammad Al Ghazali at-thusi, lahir di Thus, iran tahun 1058, beliau punya julukan hujatul islam (bukti kebenaran islam) karena pembelaanya terhadap ajaran islam dari gempuran pemikiran filsafat yunani yang ekstrim pada saat itu.
