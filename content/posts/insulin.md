@@ -21,4 +21,6 @@ Gimana caranya biar si sel ini tetap sensitif terhadap insulin ?
 
 jangan banyak banyak simpan energi di lemak alias kurangi makan manis, perbanyak pembakaran gula darah tadi (olahraga) nanti si sel itu jadi "lapar" dan jadi gampang dibuka oleh si insulin karna dia memang butuh itu sedangkan cadangan energi ngga banyak , contoh olahraga yg bakar banyak energi itu squat,tahan posisi kaya duduk samnbil bersandar di tembok, intinya gerakan yang butuh kerja otot ekstra (otot yng mengkonsumsi energi besar itu otot paha, bokong, dan betis(kalau ga salah))
 
+Lemak yang ada di balik otot perut itu namanya lemak viseral, lemak ini ngga biasa, dia bukan cuma nyimpen cadangan energi tapi aktif keluarain zat peradangan namanya sitokin, dia itu sengaja ngerusak si insulin, alhasil makin buncit orang makin karatan si lubang kunci selnya.
+
 
