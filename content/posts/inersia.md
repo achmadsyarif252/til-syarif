@@ -1,6 +1,6 @@
 +++
 date = '2026-04-28T19:49:42+07:00'
-draft = true
+draft = false
 title = 'Inersia'
 +++
 
@@ -14,7 +14,7 @@ Benda Diam: Bakal terus diam kalau tidak didorong atau ditarik.
 
 Benda Bergerak: Bakal terus jalan dengan kecepatan yang sama kalo tidak dihentikan atau diperlambat. 
 
-inersia sendiri sifat alami benda buat "mempertahankan posisinya", semakin besar massa (berat) benda semakin besar juga inersianya, alias semakin susah digerakan atau dihentikan.
+inersia sendiri sifat alami benda buat "mempertahankan posisinya", semakin besar massa benda semakin besar juga inersianya, alias semakin susah digerakan atau dihentikan.
 
 hukum newton 2 terkait gaya yang diberikan dengan percepatan yg dialami, misal dorong troli , berkaitan dengan berat dan gaya, kalo dorong troli kosong cuma butuh gaya yg sedikit untuk percepatan yg oke tapi kalau berat troli besar butuh gaya yang besar jg untuk menghasilkan percepatan yg sama
 
