@@ -17,3 +17,11 @@ Di indonesia diresmikan sebagai hari libur nasional itu tahun 2014 namun sejarah
 
 saat order baru sempat dilarang peringatan hari buruh dan pemerintah berupaya menghilangkan istilah buruh mernjadi karyawan atau pekerja karna kata buruh identik dengan gerakan kiri atau komunis, namun di era bj habibie peringatan hari buruh kembali diperbolehkan, saat era SBY hari tanggal 1 mei dijadikan sebagai hari libur nasional
 
+P.S
+label kiri untuk gerakan komunis berasal dari tradisi tempat duduk saat revolusi Prancis th 1789,
+
+Majelis nasional perancis berkumpul buat menentukan seberapa besar kekuasaan yang boleh dimiliki raja
+
+Sisi kanan : Bangsawan dan pendukung kerajaan, mereka ingin mempertahankan status quo (kekuasaan yg sedang berlangsung) sampai sekarang kanan identik dengan konservatif (menjaga yang sudah ada)
+
+Kiri : kelompok revolusioner ingin perubahan radikal dan kesetaraan serta penghapusan kekuasaan raja, mereka pro rakyat kecil dan ingin merombak struktur sosial, kiri identik dengan progresif atau perubahan
