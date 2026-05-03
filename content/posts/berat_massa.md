@@ -13,7 +13,7 @@ Jadi berat itu dia mengikuti dimana benda tersebut diukur karna mengikuti gravit
 
 kalau massa itu tetap, dimanapun massa sesuatu akan sama saja karna terkiat dengan jumlah materi (which is bakalan tetap terus), satuan internasional massa itu Kg sedangkan berat itu Newton (N)
 
-Nilai gravitasi bumi itu konstan 9,8 m/s^2 (sekon kuadrat itu adalah percepatan artinya jika ada benda atau apapun yang jatuh dari atas itu percepatanya akan bertambah 9,8m setiap detik dia jatuh)
+Nilai gravitasi bumi itu konstan 9,8 m/s^2 (sekon kuadrat itu adalah percepatan artinya jika ada benda atau apapun yang jatuh dari atas itu percepatanya akan bertambah 9,8m setiap detik dia jatuh), oh ya 9,8 itu nilai rata rata karna kalau di puncak gunung atau di kutub itu agak berbeda
 
-Terkait dengan insersia lagi nih, misal kita mendorong monbil dalam kondisi diam, kita akan keberatan dalam mendorong mobil itu karna inersia bukan karena benda itu berat, mobil itu cenderung akan memeprtahankan kondisi diamnya kecuali ada gaya yang mempengaruhinya (dorongan kita) nah ini berkaitan dengan massa benda, semakin besar massa benda semakin besar energi yang diperlukan untuk merubah momen inersia tersebut
+Terkait dengan insersia lagi nih, misal kita mendorong monbil dalam kondisi diam, kita akan keberatan dalam mendorong mobil itu karna inersia bukan karena benda itu berat, mobil itu cenderung akan memeprtahankan kondisi diamnya kecuali ada gaya yang mempengaruhinya (dorongan kita) nah ini berkaitan dengan massa benda, semakin besar massa benda semakin besar energi yang diperlukan untuk merubah momen inersia tersebut, kalau lagi berjalan juga sama, butuh gaya sebanding dengan besar massanya
 
