@@ -1,6 +1,6 @@
 +++
 date = '2026-05-30T21:47:46+07:00'
-draft = true
+draft = false
 title = 'Demensia & Alzheimer'
 tags = ["Kesehatan","Pengetahuan"]
 +++
