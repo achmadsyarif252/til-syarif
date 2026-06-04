@@ -1,5 +1,5 @@
 +++
-date = '2026-06-03T23:25:55+07:00'
+date = '2026-06-04T23:25:55+07:00'
 draft = false
 title = 'Seberapa Cepat Listrik'
 tags = ["Pengetahuan"]
