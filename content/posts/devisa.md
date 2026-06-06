@@ -2,6 +2,7 @@
 date = '2026-06-05T23:43:30+07:00'
 draft = false
 title = 'Devisa'
+tags = ["Ekonomi"]
 +++
 
 Devisa adalah dompet mata uang asing negara, saat belanja di dalam negeri kita pakai rupiah, saat negara belanja ke luar negeri 
