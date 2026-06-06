@@ -10,6 +10,7 @@ negara mengisi dompet mata uang asing ini dengan 3 cara
 - ekspor
 - turis asing (pariwisata) bule datang ke Bali, menukarkan uang mereka, dan belanja di sini
 - pekerja di luar negeri (Remitansi)pahlawan devisa (TKI) mengirim uang asing ke keluarga di indonesia
+- investor asing yang buat pabrik di indonesia atau yang invest invest ke saham lokal indonesia
 
 Kenapa Devisa bisa mempengaruhi nilai tukar rupiah ?
 saat cadangan mata uang asing (utamanya dolar usd) di bank sentral berkurang ada hukum supply demand , saat indonesia mau impor barang bi akan menggelontorkan dolar dari cadangan devisa ke pasar, jika cadangan devisa menipis, pasokan dolar menjadi langka, karna dolar langka sementara yg butuh tetap banyak harga dollar jadi mahal, butuh lebih banyak rupiah hanya untuk membeli 1 dollar 
