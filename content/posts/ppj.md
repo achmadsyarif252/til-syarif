@@ -1,0 +1,15 @@
++++
+date = '2026-06-06T20:20:19+07:00'
+draft = true
+title = 'PPJ'
++++
+
+Pajak Penerangan Jalan itu pajak yang dikenakan kepada setiap masyarakat indonesia pada saat membeli token listrik, pajak ini besaranya tergantung wilayah dan pemerintah daerah masing masing mulai dari 3-10% di daerah jakarta sekitar 3% sedangkan di sumatra bisa sampai 10%, pajak ini tidak masuk ke PLN melainkan 100% masuk ke kantong pemerintah daerah, jadi saat beli token lsitrik itu akan otomatis dikurangi dengan jumlah pajak yg dibebankan. berlaku juga untuk listrik yang tagihan per bulan / pascabayar (non token).
+
+Peraturan ini diatur dalam UU No.1 tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (HKPD), pajak ini digunakan untuk apa ?
+
+1. biaya listrik untuk lampu lampu jalan raya
+2. biaya pengadaan lampu jalan di daerah yg masih gelap
+3. perbaikan dan perawatan infrastuktur lampu jalan yang rusak
+
+kalau sekarang lebih dikenal dengan PBJT sih, pajak barang dan jasa tertentu atas Tenaga listrik.
