@@ -13,3 +13,11 @@ Peraturan ini diatur dalam UU No.1 tahun 2022 tentang Hubungan Keuangan antara P
 3. perbaikan dan perawatan infrastuktur lampu jalan yang rusak
 
 kalau sekarang lebih dikenal dengan PBJT sih, pajak barang dan jasa tertentu atas Tenaga listrik.
+
+ada pengecualian yg tidak kena pajak pbjt ini
+1. tempat ibadah
+2. kedutaan besar & konsultan
+3. rumah sakit dan layanan sosial
+4. instansi pemerintah pusat dan daerah.
+
+jika di daerah tersebut sudah terang atau tercukupi peneranganya uang pbjt yg masuk ke pemda boleh digunakan untuk perbaikan sarana yang lain seperti perbaikan jalan atau trotoar
