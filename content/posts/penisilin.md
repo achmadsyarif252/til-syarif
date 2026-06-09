@@ -1,6 +1,6 @@
 +++
 date = '2026-06-09T23:21:54+07:00'
-draft = true
+draft = false
 title = 'Penisilin'
 tags = ["Sejarah","Kesehatan"]
 +++
