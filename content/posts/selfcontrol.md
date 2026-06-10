@@ -1,6 +1,6 @@
 +++
 date = '2026-06-10T23:20:24+07:00'
-draft = true
+draft = false
 title = 'Selfcontrol'
 tags = ["Asbun","Tips"]
 +++
