@@ -2,6 +2,7 @@
 date = '2026-06-12T21:49:00+07:00'
 draft = false
 title = 'Haiti & Poland'
+tags = ["Sejarah","WorldCup2026"]
 +++
 
 Pada Piala Dunia 2026 ini rencananya haiti menyertakan bendera polandia di jersey mereka (btw poland ngga lolos masuk pildun), pada awalnya publik mengira begitu (ada bendera poland di jersey mereka)
@@ -11,4 +12,4 @@ Tapi ternyata memang polandia ini merupakan negara sahabat dekat dari haiti mung
 
 Fifa pada akhirnya melarang haiti memakai seragam itu karna syarat akan pesan politik, sehingga mereka mendesain ulang jerseynya dan tidak jadi pakai jersey tersebut.
 
-[!Jersey Haiti](/images/haiti.png)
+[!JerseyHaiti](/images/haiti.png)
