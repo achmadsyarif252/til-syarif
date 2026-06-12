@@ -12,4 +12,4 @@ Tapi ternyata memang polandia ini merupakan negara sahabat dekat dari haiti mung
 
 Fifa pada akhirnya melarang haiti memakai seragam itu karna syarat akan pesan politik, sehingga mereka mendesain ulang jerseynya dan tidak jadi pakai jersey tersebut.
 
-[!JerseyHaiti](/images/haiti.png)
+![Jersey Haiti](/images/haiti.png)
