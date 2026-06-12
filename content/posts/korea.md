@@ -2,6 +2,7 @@
 date = '2026-06-12T21:42:43+07:00'
 draft = false
 title = 'Korea'
+tags = ["Pengetahuan","WorldCup2026"]
 +++
 
 Di piala dunia 2026 ini korea selatan tampil sangat baik, penguasaan bola yang rapih, kontrol bola yang kuat, umpan yang terukur. mengantarkan mereka menang 2-1 atas Czech (Ceko)
