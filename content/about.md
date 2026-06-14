@@ -7,18 +7,8 @@ summary: "Tentang saya dan blog Today I Learned ini."
 
 # Halo, saya Syarif! 👋
 
-Selamat datang di ruang belajar digital saya.
+24 Tahun saat blog ini dibuat, seorang programmer di siang hari dan random person di sisa harinya (saya belajar topik appapun yang menarik bagi saya), blog ini mendokumentasikan perjalanan mencoba menjadi seorang manusia seutuhnya dengan belajar,serta sebagai bentuk rasa syukur juga atas semua yang diberikan oleh Allah SWT.
 
-Ini adalah tempat di mana saya mendokumentasikan **hal-hal kecil yang saya pelajari setiap hari**—mulai dari teknologi, sains, kehidupan sehari-hari, hingga pemikiran random yang menarik untuk disimpan.
-
-### Kenapa blog ini ada?
-Saya percaya bahwa cara terbaik untuk memahami sesuatu adalah dengan menjelaskannya kembali dengan kata-kata sendiri. Blog *Today I Learned (TIL)* ini berfungsi sebagai "second brain" bagi saya, sekaligus referensi cepat jika di masa depan saya melupakan apa yang pernah saya pelajari.
-
----
-
-### Hubungi Saya
-Jika Anda ingin berdiskusi, berbagi ilmu, atau sekadar menyapa, silakan hubungi saya di:
-- 🐙 [GitHub](https://github.com/achmadsyarif252)
-
+Tertarik coding java, cara kerja otak, sejarah2, dan sifat sifat manusia.
 ---
 > "Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi
