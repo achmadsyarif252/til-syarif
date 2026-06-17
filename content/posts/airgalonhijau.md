@@ -1,6 +1,6 @@
 +++
 date = '2026-06-17T23:05:41+07:00'
-draft = true
+draft = false
 title = 'Air Galon Menghijau'
 tags = ["Why"]
 +++
