@@ -8,4 +8,4 @@ Kulacino adalah bekas jejak air atau noda basah berbentuk lingkaran pada permuka
 
 Kata ini diserap ke dalam bahasa indonesia dari bahasa italia (cullacino)
 
-![Kulacino](/images/Kulacino.png)
+![Kulacino](/images/kulacino.png)
