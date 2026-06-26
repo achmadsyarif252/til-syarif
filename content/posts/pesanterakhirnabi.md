@@ -1,6 +1,6 @@
 +++
 date = '2026-06-26T23:49:32+07:00'
-draft = true
+draft = false
 title = 'Mengapa Khutbah Terakhir nabi adalah Obat Terbaik untuk Krisis Dunia Modern'
 tags = ["Sejarah","Agama"]
 +++
