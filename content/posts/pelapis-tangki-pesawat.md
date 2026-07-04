@@ -9,5 +9,5 @@ Tangki Pesawat Pakai Bahan Pelapis Karet
 
 Mulanya tangki pesawat itu seperti biasanya pakainya ya logam biasa, namun hal itu akan membahayakan apabila tertembak dan bahan bakar melebar ke mana mana
 
-Enginerr lalu membuat lapisan tangki pesawat dengan karet sehingga apabila ditembak pun atau terdapat kebocoran dia akan menutup dengan sendirinya (sifat karet sepertinya memang gitu)
+Enginerr lalu membuat lapisan tangki pesawat dengan karet sehingga apabila ditembak pun atau terdapat kebocoran dia akan menutup dengan sendirinya, karena karet sifatnya dia akan membengkak apabila terkena bahan hidrokarbon dari avtur atau bensinya, jadi ketika lubang, avtur kan akan keluar melalu lubang itu namun nanti karentya bakal melebar melar/bengkak sehingga bisa tertutup sendiri.
 
