@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Posts | Today I Learned</title>
+<meta name="keywords" content="">
+<meta name="description" content="Posts - Today I Learned">
+<meta name="author" content="">
+<link rel="canonical" href="https://til-syarif-25.pages.dev/posts/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.89b7719e590b7093641f528acc0a51406b13854b129442c63ee92c394192a2bb.css" integrity="sha256-ibdxnlkLcJNkH1KKzApRQGsThUsSlELGPuksOUGSors=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://til-syarif-25.pages.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://til-syarif-25.pages.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://til-syarif-25.pages.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://til-syarif-25.pages.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="https://til-syarif-25.pages.dev/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://til-syarif-25.pages.dev/posts/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="https://til-syarif-25.pages.dev/posts/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><style>
+.streak-badge {
+  position: absolute;
+  right: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.streak-badge span.fire {
+  display: inline-block;
+  animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const homeInfo = document.querySelector('.home-info');
+  const title = document.querySelector('.home-info h1');
+  if (homeInfo && title) {
+    const badge = document.createElement('div');
+    badge.className = 'streak-badge';
+    badge.innerHTML = '<span class="fire">🔥</span> 61';
+    badge.style.top = title.offsetTop + 'px'; 
+    homeInfo.appendChild(badge);
+  }
+});
+</script><meta property="og:url" content="https://til-syarif-25.pages.dev/posts/">
+  <meta property="og:site_name" content="Today I Learned">
+  <meta property="og:title" content="Posts">
+  <meta property="og:locale" content="id">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Posts">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://til-syarif-25.pages.dev/posts/"
+    }
+  ]
+}
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="https://til-syarif-25.pages.dev/" accesskey="h" title="Today I Learned (Alt + H)">Today I Learned</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="https://til-syarif-25.pages.dev/posts/" title="Blog">
+                    <span class="active">Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://til-syarif-25.pages.dev/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Posts
+  </h1>
+</header>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Dinosaurs
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Dinosaurus / Dinosaurs dalam bahasa inggris itu berasal dari bahasa yunani yaitu deinos (sangat besar) dan sauros (kadal) istilah itu diciptakan oleh naturalis asal inggris yang bernama Sir Richard Owen pada tahun 1842.
+Mereka hidup pada zaman 235 juta tahun yang lalu - 65 juta tahun yang lalu dimulai dari reptil awal,kemudian mendominasi daratan hingga punahnya dinosarus karna asteroid raksasa yang menabrak bumi.
+Sejarah kehidupan dinosaurus terbagi ke dalam tiga periode :
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-16 20:06:27 +0700 +07'>May 16, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Dinosaurs" href="https://til-syarif-25.pages.dev/posts/dinosaurs/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Asal Usul Nama Bandung
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Nama Bandung diyakini sebagian besar orang dari kata bendung atau bendungan yang mana artinya adalah genangan air atau air yang tergenang, jadi dulu bandung itu merupakan danau purba pada saat 220 ribu hingga 160 ribu tahun yang lalu, lalu sekitar 16 ribu tahun lalu danaunya mengering karna erosi (ada sumber lain jg mengatakan karna gempa bumi)
+Danau ini terbentuk karna adanya letusan gunung sunda purba (cikal bakal gunung tangkuban perahu) nah lavannya ini kan menyebar ya kemana maan lava tersebut membendung aliran air sungai citarum di daerah cisarua, aliran air yang tersumbat ini menciptakan genangan air raksasa (danau) yang membendung wilayah padelarang hingga cicalengka
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-15 08:03:23 +0700 +07'>May 15, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Asal Usul Nama Bandung" href="https://til-syarif-25.pages.dev/posts/bandung/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Nyamuk
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Nyamuk itu memilki manfaat mungkin kita sering luput dari itu menganggap bahwa nyamuk hanyalah hama yang mengganggu manusia, well in a way itu iya tapi di sisi lain sebenarnya nyamuk ini merupakan hewan yang cukup penting untuk keseimbangan ekosistem alam.beberapa manfaat nyamuk adalah sebagai berikut
+sumber pangan ekosistem, larva nyamuk atau jentik itu pakan utama ikan sementara nyamuk dewasa jadi makanan burung,katak,kelelawar capung dll penyerbukan : nyamuk jantan dan betina mengonsumsi nektar untuk sumber energi yang menjadikan mereka penyerbuk tanaman yang efektif daur ulang nutrisi larva nyamuk memakan bahan organik di perairan walaupun bermanfaat secara ekologis memang nyamuk tetap menjadi penyakit mematikan bagi manusia, jadi sekali lagi manfaatnya lebih berdampak pada keseimbangan alam bukan secara langsung untuk kesehatan manusia.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-14 23:42:45 +0700 +07'>May 14, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Nyamuk" href="https://til-syarif-25.pages.dev/posts/nyamuk/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bule
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Darimana kata bule berasal ? Kata bule itu kalau dilihat di kbbi merujuk kepada kata bulai yang artinya orang/mahluk yang berambut dan berkulit putih karna kekurangan pigmen warna bisa dikatakan albino
+Kata ini diperkenalkan oleh Benedict Anderson seorang pengamat politiik,sejarawan asal irladia pada tahun 1960 an dimana pada masa pasca kemerdekaan orang indonesia menyebut orang luar negeri berkulit putih dengan panggilan kolonial seperti sebutan tuan/master, ben merasa itu kurang tepat lalu mencari padanan kata yang menurutnya lebih tepat dan menemukan kata bulai,masyarakat jawa juga sudah familiar dengan kata bulai dimana digunakan untuk menyebut hewan albino contoh yg terkenal adalah kerbau putih itu biasanya dinamakan kebo bulai.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-13 22:55:26 +0700 +07'>May 13, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Bule" href="https://til-syarif-25.pages.dev/posts/bule/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Obsesi China Terhadap Perak
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Perak dari dulu selalu memiliki status sebagai emas versi murah tapi sekarang statusnya berubah menjadi komoditas yang krusial bagi teknologi masa depan.
+Kenapa perak sangat dicari di zaman sekarang ini alasanya adalah karna dunia modern memerlukan perak untuk berbagai komponen teknologi seperti panel surya,kendaraan listrik,hp,jaringan 5g,sensor, chip dan yang lainya.
+Selama 6 tahun berturut turut perak ini mengalami defisit pasokan karna permintaan industri lebih cepat dari produksi tambang inilah yang membuat harga perak jadi sangat liar dan spekulatif
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-12 20:57:01 +0700 +07'>May 12, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Obsesi China Terhadap Perak" href="https://til-syarif-25.pages.dev/posts/perak/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Podcast Dr Gia dan Radit
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Organ pencernaan itu dimulai dari mulut, enamel gigi merupakan anggota tubuh yang paling kuat secara mekanik tapi dia kalah dengan musuhnya yaitu kimiawi, musuh dari enamel gigi adalah bakteri,gula,waktu. rajin sikat gigi kalo ngga mau gigi cepat berlubang
+Manusia memproduksi kira kira 1.5 liter air liur per hari Air liur itu berisi enzim,antibodi dll Jumlah otot manusia itu sama yg beda itu volumenya Saat makan usahakan kunyah itu minimal 33 kali biar lambung hapy Kegiatan menelan itu kegiatan kompleks melibatkan esofagus,lidah,dll Esofagus itu pipa panjangnya 1.5 meter Geraka meremas makanan di esofagus itu namanya gerak peristaltik (nostalgia pertama kali tau ini kelas 5 dari Ibu Titi) Keselek itu terjadi karna si pintu otomatis esofagus bingung antara buka atau tutup karna saat bicara itu harus kebuka karna pita suara hrus kebuka jg, pas makan sambil ngomong dia bingung jadi makanan itu masuknya ke paru paru jadi batuk lambung itu jalinan otot yg bisa meremas makanan, ada 2 pintu , atas lower esofagi spinter memastikan makanan masuk tidak kembali ke esofagus pintu lambung bawah pilorus memastikan yg ada di lambung tercicil masuk ke usus tidak sekaligus, dia keluarin 5cc/menit Podcast Dr Gia dan Radit
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-11 21:50:46 +0700 +07'>May 11, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Podcast Dr Gia dan Radit" href="https://til-syarif-25.pages.dev/posts/ytraditwithdrgia/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Fase Tidur
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tidur adalah saat dimana tubuh melakukan restorasi baik fisik maupun mental, siklus tidur terdiri dari light sleep, deep sleep, dan REM (rapid eye movement),Light sleep (tahap 1-2) adalah transisi awal antara terjaga dengan tidur , deep sleep (tahap 3-4) memperbaiki jaringan tubuh dan imun, lalu REM itu fase mimpi yang mengonsolidasi memori.
+Tiap siklus tidur dan fungsinya
+Light sleep (tahap 1&amp;2) Cirinya adalah Tubuh mulai rileks, detak jantung dan napas melambat, suhu tubuh menurun, mudah terbangun oleh suara kecil, fungsinya adalah transisi antara bangun dan tidur nyenyak, durasinya mencakup 50-60% waktu tidur.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-10 13:57:02 +0700 +07'>May 10, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Fase Tidur" href="https://til-syarif-25.pages.dev/posts/tidur/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Yusuf
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Yusuf ketuurnan (Azhar)-&gt;Ibrahim-&gt;Ishak-&gt;Yaqub-&gt;Yusuf, keturunan nabi nabi Manusia yg punya anugerah kegantengan setengah pria di seluruh dunia Ahsanal Qosos -&gt; Kisah yang paling baik
+Siapa nabi yusuf ? ibunya bernama rahil, nabi yaqub menikahi adik kaka anak dari pamanya , lahir 12 anak laki laki yusuf termasuk, yusuf dan bunyamin
+1745-1635SM , sekitar 1700 tahun sblm masehi, 3800 an th yg lalu
+Nama nama ketuurnan yusuf tidak ada nabi, yusuf dikenal dikenal sifat menjaga kesucian diri , sealu amanah,santun sabar lapang dada, walau saudara memusuhi karna iri ketampanan , lebih diperhatikan oleh ortu, yusuf sabar
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-09 13:07:04 +0700 +07'>May 9, 2026</span>&nbsp;·&nbsp;<span>6 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Yusuf" href="https://til-syarif-25.pages.dev/posts/yusuf/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Kenapa Waktu Bisa Berjalan Berbeda
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Ini topik yang sedikit membingungkan memang, saya hanya menulis konsep kasaranya saja dari baca baca beberapa menit
+Kita sering dengar kalau “sesuatu” yang bergerak dengan kecepatan mendekati cahaya waktu di sana berjalan lebih lambat, misal orang yang berada di pesawat bergerak dengan kecepatan 99% cahaya selama satu tahun, sebetulnya yang dilalui di bumi itu sudah 7 tahun. jadi kalau kembali ke bumi, orang orang di bumi 7 tahun lebih tua. Lah ko bisa??
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-08 20:05:40 +0700 +07'>May 8, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Kenapa Waktu Bisa Berjalan Berbeda" href="https://til-syarif-25.pages.dev/posts/waktu/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Kenapa Angka 4 dan 13 Sering Diskip
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Karena di eastern culture, angka 4 itu cara pengucapanya sama dengan “kematian” yaitu “Si” atau “Se”. angka tersebut seringkali dikaitkan dengan nasib buruk/bad luck. sementara itu, ketakutan akan angka 13 itu berasal dari budaya barat.
+konon ini berasal dari kisah tradisi kristiani yaitu penjamuan terakhir sebelum Yesus disalib, pada jamuan itu ada 13 orang yang hadir yaitu yesus dan ke 12 muridnya nah, orang ke 13 ini nama yudas iskariot sering disebut sebagai yang menempati posisi tersebut, (yudas ini pengkhianat yg menghianati yesus)
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-07 22:08:18 +0700 +07'>May 7, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Kenapa Angka 4 dan 13 Sering Diskip" href="https://til-syarif-25.pages.dev/posts/lift4/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://til-syarif-25.pages.dev/posts/page/5/">
+      «&nbsp;Sebelumnya&nbsp;
+    </a>
+    <a class="next" href="https://til-syarif-25.pages.dev/posts/page/7/">Selanjutnya&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="https://til-syarif-25.pages.dev/">Today I Learned</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

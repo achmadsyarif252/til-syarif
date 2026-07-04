@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.160.1"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Today I Learned</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="https://til-syarif-25.pages.dev/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.89b7719e590b7093641f528acc0a51406b13854b129442c63ee92c394192a2bb.css" integrity="sha256-ibdxnlkLcJNkH1KKzApRQGsThUsSlELGPuksOUGSors=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://til-syarif-25.pages.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://til-syarif-25.pages.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://til-syarif-25.pages.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://til-syarif-25.pages.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="https://til-syarif-25.pages.dev/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://til-syarif-25.pages.dev/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="https://til-syarif-25.pages.dev/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><style>
+.streak-badge {
+  position: absolute;
+  right: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.streak-badge span.fire {
+  display: inline-block;
+  animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const homeInfo = document.querySelector('.home-info');
+  const title = document.querySelector('.home-info h1');
+  if (homeInfo && title) {
+    const badge = document.createElement('div');
+    badge.className = 'streak-badge';
+    badge.innerHTML = '<span class="fire">🔥</span> 61';
+    badge.style.top = title.offsetTop + 'px'; 
+    homeInfo.appendChild(badge);
+  }
+});
+</script><meta property="og:url" content="https://til-syarif-25.pages.dev/">
+  <meta property="og:site_name" content="Today I Learned">
+  <meta property="og:title" content="Today I Learned">
+  <meta property="og:locale" content="id">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Today I Learned">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Today I Learned",
+  "url": "https://til-syarif-25.pages.dev/",
+  "description": "",
+  "logo": "https://til-syarif-25.pages.dev/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="https://til-syarif-25.pages.dev/" accesskey="h" title="Today I Learned (Alt + H)">Today I Learned</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="https://til-syarif-25.pages.dev/posts/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://til-syarif-25.pages.dev/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">20ksteps
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>20K steps itu setara berapa KM ?
+Rata rata langkah kaki orang dewasa itu 2 langkah = 1.5 meter (sangat sangat bergantung pada faktor lain sih, tapi ambil umumnya)
+berarti kalau 20k langkah itu sekitar 1,5 meter ÷ 2 langkah = 0,75 meter/langkah 20.000 langkah × 0,75 meter = 15.000 meter 15.000 meter = 15 KM
+Kalori yang terbakar itu sekitar 800 kalori (bergantung berat badan)
+Berat 55 kg: Sekitar 675 kalori. Berat 70 kg: Sekitar 835 kalori. Berat 85 kg: Sekitar 1.000 kalori atau lebih
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-26 19:16:07 +0700 +07'>April 26, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to 20ksteps" href="https://til-syarif-25.pages.dev/posts/20ksteps/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Rumi
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Jalaludin Al Rumi itu ternyata hidup dan berada di satu zaman yang sama dengan hancurnya baitul hikmah (1258, saat itu al rumi berusia sekitar 51 tahun, di konya turkey saat ini) yang diserang oleh pasukan mongol, baru tau juga waktu itu baghdad terpecah belah menjadi banyak daerah pas dikepung sama ribuan pasukan mongol hancur semua, nama sungai yang yipakai untuk buang puluhan atau bahkan ratusan ribu buku itu ke sungai Tigris
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-25 21:39:34 +0700 +07'>April 25, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Rumi" href="https://til-syarif-25.pages.dev/posts/rumi/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Aaverreos
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Ibnu Rusyd lahir di cordoba , andalusia (spanyol) 1126 adalah seorang polymath (menguasai berbagai bidang ), hukum islam (fiqih) dan kedokteran, beliau juga hakim di cordoba, salah satu bukunya berjudul bidayat al mujtahid masih jadi rujukan sampai sekrang untuk perbandingan mahzab karna objektivitasnya.
+Beliau sempat diasingkan karna dianggap terlalu rasional oleh kaum konservatif, karyanya sempat dilarang di spanyol, beliau meninggal di maroko tahun 1198, ibny rusyd juga yang memperkenalkan yunani kuno ke eropa yang sekarang jadi basis pengetahuan jaman sekarang, bisa dibilang beliau berpengaruh juga terhadap reinesance (kebangkitan eropa) , masa kelam eropa itu tahun 400-1100 an.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-24 10:34:25 +0700 +07'>April 24, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Aaverreos" href="https://til-syarif-25.pages.dev/posts/aaveroos/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Insulin
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Apa itu Insulin ?
+insulin adalah hormon yang diprodusi oleh pankreas letaknya itu di belakang lambung dekat dengan usus halus, gunanya itu untuk membuka “pintu” agar molekul glukosa bisa masuk ke dalam sel dan lalu dipakai untuk dijadikan energi oleh si sel, jadi analoginya ya mirip kaya kunci dan rumah, insulin sbg kunci untuk buka pintu agar bisa masuk ke rumah (sel)
+Saat kita makan makanan yang mengandung karbohidrat atau gula2an, nanti akan diproses menjadi glukosa dan larut dalam darah,nah setelah gula darah itu naik nnati pankreas bakal notice wah ada lonjakan gula darah, mereka produksilah itu insulin lalu ditangkapin lah itu dan masuk ke sel untuk jadi energi ,nah glukosa yang mengambang ini nanti akan dibagi bagi tuh, ada yang masuk ke dalam sel lewat bantuan insulin tadi, kalau sudah cukup nanti dia bakal jadi glikogen atau cadangan energi nanti disimpan di hati dan juga otot, tapi glikogen ini tuh punya tangki ada kapasitasnya, nah kalau penuh nanti dia bakal di endepin tuh di jaringan lemak (lemak ini tempat unlimited untuk simpan cadangan energi)
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-24 10:34:08 +0700 +07'>April 24, 2026</span>&nbsp;·&nbsp;<span>3 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Insulin" href="https://til-syarif-25.pages.dev/posts/insulin/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">52!
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Seberapa besar 52! itu ?
+Faktorial itu adalah perkalian bilangan bulai positif dari n sampai ke 1 secara berurutan dengan membawa hasil dari perkalian angka sebelumnya, faktorial dilambangkan dengan ! (tanda seru)
+Contoh
+1! = 1 2! = 2 x 1 = 2 3! = 3 x 2 x 1 = 6 4! = 4 x 3 x 2 x 1 = 24
+Guna faktorial itu untuk menghitung suatu kombinasi seperti “ada berapa banyak cara untuk menyusun atau mengurutkan sesuatu”
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-23 19:40:45 +0700 +07'>April 23, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to 52!" href="https://til-syarif-25.pages.dev/posts/faktorial/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Source Code Manusia
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Deoxyribonucleic Acid cukup sulit menulis dan mengejanya , alias DNA.
+Tubuh manusia itu terdiri dari miliaran sel, di dalam sel itu ada inti sel atau yang dinakamakan dengan nukleus , nah di dalam nukleus ini ada yang namanya DNA, dna ini bentuknya mirip seperti double helix , ada anak tangga yang berisi catatan atau intruksi kode untuk tubuh manusia, intruksinya hanya pakai huruf namanya basa nitrogen , ATCG , kumpulan dari dna itu namanya kromosom
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-22 21:40:45 +0700 +07'>April 22, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Source Code Manusia" href="https://til-syarif-25.pages.dev/posts/source_code_manusia/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Abu Hamid Muhammad Bin Muhammad AlGhazali
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Al Ghazali adalah salah satu tokoh paling berpengaruh dalam sejarah pemikiran islam, nama lengkap beliau adalah Abu Hamid Muhammad bin Muhammad Al Ghazali at-thusi, lahir di Thus, iran tahun 1058, beliau punya julukan hujatul islam (bukti kebenaran islam) karena pembelaanya terhadap ajaran islam dari gempuran pemikiran filsafat yunani yang ekstrim pada saat itu.
+Beliau adalah seorang jenius, pada saat masih muda dia sudah menjadi rektor di madrasah Nizhamiyah di baghdad, karya karyanya juga sangat terkenal bahkan masih menjadi rujukan dan perbincangan hingga saat ini.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-21 20:11:39 +0700 +07'>April 21, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Abu Hamid Muhammad Bin Muhammad AlGhazali" href="https://til-syarif-25.pages.dev/posts/abu-hamid-muhammad-bin-muhammad-alghazali/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Pelapis Tangki Pesawat
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tangki Pesawat Pakai Bahan Pelapis Karet
+Mulanya tangki pesawat itu seperti biasanya pakainya ya logam biasa, namun hal itu akan membahayakan apabila tertembak dan bahan bakar melebar ke mana mana
+Enginerr lalu membuat lapisan tangki pesawat dengan karet sehingga apabila ditembak pun atau terdapat kebocoran dia akan menutup dengan sendirinya (sifat karet sepertinya memang gitu)
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-20 22:17:34 +0700 +07'>April 20, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Pelapis Tangki Pesawat" href="https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Qadr
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Makna Qadr secara leksikal dan pergeseran maknanya
+Tulisan ini sebetulnya adalah salah satu persiapan materi yang akan saya sampaikan pada rapat zoom mendatang dengan teman saya, agar materi lebih terstruktur jadi saya buat tulisan ini. Sekaligus coba buat today i learned yang sudah dari lama pengin dibuat tapi ngga jadi jadi :)
+Secara leksikal qadr itu artinya adalah takaran, ukuran , bersinonim juga dengan takqdir. Seorang leksikografer bernama raghib al isfahani membuat buku yang membahas hal ini tahun 1100 an kalau tidak salah, takaran yan dimaksud adalah seperti ketentuan yang sudah ditetapkan oleh Allah untuk ciptaanya, atau simpelnya adalah aturan yang ditetapkan biasanya terkait sunatullah, contohnya adalah bahwa matahari itu mengelilingi galaksi, manusia bernapas memerlukan oksigen, bumi mengelilingi matahari dan seterusnya. Di masa pre islamic bangsa arab qadr itu tidak mengenal qadr dengan predestinasi namun kenapa di masa sekarang ini makna qadr itu lebih dikenal dengan ketetapan yang Allah buat terhadap hambanya dengan kata lain takdir/predestinasi ? pergeseran makna tersebut cukup panjang sejarahnya, prof mtk yang juga seorang muallaf membahas hal ini mengatakan bahwa ini adalah pergeseran makna teologis.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-20 00:00:00 +0000 UTC'>April 20, 2026</span>&nbsp;·&nbsp;<span>6 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Qadr" href="https://til-syarif-25.pages.dev/posts/2026-04-20-megamacip/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://til-syarif-25.pages.dev/page/7/">
+      «&nbsp;Sebelumnya&nbsp;
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="https://til-syarif-25.pages.dev/">Today I Learned</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

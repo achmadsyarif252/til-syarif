@@ -1,0 +1,20 @@
+{{ $content := replace .Inner "\r\n" "\n" }}
+{{ $verses := split $content "\n\n" }}
+<div class="quran-container">
+  {{ range $verses }}
+    {{ $verse := trim . " \n" }}
+    {{ if ne $verse "" }}
+      {{ $lines := split $verse "\n" }}
+      {{ if ge (len $lines) 2 }}
+        <div class="quran-verse">
+          <div class="quran-arabic">{{ index $lines 0 | safeHTML }}</div>
+          <div class="quran-translation">{{ index $lines 1 | safeHTML }}</div>
+        </div>
+      {{ else }}
+        <div class="quran-verse">
+          <div class="quran-arabic">{{ index $lines 0 | safeHTML }}</div>
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>

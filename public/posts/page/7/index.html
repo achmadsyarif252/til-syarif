@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Posts | Today I Learned</title>
+<meta name="keywords" content="">
+<meta name="description" content="Posts - Today I Learned">
+<meta name="author" content="">
+<link rel="canonical" href="https://til-syarif-25.pages.dev/posts/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.89b7719e590b7093641f528acc0a51406b13854b129442c63ee92c394192a2bb.css" integrity="sha256-ibdxnlkLcJNkH1KKzApRQGsThUsSlELGPuksOUGSors=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://til-syarif-25.pages.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://til-syarif-25.pages.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://til-syarif-25.pages.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://til-syarif-25.pages.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="https://til-syarif-25.pages.dev/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://til-syarif-25.pages.dev/posts/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="https://til-syarif-25.pages.dev/posts/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><style>
+.streak-badge {
+  position: absolute;
+  right: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.streak-badge span.fire {
+  display: inline-block;
+  animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const homeInfo = document.querySelector('.home-info');
+  const title = document.querySelector('.home-info h1');
+  if (homeInfo && title) {
+    const badge = document.createElement('div');
+    badge.className = 'streak-badge';
+    badge.innerHTML = '<span class="fire">🔥</span> 61';
+    badge.style.top = title.offsetTop + 'px'; 
+    homeInfo.appendChild(badge);
+  }
+});
+</script><meta property="og:url" content="https://til-syarif-25.pages.dev/posts/">
+  <meta property="og:site_name" content="Today I Learned">
+  <meta property="og:title" content="Posts">
+  <meta property="og:locale" content="id">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Posts">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://til-syarif-25.pages.dev/posts/"
+    }
+  ]
+}
+</script>
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="https://til-syarif-25.pages.dev/" accesskey="h" title="Today I Learned (Alt + H)">Today I Learned</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="https://til-syarif-25.pages.dev/posts/" title="Blog">
+                    <span class="active">Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://til-syarif-25.pages.dev/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header">
+  <h1>
+    Posts
+  </h1>
+</header>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bangkok
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Nama asli Bangkok, Krungthepmahanakhonamonrattanakosinmahintharayutthayamahadilokphopnopparatrajathaniburiromudomratchaniwetmahasathanamonphimanawatansathitsakkathattiyawitsanukamprasit, sangat panjang karena berasal dari bahasa Pali dan Sanskerta, menggambarkan kemegahan, sejarah, agama, serta perintah raja. Nama tersebut disematkan untuk memuliakan kota sebagai kediaman raja dan dewa.
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-06 23:06:05 +0700 +07'>May 6, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Bangkok" href="https://til-syarif-25.pages.dev/posts/bangkok/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Neutronstar
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tahukan kamu bahwa hanya satu sendok teh bintang neutron itu masanya sekitar 1 triliun kilogram, kok bisa ?
+bintang neutron itu adalah bintang yang sudah mati alias tidak memancarkan energi lagi, saat bintang itu mati dia meledak (supernova) dan intin bintagnya runtuh ke dalam karena gravitasi yang sangat kuat
+kenapa satu sendok teh bintang neutron aja bisa sangat besar massanya, karna umumnya atom itu kan isinya ruangan hampa ya, kalau atom diperbesar ukuran lapangan sepak bola inti atomnya hanya seukuran kelereng, nah di bintang neutron itu atom2nya itu sangat2 padat, gravitasi menekan semua ruang kosong di sana elektron dan proton dipaksa bergabung jadi neutron
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-05 23:12:06 +0700 +07'>May 5, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Neutronstar" href="https://til-syarif-25.pages.dev/posts/neutronstar/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Konjektur
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Konjektur bisa dibilang teorema yang belum dibuktikan melalui persamaan matematis hingga tidak terpatahkan, jadi sebelum konjektur itu menjadi sebuah teorema harus diuji dulu kalau dia break di number tertentu maka konjektur tersebut gagal tidak bisa mejadi teorema.
+konjektur tidak hanya ada di matematika tapi ada di fisikan dan bidang ilmu lainya, tapi kalau di bidang lain sebutan umumnya itu bisa hipotesis, dugaan, dsb, konjektur lebih umum dipakai di matematika.kalau di matematika itu pembuktian konjektur hanya perlu lembaran kertas berisi logika murni kalau mau menentukan “konjektur” di fisika itu melalui observasi untuk membuktikan hipotesis tersebut (misal black hole yang baru terbukti keberadaanya (didapatkan gambarnya th 2019))
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-04 22:32:33 +0700 +07'>May 4, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Konjektur" href="https://til-syarif-25.pages.dev/posts/konjektur/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Berat &amp; Massa
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Apa bedanya berat dan masas?
+Berat itu terkait dengan gaya gravitasi yang bekerja pada suatu benda sedangkan massa itu terkait dengan jumlah materi / atom dalam suatu benda
+Jadi berat itu dia mengikuti dimana benda tersebut diukur karna mengikuti gravitasi, berat suatu benda yg sama akan berbeda apabila diukur di bumi dan di bulan atau planet lain karna dia bergantung ke gravitasi, berat kita akan lebih ringan di bulan karna gravitasi bulan lebih kecil dibandingkan bumi
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-03 22:07:17 +0700 +07'>May 3, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Berat & Massa" href="https://til-syarif-25.pages.dev/posts/berat_massa/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Otot Jantung
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Otot jantung bisa bekerja secara autonomus karena memiliki sekelompok sel khusus yang disebut sel pacu jantung, mirip seperti otot bisep di lengan otot jantung bisa menjadi lebih besar dan kuat melalui latihan
+Saat sering melakukan olahraga kardio (lari,renang, skipping etc) jantung beradaptasi dengan cara membesarkan ruang ruangnya dan menebalkan dinding secara simetris,
+Jantung yang kuat akan lebih efisien dalam memompa darah dia bisa mendorong darah lebih besar dalam satu detakan, orang yang sering olahraga kardio biasanya detak jantung istirahatnya lebih rendah sekitar 40-60bpm dibandingkan orang biasa 6-100bpm
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-02 22:26:49 +0700 +07'>May 2, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Otot Jantung" href="https://til-syarif-25.pages.dev/posts/otot-jantung/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Mayday
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tanggal 1 Mei diperingati sebagai hari buruh internasional, atau biasa disebut May Day, sejarah penetapan hari buruh ini cukup kelam, berawal pada akhir abad ke 19
+Tepatnya tahun 1 Mei 1886 asosiasi buruh di Amerika melakukan demonstrasi besar besaran, ratusan ribu buruh &#43;-400.000 buruh turun ke jalan di chicago, USA menuntut jam kerja yang manusiawi menjadi hanya 8 jam saya, sebelumnya para buruh dipaksa bekerja antara 10-16 jam dengan lingkungan yang tidak layak juga.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-01 20:00:30 +0700 +07'>May 1, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Mayday" href="https://til-syarif-25.pages.dev/posts/mayday/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Neuroplasticity
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Neuroplastisitas adalah proses pembentukan jalur baru di otak saat kita belajar sesuatu, saat kita belajar atau beraktivitas otak akan mengirimkan sinyal listrik dari neuron ke neuron penerima di ujung neuron itu ada celah antar neuron itu namanya sinapsis, kabel dari neuron itu namanya akson,ujung neuron itu namanay terminal akson ,nah sinyal listrik ini tidak bisa lewat tuh antar celah neuron tersebut makanya perlu diubah ke sinyal kimia, sinyal kimia inilah yang akan “nyebrang” ke neuron sebelah dan kembali nanti diubah kembali jadi sinyal listrik. zat pembawa sinyal listrik ke kimia terssebut namanya neurotransmiter.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-30 21:36:50 +0700 +07'>April 30, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Neuroplasticity" href="https://til-syarif-25.pages.dev/posts/neuroplasticity/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Paganisme
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Paganisme adalah sebutan untuk kepercayaan yang menyembah banyak dewa (politeisme) dan sangat menghormati alam semesta
+sudah ada sejak zaman dahulu kala bahkan sebelum istilah paganisme (1600 tahun lalu) ada dari zaman pra aksara sampai sekarang pun ada (namanya neopaganisme)
+Fakta menarik, nama nama hari dalam bahasa inggris itu berasal dari dewa dalam paganisme misal wednesday dari weden (odin), thursday dari Thor , friday dari frigg atau freya
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-29 23:09:13 +0700 +07'>April 29, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Paganisme" href="https://til-syarif-25.pages.dev/posts/paganisme/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Inersia
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Inersia itu hukum newton 1 yang intinya itu sebuah benda itu akan berada tetap di posisi baik diam ataupun saat bergerak jika tidak ada gaya yang mempengaruhi benda tersebut.
+Misal saat orang melompat di dalam kereta dia akan ikut tetap bergerak bersama dengan laju kereta tapi misal orang di dalam bus supirnya berhenti mendadak (ada gaya tambahan yang membuat) orang di dalamnya itu akan cenderung terus bergerak dengan kecepatan yg sama seperti sebelum mengerem makanya kaya mau terjungkal
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-28 19:49:42 +0700 +07'>April 28, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Inersia" href="https://til-syarif-25.pages.dev/posts/inersia/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Ltc
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>LTC Glodok (lindeteves trade center) dulu kawasan itu adalah bekas gudang dan kantor perusahaan lindeteves, lindeteves ini adalah perusahaan kolonial raksasa, salah satu the big five di hindia belanda zaman dulu, didirikan oleh J.A. Van der Linde dan J.C Teves, dulu perusahaan ini menyuplai peralatan untuk pabrik gula dan perkebunan, pusatnya ada di semarang ada juga di surabaya dan jakarta
+saat pendudukan jepang, sempat dijadikan tempat untuk reparasi tank setelah masa kemerdekaan tempat itu dinasionalisasi oleh pemerintah indonesia, lalu jadi kawasan tempat jual beli peralatan teknik karna reputasi dari dulu sudah bagus untuk tempat beli peralatan elektroni,
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-04-27 21:51:55 +0700 +07'>April 27, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Ltc" href="https://til-syarif-25.pages.dev/posts/ltc/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://til-syarif-25.pages.dev/posts/page/6/">
+      «&nbsp;Sebelumnya&nbsp;
+    </a>
+    <a class="next" href="https://til-syarif-25.pages.dev/posts/page/8/">Selanjutnya&nbsp;&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="https://til-syarif-25.pages.dev/">Today I Learned</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Journal on Today I Learned</title>
+    <link>https://til-syarif-25.pages.dev/tags/journal/</link>
+    <description>Recent content in Journal on Today I Learned</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 11 Jun 2026 18:39:01 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discomfort</title>
+      <link>https://til-syarif-25.pages.dev/posts/discomfort/</link>
+      <pubDate>Thu, 11 Jun 2026 18:39:01 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/discomfort/</guid>
+      <description>&lt;p&gt;Andrej Karpathy once said that effective learning requires intentional work. The &amp;lsquo;pain&amp;quot; or discomfort we feel while leraning is an indicator that our brain is outside its comfort zone. From neuroscience perspective, this discomfort triggers the release of neuromodulators that help our brain focus, ultimately enabling neurons to form and strengthen new synaptic connections regarding the topics we have not mastered yet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

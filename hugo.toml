@@ -3,6 +3,12 @@ languageCode = "id"
 title = "Today I Learned"
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardLineBreak = true
+      unsafe = true
+
 [params]
   homeInfoParams = {Title = "Today I Learned", Content = "Hal-hal kecil yang saya pelajari setiap hari."}
   ShowReadingTime = true

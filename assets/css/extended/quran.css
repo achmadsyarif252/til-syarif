@@ -1,0 +1,68 @@
+/* Quranic Styling for TIL blog */
+
+.quran-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  margin: 2rem 0;
+}
+
+.quran-verse {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.quran-verse:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+/* Beautiful Arabic typography */
+.quran-arabic {
+  font-family: "Scheherazade New", "Amiri", "Traditional Arabic", "Noto Naskh Arabic", "DejaVu Sans", serif;
+  font-size: 2.2rem;
+  line-height: 2.4;
+  text-align: right;
+  direction: rtl;
+  color: var(--primary);
+  margin-bottom: 0.75rem;
+  font-weight: 500;
+  word-spacing: 0.05em;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Arabic Verse Number styling */
+.quran-number {
+  font-family: "Scheherazade New", "Amiri", serif;
+  font-size: 1.8rem;
+  color: var(--primary);
+  margin-right: 0.5rem;
+  font-weight: bold;
+}
+
+/* Translation typography */
+.quran-translation {
+  font-size: 1.05rem;
+  line-height: 1.65;
+  text-align: left;
+  direction: ltr;
+  color: var(--primary);
+  opacity: 0.9;
+  padding-left: 0.25rem;
+  border-left: 3px solid var(--border);
+  padding-left: 1rem;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .quran-arabic {
+    font-size: 1.75rem;
+    line-height: 2.2;
+  }
+  .quran-translation {
+    font-size: 0.95rem;
+  }
+}
+

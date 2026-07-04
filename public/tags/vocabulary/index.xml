@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vocabulary on Today I Learned</title>
+    <link>https://til-syarif-25.pages.dev/tags/vocabulary/</link>
+    <description>Recent content in Vocabulary on Today I Learned</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 18 Jun 2026 22:28:36 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/tags/vocabulary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vocab</title>
+      <link>https://til-syarif-25.pages.dev/posts/vocab/</link>
+      <pubDate>Thu, 18 Jun 2026 22:28:36 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/vocab/</guid>
+      <description>&lt;p&gt;Immaculate : sangat rapi,sempurna, sangat bersih, tanpa noda dan cacat.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

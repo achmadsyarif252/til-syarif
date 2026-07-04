@@ -6,8 +6,31 @@
     <description>Recent content in Sains on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 27 May 2026 23:14:12 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 22:49:30 +0700</lastBuildDate>
     <atom:link href="https://til-syarif-25.pages.dev/tags/sains/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Udara Ringan dan Berat</title>
+      <link>https://til-syarif-25.pages.dev/posts/udarapengap/</link>
+      <pubDate>Sun, 28 Jun 2026 22:49:30 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/udarapengap/</guid>
+      <description>&lt;p&gt;Kenapa kalau tidur di kamar dengan pintu yang tertutup rapat udara yang dihirup terasa agak berat , hangat dan agak sesak ? tapi kalau pintunya dibuka sedikit saja, sensasi segar dan plong langsung terasa secara instan ?&lt;/p&gt;
+&lt;p&gt;Ternyata dibalik celah pintu yang terbuka tersebut ada tiga hukum fundamental alam semesa yang bekerja sama secara harmonis : Entropi, Termodinamika, dan Mekanika Fluida.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Entropi : Mengapa udara pengap harus menyebar ?
+Sebab utama mengapa kamar terasa pengap adalah penumpukan karbondioksida dari embusan napas misal dua orang atau lebih, ditambah uap air dari keringat. Di alam sememsta, ada satu hukum mutlak yang disebut hukum termodinamika kedua, yang memperenalkan konsep bernama entropi.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Entropi adalah ukuran derajat keacakan atau kecenderungan alami sesuatu di alam semesta untuk bergerak dari kondisi teratur menjadi acak, menyebar dan seimbang. simpelnya entropi adalah tingkat kecendurangan keacakan sesuatu di alam semesta, dan semua hal di alam semesta itu mengalami entropi, ada banyak cara untuk membuat acak kamar tidur, bantal di lantai, seprei di acak acak, buku berserakan dsb, tapi ada sedikit atau terbatas cara untuk membuat kamar tersebut rapi, misal buku ditaruh di rak buku, seprei dilipat disipman di lemari dsb&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memory</title>
+      <link>https://til-syarif-25.pages.dev/posts/memory/</link>
+      <pubDate>Thu, 25 Jun 2026 23:40:16 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/memory/</guid>
+      <description>&lt;p&gt;Hari ini saya belajar dari video Kurzgesagt (&lt;a href=&#34;https://youtu.be/PqtggjVAi8M&#34;&gt;How Are Memories Stored Inside Your Brain?&lt;/a&gt;). Ternyata memori kita itu tidak seperti hardisk yang statis tapi dia sesuatu yang bilogis, hidup, dan dinamis.&lt;/p&gt;
+&lt;p&gt;1.Memori adalah pola &amp;ldquo;Obrolan&amp;rdquo; antar neuron&lt;/p&gt;
+&lt;p&gt;otak manusia punya sekitar 86 miliar neuron, ketika kita mengalami sesuatu neuron2 ini saling mengirim sinyal elektrokimia melalu celah kecil bernama synapsis&lt;/p&gt;
+&lt;p&gt;Saat ada dua neuron yang menyala (&lt;em&gt;fire&lt;/em&gt;) secara bersamaan, hubungan mereka menguat. kumpulan dari berbagai neuron dari bagian otak yang berbeda (suara,visual,emosi) yang bersamaan ini memebtnuk sebuah kesatuan aktivitas bernama assembly, inilah yang menjadi wujud fisik dari momen yang kita alami&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Doppler Effect</title>
       <link>https://til-syarif-25.pages.dev/posts/doppler/</link>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neuroscience on Today I Learned</title>
+    <link>https://til-syarif-25.pages.dev/tags/neuroscience/</link>
+    <description>Recent content in Neuroscience on Today I Learned</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 25 Jun 2026 23:40:16 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory</title>
+      <link>https://til-syarif-25.pages.dev/posts/memory/</link>
+      <pubDate>Thu, 25 Jun 2026 23:40:16 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/memory/</guid>
+      <description>&lt;p&gt;Hari ini saya belajar dari video Kurzgesagt (&lt;a href=&#34;https://youtu.be/PqtggjVAi8M&#34;&gt;How Are Memories Stored Inside Your Brain?&lt;/a&gt;). Ternyata memori kita itu tidak seperti hardisk yang statis tapi dia sesuatu yang bilogis, hidup, dan dinamis.&lt;/p&gt;
+&lt;p&gt;1.Memori adalah pola &amp;ldquo;Obrolan&amp;rdquo; antar neuron&lt;/p&gt;
+&lt;p&gt;otak manusia punya sekitar 86 miliar neuron, ketika kita mengalami sesuatu neuron2 ini saling mengirim sinyal elektrokimia melalu celah kecil bernama synapsis&lt;/p&gt;
+&lt;p&gt;Saat ada dua neuron yang menyala (&lt;em&gt;fire&lt;/em&gt;) secara bersamaan, hubungan mereka menguat. kumpulan dari berbagai neuron dari bagian otak yang berbeda (suara,visual,emosi) yang bersamaan ini memebtnuk sebuah kesatuan aktivitas bernama assembly, inilah yang menjadi wujud fisik dari momen yang kita alami&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

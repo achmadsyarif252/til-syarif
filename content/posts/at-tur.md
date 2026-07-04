@@ -5,6 +5,7 @@ title = 'Ayat Hari Ini : At Tur 21-28'
 tags = ["Agama"]
 +++
 
+{{< quran >}}
 وَالَّذِيۡنَ اٰمَنُوۡا وَاتَّبَعَتۡهُمۡ ذُرِّيَّتُهُمۡ بِاِيۡمَانٍ اَلۡحَـقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَاۤ اَلَـتۡنٰهُمۡ مِّنۡ عَمَلِهِمۡ مِّنۡ شَىۡءٍ​ؕ كُلُّ امۡرِیءٍۢ بِمَا كَسَبَ رَهِيۡنٌ‏ ٢١
 Dan orang-orang yang beriman, beserta anak cucu mereka yang mengikuti mereka dalam keimanan, Kami pertemukan mereka dengan anak cucu mereka (di dalam surga), dan Kami tidak mengurangi sedikit pun pahala amal (kebajikan) mereka. Setiap orang terikat dengan apa yang dikerjakannya.
 
@@ -28,6 +29,4 @@ Maka Allah memberikan karunia kepada kami dan memelihara kami dari azab neraka.
 
 اِنَّا كُـنَّا مِنۡ قَبۡلُ نَدۡعُوۡهُ​ ؕ اِنَّهٗ هُوَ الۡبَـرُّ الرَّحِيۡمُ‏ ﻿﻿ ٢٨
 Sesungguhnya kami menyembah-Nya sejak dahulu. Dialah Yang Maha Melimpahkan Kebaikan, Maha Penyayang."
-
-
-
+{{< /quran >}}
