@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Rsa | Today I Learned</title>
+<meta name="keywords" content="Tech, Math, Security">
+<meta name="description" content="RSA (Rivest-Shamir-Adleman) adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:
+
+Public Key: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan).
+Private Key: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan).
+
+Keamanan RSA bertumpu pada matematika dasar: sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).">
+<meta name="author" content="">
+<link rel="canonical" href="https://til-syarif-25.pages.dev/posts/rsa/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.89b7719e590b7093641f528acc0a51406b13854b129442c63ee92c394192a2bb.css" integrity="sha256-ibdxnlkLcJNkH1KKzApRQGsThUsSlELGPuksOUGSors=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://til-syarif-25.pages.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://til-syarif-25.pages.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://til-syarif-25.pages.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://til-syarif-25.pages.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="https://til-syarif-25.pages.dev/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://til-syarif-25.pages.dev/posts/rsa/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><style>
+.streak-badge {
+  position: absolute;
+  right: 0;
+  font-size: 2rem;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.streak-badge span.fire {
+  display: inline-block;
+  animation: pulse 1.5s infinite;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const homeInfo = document.querySelector('.home-info');
+  const title = document.querySelector('.home-info h1');
+  if (homeInfo && title) {
+    const badge = document.createElement('div');
+    badge.className = 'streak-badge';
+    badge.innerHTML = '<span class="fire">🔥</span> 62';
+    badge.style.top = title.offsetTop + 'px'; 
+    homeInfo.appendChild(badge);
+  }
+});
+</script><meta property="og:url" content="https://til-syarif-25.pages.dev/posts/rsa/">
+  <meta property="og:site_name" content="Today I Learned">
+  <meta property="og:title" content="Rsa">
+  <meta property="og:description" content="RSA (Rivest-Shamir-Adleman) adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:
+Public Key: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan). Private Key: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan). Keamanan RSA bertumpu pada matematika dasar: sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).">
+  <meta property="og:locale" content="id">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-07-05T23:05:06+07:00">
+    <meta property="article:modified_time" content="2026-07-05T23:05:06+07:00">
+    <meta property="article:tag" content="Tech">
+    <meta property="article:tag" content="Math">
+    <meta property="article:tag" content="Security">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Rsa">
+  <meta name="twitter:description" content="RSA (Rivest-Shamir-Adleman) adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:
+Public Key: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan). Private Key: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan). Keamanan RSA bertumpu pada matematika dasar: sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://til-syarif-25.pages.dev/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Rsa",
+      "item": "https://til-syarif-25.pages.dev/posts/rsa/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Rsa",
+  "name": "Rsa",
+  "description": "RSA (Rivest-Shamir-Adleman) adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:\nPublic Key: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan). Private Key: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan). Keamanan RSA bertumpu pada matematika dasar: sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).\n",
+  "keywords": [
+    "Tech", "Math", "Security"
+  ],
+  "articleBody": "RSA (Rivest-Shamir-Adleman) adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:\nPublic Key: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan). Private Key: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan). Keamanan RSA bertumpu pada matematika dasar: sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).\nContoh Sederhana RSA (dengan angka kecil) Mari kita buat simulasi sederhana untuk mengerti alur matematika di balik RSA.\n1. Pembuatan Kunci (Key Generation) Pilih dua bilangan prima (p dan q): Misal kita pilih angka prima kecil:\np = 3 q = 11 Hitung nilai n: n = p * q = 3 * 11 = 33 (Nilai n ini akan dibagikan ke publik).\nHitung Fungsi Totient Euler / phi(n): phi(n) = (p - 1) * (q - 1) = 2 * 10 = 20\nPilih eksponen enkripsi (e): Pilih e yang relatif prima dengan phi(n) (artinya FPB dari e dan phi(n) adalah 1), dan 1 \u003c e \u003c phi(n). Misal kita pilih e = 3 (karena FPB dari 3 dan 20 adalah 1).\nPublic Key kita adalah: (e, n) = (3, 33)\nHitung eksponen dekripsi (d): Nilai d harus memenuhi persamaan matematika: (d * e) % phi(n) = 1. Dengan e = 3 dan phi(n) = 20, kita mencari d sedemikian rupa sehingga (d * 3) % 20 = 1. Kita bisa coba-coba:\nJika d = 7, maka (7 * 3) = 21. 21 % 20 = 1 (Cocok!) Jadi d = 7.\nPrivate Key kita adalah: (d, n) = (7, 33)\n2. Proses Enkripsi Katakanlah kita ingin mengirim pesan berupa angka M = 9 (nilai M harus lebih kecil dari n).\nRumus Enkripsi: C = (M^e) % n\nMasukkan angka kita: C = (9^3) % 33 C = 729 % 33\nJika kita bagi 729 dengan 33, didapat 729 = (33 * 22) + 3. Sisa pembagiannya adalah 3. Jadi, pesan terenkripsi (Ciphertext / C) yang dikirim adalah 3.\n3. Proses Dekripsi Penerima mendapatkan pesan C = 3. Untuk membacanya kembali, penerima menggunakan Private Key (d, n) = (7, 33).\nRumus Dekripsi: M = (C^d) % n\nMasukkan angka kita: M = (3^7) % 33 M = 2187 % 33\nJika kita bagi 2187 dengan 33, didapat 2187 = (33 * 66) + 9. Sisa pembagiannya adalah 9. Pesan berhasil dikembalikan menjadi pesan asli, yaitu 9!\nKenapa RSA Aman? Di dunia nyata, bilangan prima p dan q yang digunakan tidak sekecil 3 dan 11, melainkan angka super raksasa dengan panjang ratusan hingga ribuan digit (seperti pada standar RSA 2048-bit).\nMeskipun semua orang tahu nilai n (karena disebar di Public Key), komputer super tercanggih saat ini pun butuh waktu ratusan hingga ribuan tahun hanya untuk memfaktorkan n menjadi p dan q. Tanpa mengetahui p dan q, orang lain tidak akan bisa mencari nilai d untuk mendekripsi pesan tersebut.\n",
+  "wordCount" : "491",
+  "inLanguage": "en",
+  "datePublished": "2026-07-05T23:05:06+07:00",
+  "dateModified": "2026-07-05T23:05:06+07:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://til-syarif-25.pages.dev/posts/rsa/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Today I Learned",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://til-syarif-25.pages.dev/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="https://til-syarif-25.pages.dev/" accesskey="h" title="Today I Learned (Alt + H)">Today I Learned</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+            <li>
+                <a href="https://til-syarif-25.pages.dev/posts/" title="Blog">
+                    <span>Blog</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://til-syarif-25.pages.dev/about/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Rsa
+    </h1>
+    <div class="post-meta"><span title='2026-07-05 23:05:06 +0700 +07'>July 5, 2026</span>&nbsp;·&nbsp;<span>3 menit</span>
+
+</div>
+  </header> 
+  <div class="post-content md-content"><p><strong>RSA (Rivest-Shamir-Adleman)</strong> adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:</p>
+<ol>
+<li><strong>Public Key</strong>: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan).</li>
+<li><strong>Private Key</strong>: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan).</li>
+</ol>
+<p>Keamanan RSA bertumpu pada matematika dasar: <strong>sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).</strong></p>
+<hr>
+<h3 id="contoh-sederhana-rsa-dengan-angka-kecil">Contoh Sederhana RSA (dengan angka kecil)<a hidden class="anchor" aria-hidden="true" href="#contoh-sederhana-rsa-dengan-angka-kecil">#</a></h3>
+<p>Mari kita buat simulasi sederhana untuk mengerti alur matematika di balik RSA.</p>
+<h4 id="1-pembuatan-kunci-key-generation">1. Pembuatan Kunci (Key Generation)<a hidden class="anchor" aria-hidden="true" href="#1-pembuatan-kunci-key-generation">#</a></h4>
+<ul>
+<li>
+<p><strong>Pilih dua bilangan prima (p dan q):</strong>
+Misal kita pilih angka prima kecil:</p>
+<ul>
+<li><code>p = 3</code></li>
+<li><code>q = 11</code></li>
+</ul>
+</li>
+<li>
+<p><strong>Hitung nilai n:</strong>
+<code>n = p * q = 3 * 11 = 33</code>
+<em>(Nilai n ini akan dibagikan ke publik).</em></p>
+</li>
+<li>
+<p><strong>Hitung Fungsi Totient Euler / phi(n):</strong>
+<code>phi(n) = (p - 1) * (q - 1) = 2 * 10 = 20</code></p>
+</li>
+<li>
+<p><strong>Pilih eksponen enkripsi (e):</strong>
+Pilih <code>e</code> yang relatif prima dengan <code>phi(n)</code> (artinya FPB dari <code>e</code> dan <code>phi(n)</code> adalah 1), dan <code>1 &lt; e &lt; phi(n)</code>.
+Misal kita pilih <code>e = 3</code> (karena FPB dari 3 dan 20 adalah 1).</p>
+<blockquote>
+<p><strong>Public Key</strong> kita adalah: <code>(e, n) = (3, 33)</code></p>
+</blockquote>
+</li>
+<li>
+<p><strong>Hitung eksponen dekripsi (d):</strong>
+Nilai <code>d</code> harus memenuhi persamaan matematika: <code>(d * e) % phi(n) = 1</code>.
+Dengan <code>e = 3</code> dan <code>phi(n) = 20</code>, kita mencari <code>d</code> sedemikian rupa sehingga <code>(d * 3) % 20 = 1</code>.
+Kita bisa coba-coba:</p>
+<ul>
+<li>Jika <code>d = 7</code>, maka <code>(7 * 3) = 21</code>.</li>
+<li><code>21 % 20 = 1</code> <em>(Cocok!)</em></li>
+</ul>
+<p>Jadi <code>d = 7</code>.</p>
+<blockquote>
+<p><strong>Private Key</strong> kita adalah: <code>(d, n) = (7, 33)</code></p>
+</blockquote>
+</li>
+</ul>
+<hr>
+<h4 id="2-proses-enkripsi">2. Proses Enkripsi<a hidden class="anchor" aria-hidden="true" href="#2-proses-enkripsi">#</a></h4>
+<p>Katakanlah kita ingin mengirim pesan berupa angka <code>M = 9</code> (nilai <code>M</code> harus lebih kecil dari <code>n</code>).</p>
+<p>Rumus Enkripsi:
+<code>C = (M^e) % n</code></p>
+<p>Masukkan angka kita:
+<code>C = (9^3) % 33</code>
+<code>C = 729 % 33</code></p>
+<p>Jika kita bagi 729 dengan 33, didapat <code>729 = (33 * 22) + 3</code>. Sisa pembagiannya adalah <code>3</code>.
+Jadi, <strong>pesan terenkripsi (Ciphertext / C) yang dikirim adalah 3</strong>.</p>
+<hr>
+<h4 id="3-proses-dekripsi">3. Proses Dekripsi<a hidden class="anchor" aria-hidden="true" href="#3-proses-dekripsi">#</a></h4>
+<p>Penerima mendapatkan pesan <code>C = 3</code>. Untuk membacanya kembali, penerima menggunakan Private Key <code>(d, n) = (7, 33)</code>.</p>
+<p>Rumus Dekripsi:
+<code>M = (C^d) % n</code></p>
+<p>Masukkan angka kita:
+<code>M = (3^7) % 33</code>
+<code>M = 2187 % 33</code></p>
+<p>Jika kita bagi 2187 dengan 33, didapat <code>2187 = (33 * 66) + 9</code>. Sisa pembagiannya adalah <code>9</code>.
+Pesan berhasil dikembalikan menjadi pesan asli, yaitu <strong>9</strong>!</p>
+<hr>
+<h3 id="kenapa-rsa-aman">Kenapa RSA Aman?<a hidden class="anchor" aria-hidden="true" href="#kenapa-rsa-aman">#</a></h3>
+<p>Di dunia nyata, bilangan prima <code>p</code> dan <code>q</code> yang digunakan tidak sekecil 3 dan 11, melainkan angka super raksasa dengan panjang ratusan hingga ribuan digit (seperti pada standar RSA 2048-bit).</p>
+<p>Meskipun semua orang tahu nilai <code>n</code> (karena disebar di Public Key), komputer super tercanggih saat ini pun butuh waktu ratusan hingga ribuan tahun hanya untuk memfaktorkan <code>n</code> menjadi <code>p</code> dan <code>q</code>. Tanpa mengetahui <code>p</code> dan <code>q</code>, orang lain tidak akan bisa mencari nilai <code>d</code> untuk mendekripsi pesan tersebut.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://til-syarif-25.pages.dev/tags/tech/">Tech</a></li>
+      <li><a href="https://til-syarif-25.pages.dev/tags/math/">Math</a></li>
+      <li><a href="https://til-syarif-25.pages.dev/tags/security/">Security</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="https://til-syarif-25.pages.dev/">Today I Learned</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

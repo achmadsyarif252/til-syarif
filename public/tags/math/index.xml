@@ -6,8 +6,20 @@
     <description>Recent content in Math on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 23 Apr 2026 19:40:45 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:05:06 +0700</lastBuildDate>
     <atom:link href="https://til-syarif-25.pages.dev/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rsa</title>
+      <link>https://til-syarif-25.pages.dev/posts/rsa/</link>
+      <pubDate>Sun, 05 Jul 2026 23:05:06 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/rsa/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;RSA (Rivest-Shamir-Adleman)&lt;/strong&gt; adalah salah satu algoritma kriptografi asimetris yang paling populer. Asimetris artinya algoritma ini menggunakan dua kunci yang berbeda:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Public Key&lt;/strong&gt;: Kunci yang disebarkan ke semua orang (digunakan untuk mengenkripsi pesan).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Private Key&lt;/strong&gt;: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Keamanan RSA bertumpu pada matematika dasar: &lt;strong&gt;sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>52!</title>
       <link>https://til-syarif-25.pages.dev/posts/faktorial/</link>

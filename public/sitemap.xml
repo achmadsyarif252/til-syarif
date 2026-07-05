@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://til-syarif-25.pages.dev/tags/math/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/posts/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/posts/rsa/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/tags/security/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/tags/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/tags/tech/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/</loc>
+    <lastmod>2026-07-05T23:05:06+07:00</lastmod>
+  </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/atomic-habits/</loc>
     <lastmod>2026-07-05T17:24:23+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/tags/buku/</loc>
     <lastmod>2026-07-05T17:24:23+07:00</lastmod>
   </url><url>
-    <loc>https://til-syarif-25.pages.dev/posts/</loc>
-    <lastmod>2026-07-05T17:24:23+07:00</lastmod>
-  </url><url>
     <loc>https://til-syarif-25.pages.dev/tags/self-improvement/</loc>
-    <lastmod>2026-07-05T17:24:23+07:00</lastmod>
-  </url><url>
-    <loc>https://til-syarif-25.pages.dev/tags/</loc>
-    <lastmod>2026-07-05T17:24:23+07:00</lastmod>
-  </url><url>
-    <loc>https://til-syarif-25.pages.dev/</loc>
     <lastmod>2026-07-05T17:24:23+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/tags/agama/</loc>
@@ -227,9 +239,6 @@
     <loc>https://til-syarif-25.pages.dev/posts/backpropagation/</loc>
     <lastmod>2026-05-21T22:17:06+07:00</lastmod>
   </url><url>
-    <loc>https://til-syarif-25.pages.dev/tags/tech/</loc>
-    <lastmod>2026-05-21T22:17:06+07:00</lastmod>
-  </url><url>
     <loc>https://til-syarif-25.pages.dev/tags/fisika/</loc>
     <lastmod>2026-05-20T21:54:31+07:00</lastmod>
   </url><url>
@@ -351,9 +360,6 @@
     <lastmod>2026-04-24T10:34:08+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/faktorial/</loc>
-    <lastmod>2026-04-23T19:40:45+07:00</lastmod>
-  </url><url>
-    <loc>https://til-syarif-25.pages.dev/tags/math/</loc>
     <lastmod>2026-04-23T19:40:45+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/source_code_manusia/</loc>
