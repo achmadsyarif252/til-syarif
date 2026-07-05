@@ -5,7 +5,7 @@ title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
 +++
 
-Cerita Kejadian Kecelakaan
+## Cerita Kejadian Kecelakaan
 
 Di hari terakhir tahun kedua james clear dia mendapat musibah, saat bermain bisbol bersama teman-temanya, tongkat bisbol yg dengan sangat keras terlempar ke muka JC saat temanya mencoba memukul bola, tonkgat itu mendarat di antara kedua matanya, hingga hidungnya "penyok" nampak seperti huruf U, hidungnya patah, otaknya membentur tengkorak yg di bagian belakang, dia tidak sadarkan diri, saat membuka mata jc melihat bercak darah di bajunya, dia dipapah menuju klinik di sekolah dia, yg mana harus menuruni bukit untuk kembali ke gedung sekolah. setiap detiknya sangat krusial pada saat itu.
 
@@ -13,5 +13,4 @@ Sesampai di sana perawat menanyakan tahun berapa saat itu, dijawab 1998 padahal 
 
 Pihak rumah sakit mendatangkan rohaniawan untuk memenami orang tua jc dan mendampingi memberikan support , dia orang yg sama dengan yg 10 tahun lalu saat adiknya sakit, menurut ibunya itu malam yang paling berat dalam hidupnya.
 
-Sembuh
-
+## Sembuh
