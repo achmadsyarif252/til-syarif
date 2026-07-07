@@ -1,5 +1,5 @@
 +++
-date = '2026-07-06T17:24:23+07:00'
+date = '2026-07-07T17:24:23+07:00'
 draft = false
 title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
@@ -22,3 +22,10 @@ Keesokan harinya dia sudah mulai sadar, namun indra penciumannya tidak bekerja, 
 Kuliah di Denison adalah salah satu keputusan terbaik dalam hidup penulis, walaupun masa sma dia cukup terpuruk dalam urusan bisbol, di tempat kuliah dia mendapatkan posisi dalam tim walaupun berada di posisi paling bawah sebagai mahasiswa baru, dia sadar kalau dia tidak akan bermain langsung dalam waktu dekat sehingga dia memilih untuk mengendalikan diri terlebih dahulu, ibaratnya bersiap2 dulu sambil menunggu waktunya dia mendapatkan giliran dimainkan in the near future.
 
 Asrama kuliah adalah tempat yang terkenal sebagai tempat yang kotor jorok, mahasiswanya tidak bisa mengendalikan diri menjaga kebersihan dsb, namun dia memilih untuk berkomitmen menjaga kebersihan, melatih kebiasaan kebiasan kecil pendedalian hidup untuk dirinya, disaat teman teman yang lain begadang tertawa sambil bermain game, dia memilih untuk membangun kebiasaan tidur lebih awal, kebiasaan kebiasaan tersebut terasa remeh namun dengan kebiasaan tersebut rasa percaya diri muncul, dari rasa percaya diri itulah dia memiliki kesan mampu mengedalikan hidup, meningkatknya kepercayaan diri tersebut membuat kebiasaan kebiasaan belajarnya juga mulai membaik hingga dia berusaha meraih nilai A untuk semua mata kuliah selama tahun pertama.
+
+Kebiasaan adalah rutinitas atau perilaku yang dijalankan secara teratur dan dalam banyak kasus secara otomatis. Dimulai dari semester satu ke semester berikutnya, penulis berhasil mengumpulkan kebiasaan kebiasaan kecil tapi konsisten akkhrinya mengantarkan ke hasil yang terbayangkan di sewaktu penulis baru mulai, contohnya dia mulai membiasakan mengangkat beban beberapa kali dalam seminggu, tahun tahun berikutnya bobot dia naik dari 85kg ke 100kg.
+
+Saat mulsim pertandingan di tahun kedua dimulai, dia mendapatkan posisi awal sebagai pitcher, di tahun ketiha dia terpilih sebagai kapten dan di tahun berikutnya dia terpilih menjadi anggota tim utama. di tahun terakhirnya kebiasaan kebiasaan tidur, belaar dan latihan fisik mulai mendatangkan hasil.
+
+6 Tahun setelah kecelakaan tersebut dia berhasil terpilih menjadi atlet terbaik Denison University dan salah satu ESPN academic, intinya dia meraih banyak penghargaan sampai namanya dicatat di buku tahunan universitas.
+
