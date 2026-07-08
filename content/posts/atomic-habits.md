@@ -1,5 +1,5 @@
 +++
-date = '2026-07-07T17:24:23+07:00'
+date = '2026-07-08T17:24:23+07:00'
 draft = false
 title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
@@ -27,5 +27,11 @@ Kebiasaan adalah rutinitas atau perilaku yang dijalankan secara teratur dan dala
 
 Saat mulsim pertandingan di tahun kedua dimulai, dia mendapatkan posisi awal sebagai pitcher, di tahun ketiha dia terpilih sebagai kapten dan di tahun berikutnya dia terpilih menjadi anggota tim utama. di tahun terakhirnya kebiasaan kebiasaan tidur, belaar dan latihan fisik mulai mendatangkan hasil.
 
-6 Tahun setelah kecelakaan tersebut dia berhasil terpilih menjadi atlet terbaik Denison University dan salah satu ESPN academic, intinya dia meraih banyak penghargaan sampai namanya dicatat di buku tahunan universitas.
+6 Tahun setelah kecelakaan tersebut dia berhasil terpilih menjadi atlet terbaik Denison University dan salah satu ESPN academic, intinya dia meraih banyak penghargaan sampai namanya dicatat di buku tahunan universitas. dia meminta maaf atas kesan yang berlebihan dengan prestasi itu yang sejujurnya menurut dia juga tidak terlalu hebat, dia juga tidak sampai ke profesional tapi dia percaya dengan kebiasaan kebiasaan kecil yang kita lakukan itu bisa memaksimalkan potensi yang kita miliki.
+
+Perubahan perubahan yang terkesan kecil dan remeh pada awalnya akan memberikan hasil-hasil uang menakjubkan bila kita BERSEDIA menjalaninya sampai bertahun tahun. Tidak ada yg paling menonjol daalam perjalanan hidup dia dari kondisi dibuat koma sampai meeraih academic  All American, tapi banyak yang menonjol, yang tejadi adalah evolusi bertahap, serangkaian panjang kemenangan kecil dan terobosan sangat kecil. Satu satunya cara yang membuat saya maju satu sataunya cara yang saya pilih adalah mulai dengan hal kecil. dan dia juga menerapkan hal yang serupa saat memulai usaha sendiri dan menulis buku atomic habits.
+
+## Bagaimana buku atomic habits ini akan bermanfaat untuk pembaca
+
+Tulang punggung buku ini adalah model kebiasaan empat langkah jc. Mendpatkan petuujuk (cue), menumbuhkan gairah (craving), menanggapi (response), dan menikmati hasilnya (reward) 
 
