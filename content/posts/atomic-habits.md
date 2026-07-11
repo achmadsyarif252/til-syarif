@@ -47,7 +47,7 @@ Namun laju efek perbaikan atau penurunan 1 persen yang lambat inilah yang membua
 
 Mencoba untuk menghentikan kebiasaan buruk itu seperti mencoba menumbangkan pohon beringin raksasa yang sangat besar dalam semalam, sedangkan menumbuhkan kebiasaan baik layaknya merawat bunga yang sangat sensitif, sulit butuh waktu, perhatian dan kasih sayang dalam menjalaninya, orang mudah berhenti melakukan kebiasaan yang mereka bentuk karna merasa tidak ada perkembangan inilah yang dinamakan lembah kekecewaan, mereka berharap hasilnya itu linear seiring dengan waktu namun nyatanya adalah bahwa pertumbuhan kebiasaan baik sebetulnya tidak linear tapi eksponensial (kalau ngga salah itu istilahnya), berikut gambarnya.
 
-![Lembah Kekecewaan]("/images/valleydisapointment.jpeg")
+![Lembah Kekecewaan](/images/valleydisapointment.jpeg)
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
