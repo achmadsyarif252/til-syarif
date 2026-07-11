@@ -37,5 +37,5 @@ Tulang punggung buku ini adalah model kebiasaan empat langkah jc. Mendpatkan pet
 
 Kita terlalu menaksir tinggi atas sesuatu dan menaksir terlalu rendah atas sesuatu pula, menganggap bahwa perubahan besar perlu aksi yang masif mengguncang bumi sedangkan kebiasaan kecil sering dianggap remeh padahal dalam waktu yg lama kebiasaan kecil yang konsisten akan berdampak begitu besar ke hidup, jika kita lebih baik 1 persen saja setiap hari dalam satu tahun kita sudah lebih baik sekitar 37 persen. kalau perubahan massif bakal menguras mental di suatu titik jadi tidak sustainabel (tentu tidak berlaku ke semua orang)
 
-![Satu Persen Lebih Baik ]("/images/onepercent.jpg")
+![Satu Persen Lebih Baik](/images/onepercent.jpg)
 
