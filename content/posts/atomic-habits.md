@@ -39,3 +39,19 @@ Kita terlalu menaksir tinggi atas sesuatu dan menaksir terlalu rendah atas sesua
 
 ![Satu Persen Lebih Baik](/images/onepercent.jpg)
 
+Efek satu persen perubahan memang tidak terasa dalam jangka pendek tapi akan sangat terlihat dampaknya jika dilakukan dalam waktu yang sangat lama, ada 3 contoh nyata seberapa dahsyatnya perubahan 1 persen dalam kehidupan nyata, bayangkan satu balok es berada di ruangan dengan suhu -3 derajat celcius, kemudian suhu dinaikan setengah derajat c, -3 ke -2.5,-2,-1.5 sampai saat ini es belum juga mencair tapi begitu suhu dinaikan menjadi 0 derajat celcius es akan mencair, begitupula pemecah batu cadas, perlu melakukan puluhan hingga ratusan ayunan hingga batu cadas tersebut hancur berkeping keping, hal ini pernah disampaikan oleh pelatif tim basket NBA yang berkata bahwa apabila sesorang tidak menganggap atau mudah melupakan efek 1 persen lihatlah pemecah batu cadas, dari hantaman palu ke satu sampai ke 100 batu sama sekali tidak bergeming nampak seperti tidak ada efeknya namun di pukulan ke 101 batu tersebut hancur berkeping keping, namun kita tahu bukan pukulan ke 101 yang bisa membuat batu tersebut hancur namun efek dari hantaman hantaman sebelumnya yang membuat momentum batu tersebut hancur di pukulan ke 101
+
+Adalagi terkait pergeseran posisi moncong pesawat, jika kepala pesawat bergeser sekian derajat saja mungkin kepala pesawat bergeser 2-3 meter saja dari posisi yang seharusnya, dengan perjalanan yang panjang, pesawat bisa mendarat ratusan kilometer jauhnya dari posisi awal, hal ini menujukan bahwa waktu merupakan sahabat baik bagi kebiasaan kebiasaan kecil, sedangkan waktu akan membuat kebiasaan kebiasaan buruk menjadi momok yg menyeramkan.
+
+Namun laju efek perbaikan atau penurunan 1 persen yang lambat inilah yang membuat orang orang mengabaikan kebiasaan kebiasan buruk mereka, jika makan junk food malam ini kiat tidak akan langsung menjadi gemuk, jika kita tidak merapikan kamar tidur sekali mungkin akan masih terlihat rapih namun pengabaian hal hal kecil terebut merasionalisasikan keesalahan kesalahan mikro pada jangka waktu yang panjang akan memberikan dampak yang sangat nyata. oleh karena itu memang efek satu persen ini bagai sebilah pedang, kita bisa mendapatkan efek luar biasa dari kebiasaan 1 persen ini atau kita juga bisa merasakan dampak dari pernurunan satu persen di sana dan di sini.
+
+Mencoba untuk menghentikan kebiasaan buruk itu seperti mencoba menumbangkan pohon beringin raksasa yang sangat besar dalam semalam, sedangkan menumbuhkan kebiasaan baik layaknya merawat bunga yang sangat sensitif, sulit butuh waktu, perhatian dan kasih sayang dalam menjalaninya, orang mudah berhenti melakukan kebiasaan yang mereka bentuk karna merasa tidak ada perkembangan inilah yang dinamakan lembah kekecewaan, mereka berharap hasilnya itu linear seiring dengan waktu namun nyatanya adalah bahwa pertumbuhan kebiasaan baik sebetulnya tidak linear tapi eksponensial (kalau ngga salah itu istilahnya), berikut gambarnya.
+
+![Lembah Kekecewaan]("/images/valleydisapointment.jpeg")
+
+Rumus Membentuk Kebiasaan;
+1. jadikan terlihat
+2. jadikan menarik
+3. jadikan mudah
+4. jadiikan memuaskan
+
