@@ -49,6 +49,22 @@ Mencoba untuk menghentikan kebiasaan buruk itu seperti mencoba menumbangkan poho
 
 ![Lembah Kekecewaan](/images/valleydisapointment.jpeg)
 
+Lupakan sasaran, berfokuslah pada sistem
+
+Kearifan yang berlaku sampai sekarang mengatakan jika kita ingin meraih sesuatu yang kita impikan maka kita harus menerapkan sasaran atau target yang spesifik dan dapat dilakukan, tetapi penulis mulai menyadari bahwa hasil hasil dia hampir tidak berakitan dengan sasaran yang ditetapkan dan hampir semuanya berkaitan dengan sistem yang dijalani.
+
+Sasaran bicara tentang hasil yang ingin kita raih , sedangkan sistem adalah proses yang mengantarkan ke hasil hasil itu. jika kita mengabaikan sepenuhnya sasaran sasaran dan fokus hanya pada sistem, apakah tetap akan berhasil ? menurut james clear akan tetap berhasil, sasaran dalam olahraga apapun adalah menyelesaikan dengan skor terbaik, tapi pasti konyol kalau selama pertandingan hanya menghabiskan waktu untuk melihat papan nilai. cara satu satunya adalah dengan menjadi lebih baik setiap hari, seperti perkataan bill wish, juara super bowl 3x, "nilai akan datang dengan sendirinya"
+
+Apakah sasaran tidak berguna ? tentu tidak, sasaran baik untuk menetapkan arah, tapi sistem adalah yang terbaik untuk mendapatkan kemajuan. masalah akan timbul ketiika kita menghabiskan banak waktu untuk memikirkan sasaran dan tidak meneydiakan waktu untuk merancang sistem.
+
+# Masalah 1 : Pemenang dan pecundang memiliki sasran yang sama
+Orang yang berfokus pada sasaran cenderung engalami kasus survivorship bias yang serias. kita berkonsentrasi pada orang yang akhirnya menang, dan secara keliru mengandaikan bahwa sasran ambisius telah mengantar mereka ke kesuksesan; mengabaikan semua orang yang memilik tujuan sama tapi tidak berhasil meraih sasaran.
+
+Semua peserta olimpiade ingin memenangkan medali emas, sasaran itu sudah ada baru ketika menerapkan sistem dengan perbaikan kecil secara terus menerus mereka meraih hasil yang istimewa
+
+# Masalah 2 : Meraih sasran hanya perubahan sesaat
+Bayangkan ada ruangan yang berantakan, satu satunya cara untuk menyelesaikan itu adalah dengan merapikanya, bila kita punya tenaga untuk merapikanya, kita akan memiliki ruangan yang bersih untuk saat ini, namun jika terus mempertahankan kebiasaan jorok dan malas yang membuat kamar berantakan, dalam waktu singkat akan ada tumpukan sampah baru dan berharap mendapakan semburan motivasi lagi untuk merapikan ruangan tstb. kita akan terus mengejar hasil yang sama karena tidak pernah mengubah sistem dibaliknua. kita mengobati gejala tanpa mentasasi sumber masalahnya.
+
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
 2. jadikan menarik
