@@ -58,12 +58,17 @@ Sasaran bicara tentang hasil yang ingin kita raih , sedangkan sistem adalah pros
 Apakah sasaran tidak berguna ? tentu tidak, sasaran baik untuk menetapkan arah, tapi sistem adalah yang terbaik untuk mendapatkan kemajuan. masalah akan timbul ketiika kita menghabiskan banak waktu untuk memikirkan sasaran dan tidak meneydiakan waktu untuk merancang sistem.
 
 # Masalah 1 : Pemenang dan pecundang memiliki sasran yang sama
-Orang yang berfokus pada sasaran cenderung engalami kasus survivorship bias yang serias. kita berkonsentrasi pada orang yang akhirnya menang, dan secara keliru mengandaikan bahwa sasran ambisius telah mengantar mereka ke kesuksesan; mengabaikan semua orang yang memilik tujuan sama tapi tidak berhasil meraih sasaran.
+Orang yang berfokus pada sasaran cenderung engalami kasus survivorship bias yang serius. kita berkonsentrasi pada orang yang akhirnya menang, dan secara keliru mengandaikan bahwa sasran ambisius telah mengantar mereka ke kesuksesan; mengabaikan semua orang yang memilik tujuan sama tapi tidak berhasil meraih sasaran.
 
 Semua peserta olimpiade ingin memenangkan medali emas, sasaran itu sudah ada baru ketika menerapkan sistem dengan perbaikan kecil secara terus menerus mereka meraih hasil yang istimewa
 
 # Masalah 2 : Meraih sasran hanya perubahan sesaat
 Bayangkan ada ruangan yang berantakan, satu satunya cara untuk menyelesaikan itu adalah dengan merapikanya, bila kita punya tenaga untuk merapikanya, kita akan memiliki ruangan yang bersih untuk saat ini, namun jika terus mempertahankan kebiasaan jorok dan malas yang membuat kamar berantakan, dalam waktu singkat akan ada tumpukan sampah baru dan berharap mendapakan semburan motivasi lagi untuk merapikan ruangan tstb. kita akan terus mengejar hasil yang sama karena tidak pernah mengubah sistem dibaliknua. kita mengobati gejala tanpa mentasasi sumber masalahnya.
+
+# Maslah 3 : Sasaran membatasi kebahagiaan 
+Selama bertahun tahun kebahagiaan menjadi sesuat yang james clear ingin nikmati di masa mendatang. dia berjanji kepada diri sendiri bahwa begitu massa otot dia naik 10kg atau bisnisnya diulas di nytimes baru akan istirahat sejenak, sasaran menciptakan konflik "entah ini atau itu" , entah kita meraih sasaran dan sukses atau gagal dan kecewa. kita secara mental memasang kotak nuntuk mengurung diri dalam versi kebahagiaan yang sempit. ini menyesatkan dan mustahil jalan kita sesungguhnta dalam hidup akan tepat sesuai yng di benak kita saat kita menetapkan suatu sasaran. membatasi kepuasan berdasarkan satu skeanrio tidak masuk akal ketika ada banyak jalan lain yang dapat ditempuh untuk meraih kesuksesan.
+
+Mentalitas mendahulukan sitem menyediakan antidot untuk ini, ksetika kita jatuh cinta pada proses, bukan pada produk, kita tidak harus menunggu ketika ingin memberikan kesempatan kepada diri sendiri untuk bahagia. kita dapat merasa puas kapan pun ketika sistem berjalan. dan sistem dapat menjadi sukses dalam banyak bentuk beragam. tidak hanya pertama kali kita bayangkan.
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
