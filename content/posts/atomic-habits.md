@@ -1,5 +1,5 @@
 +++
-date = '2026-07-12T18:24:23+07:00'
+date = '2026-07-14T18:24:23+07:00'
 draft = false
 title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
@@ -69,6 +69,13 @@ Bayangkan ada ruangan yang berantakan, satu satunya cara untuk menyelesaikan itu
 Selama bertahun tahun kebahagiaan menjadi sesuat yang james clear ingin nikmati di masa mendatang. dia berjanji kepada diri sendiri bahwa begitu massa otot dia naik 10kg atau bisnisnya diulas di nytimes baru akan istirahat sejenak, sasaran menciptakan konflik "entah ini atau itu" , entah kita meraih sasaran dan sukses atau gagal dan kecewa. kita secara mental memasang kotak nuntuk mengurung diri dalam versi kebahagiaan yang sempit. ini menyesatkan dan mustahil jalan kita sesungguhnta dalam hidup akan tepat sesuai yng di benak kita saat kita menetapkan suatu sasaran. membatasi kepuasan berdasarkan satu skeanrio tidak masuk akal ketika ada banyak jalan lain yang dapat ditempuh untuk meraih kesuksesan.
 
 Mentalitas mendahulukan sitem menyediakan antidot untuk ini, ksetika kita jatuh cinta pada proses, bukan pada produk, kita tidak harus menunggu ketika ingin memberikan kesempatan kepada diri sendiri untuk bahagia. kita dapat merasa puas kapan pun ketika sistem berjalan. dan sistem dapat menjadi sukses dalam banyak bentuk beragam. tidak hanya pertama kali kita bayangkan.
+
+# Masalah 4 : Sasaran tidak bersesuaian dengan kemajuan jangka panjang 
+Pola pikir berorientasi sasaran pada akhirnya menciptakan efek "yoyo", banyak atlet lari berlatih keras selama berbulan bulan tapi begitu berhasil melintasi garis finish, mereka berhenti berlahith. ketika semua kerja keras difokuskan pada sasaran tertentu, apa ang tersisa untuk mendorong maju kita setelah sasaran itu tercipta ? banyak orang kembali ke kebiasaan kebasaan lama setelah suatu sasaran tercapai (tapi menurut pendapat saya pribadi kalau orientasi pada tujuan dan sudah berhasil ya tinggal menciptakan sasaran sasarn baru lagi kan ? sasarn itu sebagai pemacu semangat yg membara gitu, tapi mungkin pemikiran saya juga akan bisa berubah nanti semakin banyak membaca buku ini dan mempraktikanya) 
+
+Tujuan menetapkan sasran adalah memenangkan pertandingan. tujuan membangun sistem adalah terus berperestasi dalam olahraga yang sama. pemikiran jangka panjang yang sejadi adalah berpikir dengan sedikit sasaran. orang tidak bicara tentang kesuksesan tunggal, tapi siklus perbaikan tiada akhir dan terus menerus. akhirnya komitmen terhadap proses yang akan menentukan kemajuan kita.
+
+Alasan orang tetap melakukan kebiasaan buruk adalah bukan karna dia tidak ingin berubah, tapi dia keliru dalam memilih sistem untuk melakukan perubahan, jangan jatuh pada level sasaran tapi fokus pada sistem secara keseluruhan.
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
