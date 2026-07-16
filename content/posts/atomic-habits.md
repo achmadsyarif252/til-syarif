@@ -1,5 +1,5 @@
 +++
-date = '2026-07-14T18:24:23+07:00'
+date = '2026-07-16T18:24:23+07:00'
 draft = false
 title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
@@ -21,15 +21,15 @@ Keesokan harinya dia sudah mulai sadar, namun indra penciumannya tidak bekerja, 
 
 Kuliah di Denison adalah salah satu keputusan terbaik dalam hidup penulis, walaupun masa sma dia cukup terpuruk dalam urusan bisbol, di tempat kuliah dia mendapatkan posisi dalam tim walaupun berada di posisi paling bawah sebagai mahasiswa baru, dia sadar kalau dia tidak akan bermain langsung dalam waktu dekat sehingga dia memilih untuk mengendalikan diri terlebih dahulu, ibaratnya bersiap2 dulu sambil menunggu waktunya dia mendapatkan giliran dimainkan in the near future.
 
-Asrama kuliah adalah tempat yang terkenal sebagai tempat yang kotor jorok, mahasiswanya tidak bisa mengendalikan diri menjaga kebersihan dsb, namun dia memilih untuk berkomitmen menjaga kebersihan, melatih kebiasaan kebiasan kecil pendedalian hidup untuk dirinya, disaat teman teman yang lain begadang tertawa sambil bermain game, dia memilih untuk membangun kebiasaan tidur lebih awal, kebiasaan kebiasaan tersebut terasa remeh namun dengan kebiasaan tersebut rasa percaya diri muncul, dari rasa percaya diri itulah dia memiliki kesan mampu mengedalikan hidup, meningkatknya kepercayaan diri tersebut membuat kebiasaan kebiasaan belajarnya juga mulai membaik hingga dia berusaha meraih nilai A untuk semua mata kuliah selama tahun pertama.
+Asrama kuliah adalah tempat yang terkenal sebagai tempat yang kotor jorok, mahasiswanya tidak bisa mengendalikan diri menjaga kebersihan dsb, namun dia memilih untuk berkomitmen menjaga kebersihan, melatih kebiasaan kebiasan kecil pengnedalian hidup untuk dirinya, disaat teman teman yang lain begadang tertawa sambil bermain game, dia memilih untuk membangun kebiasaan tidur lebih awal, kebiasaan kebiasaan tersebut terasa remeh namun dengan kebiasaan tersebut rasa percaya diri muncul, dari rasa PERCAYA DIRI itulah dia memiliki kesan mampu mengedalikan hidup, meningkatknya kepercayaan diri tersebut membuat kebiasaan kebiasaan belajarnya juga mulai membaik hingga dia berusaha meraih nilai A untuk semua mata kuliah selama tahun pertama.
 
 Kebiasaan adalah rutinitas atau perilaku yang dijalankan secara teratur dan dalam banyak kasus secara otomatis. Dimulai dari semester satu ke semester berikutnya, penulis berhasil mengumpulkan kebiasaan kebiasaan kecil tapi konsisten akkhrinya mengantarkan ke hasil yang terbayangkan di sewaktu penulis baru mulai, contohnya dia mulai membiasakan mengangkat beban beberapa kali dalam seminggu, tahun tahun berikutnya bobot dia naik dari 85kg ke 100kg.
 
-Saat mulsim pertandingan di tahun kedua dimulai, dia mendapatkan posisi awal sebagai pitcher, di tahun ketiha dia terpilih sebagai kapten dan di tahun berikutnya dia terpilih menjadi anggota tim utama. di tahun terakhirnya kebiasaan kebiasaan tidur, belaar dan latihan fisik mulai mendatangkan hasil.
+Saat musim pertandingan di tahun kedua dimulai, dia mendapatkan posisi awal sebagai pitcher, di tahun ketiha dia terpilih sebagai kapten dan di tahun berikutnya dia terpilih menjadi anggota tim utama. di tahun terakhirnya kebiasaan kebiasaan tidur, belajar dan latihan fisik mulai mendatangkan hasil.
 
 6 Tahun setelah kecelakaan tersebut dia berhasil terpilih menjadi atlet terbaik Denison University dan salah satu ESPN academic, intinya dia meraih banyak penghargaan sampai namanya dicatat di buku tahunan universitas. dia meminta maaf atas kesan yang berlebihan dengan prestasi itu yang sejujurnya menurut dia juga tidak terlalu hebat, dia juga tidak sampai ke profesional tapi dia percaya dengan kebiasaan kebiasaan kecil yang kita lakukan itu bisa memaksimalkan potensi yang kita miliki.
 
-Perubahan perubahan yang terkesan kecil dan remeh pada awalnya akan memberikan hasil-hasil uang menakjubkan bila kita BERSEDIA menjalaninya sampai bertahun tahun. Tidak ada yg paling menonjol daalam perjalanan hidup dia dari kondisi dibuat koma sampai meeraih academic  All American, tapi banyak yang menonjol, yang tejadi adalah evolusi bertahap, serangkaian panjang kemenangan kecil dan terobosan sangat kecil. Satu satunya cara yang membuat saya maju satu sataunya cara yang saya pilih adalah mulai dengan hal kecil. dan dia juga menerapkan hal yang serupa saat memulai usaha sendiri dan menulis buku atomic habits.
+Perubahan perubahan yang terkesan kecil dan remeh pada awalnya akan memberikan hasil-hasil uang menakjubkan bila kita BERSEDIA menjalaninya sampai bertahun tahun. Tidak ada yg paling menonjol daalam perjalanan hidup dia dari kondisi dibuat koma sampai meraih academic  All American, tapi banyak yang menonjol, yang tejadi adalah evolusi bertahap, serangkaian panjang kemenangan kecil dan terobosan sangat kecil. Satu satunya cara yang membuat saya maju satu sataunya cara yang saya pilih adalah mulai dengan hal kecil. dan dia juga menerapkan hal yang serupa saat memulai usaha sendiri dan menulis buku atomic habits.
 
 ## Bagaimana buku atomic habits ini akan bermanfaat untuk pembaca
 
@@ -43,7 +43,7 @@ Efek satu persen perubahan memang tidak terasa dalam jangka pendek tapi akan san
 
 Adalagi terkait pergeseran posisi moncong pesawat, jika kepala pesawat bergeser sekian derajat saja mungkin kepala pesawat bergeser 2-3 meter saja dari posisi yang seharusnya, dengan perjalanan yang panjang, pesawat bisa mendarat ratusan kilometer jauhnya dari posisi awal, hal ini menujukan bahwa waktu merupakan sahabat baik bagi kebiasaan kebiasaan kecil, sedangkan waktu akan membuat kebiasaan kebiasaan buruk menjadi momok yg menyeramkan.
 
-Namun laju efek perbaikan atau penurunan 1 persen yang lambat inilah yang membuat orang orang mengabaikan kebiasaan kebiasan buruk mereka, jika makan junk food malam ini kiat tidak akan langsung menjadi gemuk, jika kita tidak merapikan kamar tidur sekali mungkin akan masih terlihat rapih namun pengabaian hal hal kecil terebut merasionalisasikan keesalahan kesalahan mikro pada jangka waktu yang panjang akan memberikan dampak yang sangat nyata. oleh karena itu memang efek satu persen ini bagai sebilah pedang, kita bisa mendapatkan efek luar biasa dari kebiasaan 1 persen ini atau kita juga bisa merasakan dampak dari pernurunan satu persen di sana dan di sini.
+Namun laju efek perbaikan atau penurunan 1 persen yang lambat inilah yang membuat orang orang mengabaikan kebiasaan kebiasan buruk mereka, jika makan junk food malam ini kiat tidak akan langsung menjadi gemuk, jika kita tidak merapikan kamar tidur sekali mungkin akan masih terlihat rapih namun pengabaian hal hal kecil teresbut, merasionalisasikan keesalahan kesalahan mikro pada jangka waktu yang panjang akan memberikan dampak yang sangat nyata. oleh karena itu memang efek satu persen ini bagai sebilah pedang, kita bisa mendapatkan efek luar biasa dari kebiasaan 1 persen ini atau kita juga bisa merasakan dampak dari pernurunan satu persen di sana dan di sini.
 
 Mencoba untuk menghentikan kebiasaan buruk itu seperti mencoba menumbangkan pohon beringin raksasa yang sangat besar dalam semalam, sedangkan menumbuhkan kebiasaan baik layaknya merawat bunga yang sangat sensitif, sulit butuh waktu, perhatian dan kasih sayang dalam menjalaninya, orang mudah berhenti melakukan kebiasaan yang mereka bentuk karna merasa tidak ada perkembangan inilah yang dinamakan lembah kekecewaan, mereka berharap hasilnya itu linear seiring dengan waktu namun nyatanya adalah bahwa pertumbuhan kebiasaan baik sebetulnya tidak linear tapi eksponensial (kalau ngga salah itu istilahnya), berikut gambarnya.
 
@@ -55,14 +55,14 @@ Kearifan yang berlaku sampai sekarang mengatakan jika kita ingin meraih sesuatu 
 
 Sasaran bicara tentang hasil yang ingin kita raih , sedangkan sistem adalah proses yang mengantarkan ke hasil hasil itu. jika kita mengabaikan sepenuhnya sasaran sasaran dan fokus hanya pada sistem, apakah tetap akan berhasil ? menurut james clear akan tetap berhasil, sasaran dalam olahraga apapun adalah menyelesaikan dengan skor terbaik, tapi pasti konyol kalau selama pertandingan hanya menghabiskan waktu untuk melihat papan nilai. cara satu satunya adalah dengan menjadi lebih baik setiap hari, seperti perkataan bill wish, juara super bowl 3x, "nilai akan datang dengan sendirinya"
 
-Apakah sasaran tidak berguna ? tentu tidak, sasaran baik untuk menetapkan arah, tapi sistem adalah yang terbaik untuk mendapatkan kemajuan. masalah akan timbul ketiika kita menghabiskan banak waktu untuk memikirkan sasaran dan tidak meneydiakan waktu untuk merancang sistem.
+Apakah sasaran tidak berguna ? tentu tidak, sasaran baik untuk menetapkan arah, tapi sistem adalah yang terbaik untuk mendapatkan kemajuan. masalah akan timbul ketiika kita menghabiskan banak waktu untuk memikirkan sasaran dan tidak menyediakan waktu untuk merancang sistem.
 
 # Masalah 1 : Pemenang dan pecundang memiliki sasran yang sama
-Orang yang berfokus pada sasaran cenderung engalami kasus survivorship bias yang serius. kita berkonsentrasi pada orang yang akhirnya menang, dan secara keliru mengandaikan bahwa sasran ambisius telah mengantar mereka ke kesuksesan; mengabaikan semua orang yang memilik tujuan sama tapi tidak berhasil meraih sasaran.
+Orang yang berfokus pada sasaran cenderung mengalami kasus survivorship bias yang serius. kita berkonsentrasi pada orang yang akhirnya menang, dan secara keliru mengandaikan bahwa sasran ambisius telah mengantar mereka ke kesuksesan; mengabaikan semua orang yang memilik tujuan sama tapi tidak berhasil meraih sasaran.
 
 Semua peserta olimpiade ingin memenangkan medali emas, sasaran itu sudah ada baru ketika menerapkan sistem dengan perbaikan kecil secara terus menerus mereka meraih hasil yang istimewa
 
-# Masalah 2 : Meraih sasran hanya perubahan sesaat
+# Masalah 2 : Meraih sasaran hanya perubahan sesaat
 Bayangkan ada ruangan yang berantakan, satu satunya cara untuk menyelesaikan itu adalah dengan merapikanya, bila kita punya tenaga untuk merapikanya, kita akan memiliki ruangan yang bersih untuk saat ini, namun jika terus mempertahankan kebiasaan jorok dan malas yang membuat kamar berantakan, dalam waktu singkat akan ada tumpukan sampah baru dan berharap mendapakan semburan motivasi lagi untuk merapikan ruangan tstb. kita akan terus mengejar hasil yang sama karena tidak pernah mengubah sistem dibaliknua. kita mengobati gejala tanpa mentasasi sumber masalahnya.
 
 # Maslah 3 : Sasaran membatasi kebahagiaan 
@@ -76,6 +76,11 @@ Pola pikir berorientasi sasaran pada akhirnya menciptakan efek "yoyo", banyak at
 Tujuan menetapkan sasran adalah memenangkan pertandingan. tujuan membangun sistem adalah terus berperestasi dalam olahraga yang sama. pemikiran jangka panjang yang sejadi adalah berpikir dengan sedikit sasaran. orang tidak bicara tentang kesuksesan tunggal, tapi siklus perbaikan tiada akhir dan terus menerus. akhirnya komitmen terhadap proses yang akan menentukan kemajuan kita.
 
 Alasan orang tetap melakukan kebiasaan buruk adalah bukan karna dia tidak ingin berubah, tapi dia keliru dalam memilih sistem untuk melakukan perubahan, jangan jatuh pada level sasaran tapi fokus pada sistem secara keseluruhan.
+
+## Bab 2 : Bagaimana Kebiasaan membentuk identitas anda (dan sebaliknya)
+
+Tidak banyak hal yang dapat memberikan dampak lebih dahsyat pada hidup kita selain memperbaiki kebiassaan sehari hari. kita sering kesulitan mengubah kebiasaan buruk dan kesulitan juga dalam menumbuhkan kebiasaan baik, yang menjadi penyebab hal tersebut adalah 1. kita salah sasaran terhadap apa yg ingin kita ubah. 2 kita salah cara dalam mengubah kebiasaan.
+
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
