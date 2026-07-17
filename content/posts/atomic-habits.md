@@ -81,6 +81,8 @@ Alasan orang tetap melakukan kebiasaan buruk adalah bukan karna dia tidak ingin 
 
 Tidak banyak hal yang dapat memberikan dampak lebih dahsyat pada hidup kita selain memperbaiki kebiassaan sehari hari. kita sering kesulitan mengubah kebiasaan buruk dan kesulitan juga dalam menumbuhkan kebiasaan baik, yang menjadi penyebab hal tersebut adalah 1. kita salah sasaran terhadap apa yg ingin kita ubah. 2 kita salah cara dalam mengubah kebiasaan.
 
+Perubahan identitas berarti kita membayangkan orang yg akan menuju sasaran ini saat ini sedang melakukan apa? misal orang yang sehat jika dihadapkan pilihan makan junk food atau real food tentu dia akan memilih real food, jadi setiap saat kita mengkomparasikan dengan kita ingin menjadi orang yang seperti apa dan tentukan aksi yang akan mengantarkan kita kepada identitas tersebut.
+
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
