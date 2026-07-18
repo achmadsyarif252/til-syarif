@@ -4,6 +4,8 @@ draft = false
 title = 'Bedah Buku : Kajian Mencegahku Menjadi Ateis'
 +++
 
+## Masjid Nurul Iman Blok M, 7/18/2026
+
 Sains hanya mempelajari mahluk ciptaan Allah, kemampuan mereka hanya what and how, dari mana materi terbuat dan bagaimana cara bekerja, tidak bisa menjawab why and who. Mustahil alam semesta bisa ada tanpa adanya pencipta yang sangat cerdas, ada sekitar 20 konstanta yang mengatur alam semesta ini agar teratur, oleh michaku kaku ilmuwan keturunan jepang di amerika, string theory, dia agnostik
 
 # Bab 1 
@@ -43,7 +45,7 @@ enzim amilase, lalat tidak punya mulut, hanya corong untuk menyedot, amilase ini
 Multiverse dibuat sebagai jawaban atas ketidakmampuan membuktikan dan akan meruntuhkan bahwa alam semesta itu terbuat dari keacakan, mereka tidak mampu menemukan kehidupan selain di bumi
 
 
-# Bab 8 : Membantah cocoklogi cherypicking
+# Bab 8 : Membantah cocoklogi cherry picking
  
 volume awan 1km kubik, kepadatan awan sekitar 6.5 gram /m3 500 ton beratnya , kemungkinan alquran cocoklogi itu 0% karna kebenaran yang sangat spesifik dikisnya cocok dengan sains
 mutasi genetika yg terjadi karna radiasi bom nuklir karna dia merusak dna 
