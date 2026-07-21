@@ -83,6 +83,11 @@ Tidak banyak hal yang dapat memberikan dampak lebih dahsyat pada hidup kita sela
 
 Perubahan identitas berarti kita membayangkan orang yg akan menuju sasaran ini saat ini sedang melakukan apa? misal orang yang sehat jika dihadapkan pilihan makan junk food atau real food tentu dia akan memilih real food, jadi setiap saat kita mengkomparasikan dengan kita ingin menjadi orang yang seperti apa dan tentukan aksi yang akan mengantarkan kita kepada identitas tersebut.
 
+![Tiga Lapisan Perubahan Perilaku](/images/tiga-lapisan.png)
+
+Banyak orang memulai proses pengubahan kebiasaan dengan berfokus pada apa yang ingin mereka raih. ini mengangar kita kepada kebiasan berbasis hasil. alternatifnya adalah membangung kebiasaan berbasis identitas. Dengan pendekatan ini, kita mulai dengan berfokus pada kita ingin menjadi sosok seperti apa.
+
+![Kebiasaan Berbasil Hasil dan Identitas](/images/kebiasaanbasishasil.png)
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
