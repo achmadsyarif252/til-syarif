@@ -95,7 +95,9 @@ Bayangkan dua orang sedang berusaha berhenti merokok, ketika ditawari rokok oran
 
 orang kedua menolak dan ebrkata " tidak, terima kasih. saya bukan perokok". itu perbedaan kecil tapi penyataan ini mengisyaratkan perubahan identitas. merokok adalah bagian dalam kehidupan lama, bukan kehidupan saat ini. Dia tidak lagi mengidentifikasi diri sebagai orang yang merokok.
 
-yang paling penting itu keyakinan dari dalam diri kita ingin menjadi pribadi yang seperti apa.
+yang paling penting itu keyakinan dari dalam diri kita ingin menjadi pribadi yang seperti apa. makin bangga kita terhadap aspek tertentu dalam identitas kita, makin termotivasilah kita untuk mempertahankan kebiasaan kebiasan yang terkait denganya. bila bangga dengan ukuran otot, kita kan berusaha tidak melewatkan olahraga yang melatih bagian atas tubuh dst dst.
+
+kita mungkin memulai suatu kebiasaan karena motivasi, tapi satu satunya penyebab yang membuat kita bertahan adalah karena kebiasaan itu merupakan bagian dari identitas kita. 
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
