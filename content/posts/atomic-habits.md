@@ -1,5 +1,5 @@
 +++
-date = '2026-07-16T18:24:23+07:00'
+date = '2026-07-21T18:24:23+07:00'
 draft = false
 title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
@@ -88,6 +88,14 @@ Perubahan identitas berarti kita membayangkan orang yg akan menuju sasaran ini s
 Banyak orang memulai proses pengubahan kebiasaan dengan berfokus pada apa yang ingin mereka raih. ini mengangar kita kepada kebiasan berbasis hasil. alternatifnya adalah membangung kebiasaan berbasis identitas. Dengan pendekatan ini, kita mulai dengan berfokus pada kita ingin menjadi sosok seperti apa.
 
 ![Kebiasaan Berbasil Hasil dan Identitas](/images/kebiasaanbasishasil.png)
+
+Dengan kebiasaan berbasis hasil, kita berfokus pada hal yang ingin kita raih. Dengan kebiasaan berbasis identitas, kita berfokus kepada kita ingin menjadi sosok seperti apa.
+
+Bayangkan dua orang sedang berusaha berhenti merokok, ketika ditawari rokok orang pertama menjawab, "tidak terima kasih, saya berusaha berhenti" . kedengeranya seperti jawaban yang masuk akal, padahal orang ini masih percaya bahwa dia adalah perokok yang sedang berusaha melakukan hal lain. dia berharap perilakunya berubah sembari membawa keyakinan yang sama.
+
+orang kedua menolak dan ebrkata " tidak, terima kasih. saya bukan perokok". itu perbedaan kecil tapi penyataan ini mengisyaratkan perubahan identitas. merokok adalah bagian dalam kehidupan lama, bukan kehidupan saat ini. Dia tidak lagi mengidentifikasi diri sebagai orang yang merokok.
+
+yang paling penting itu keyakinan dari dalam diri kita ingin menjadi pribadi yang seperti apa.
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
