@@ -1,5 +1,5 @@
 +++
-date = '2026-07-21T18:24:23+07:00'
+date = '2026-07-22T18:24:23+07:00'
 draft = false
 title = 'Atomic Habits'
 tags = ["Buku","Self Improvement"]
@@ -98,6 +98,10 @@ orang kedua menolak dan ebrkata " tidak, terima kasih. saya bukan perokok". itu 
 yang paling penting itu keyakinan dari dalam diri kita ingin menjadi pribadi yang seperti apa. makin bangga kita terhadap aspek tertentu dalam identitas kita, makin termotivasilah kita untuk mempertahankan kebiasaan kebiasan yang terkait denganya. bila bangga dengan ukuran otot, kita kan berusaha tidak melewatkan olahraga yang melatih bagian atas tubuh dst dst.
 
 kita mungkin memulai suatu kebiasaan karena motivasi, tapi satu satunya penyebab yang membuat kita bertahan adalah karena kebiasaan itu merupakan bagian dari identitas kita. 
+
+# Proses Dua Langkah Untuk Mengubah Identitas
+
+identitas berasal dari kebiasaan, kita tidak dilahirkan dengan keyakinan, setiap keyakinan termasuk tentang diri sendiri, dipelajari dan dikondisikan melalui pengalaman.
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
