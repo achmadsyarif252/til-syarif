@@ -103,9 +103,21 @@ kita mungkin memulai suatu kebiasaan karena motivasi, tapi satu satunya penyebab
 
 identitas berasal dari kebiasaan, kita tidak dilahirkan dengan keyakinan, setiap keyakinan termasuk tentang diri sendiri, dipelajari dan dikondisikan melalui pengalaman.
 
+kata identitas berasal dari turunan kata latin yaitu esentitas artinya ada, identidem yang berarti berulang, jadi secara harfiah identitas adalah "ada yang diulang". tidak ada peristiwa tunggal yang akan mengubah keyakinan kita, tapi ketika dukungan terbangun, begitupula bukti untuk identitas baru kita. ini satu alasan perubahan yang bermakna tidak memerlukan perubahan radikal. kebiasaan kebiasan kecil dapat membuat perbedaan yang bermakna dengan menyediakan bukti untuk identitas baru. dan bila suatu perubahan bermakna, perubahan itu sungguh besar, itulah paradoks dalam membaut perbaikan perbaikan kecil/
+
+Kita dapat melihat bahwa kebiasaan adala jalur untuk mengubah identitas kita. cara paling praktis untuk mengubah siapa kita adalah mengubah apa yang kita lakukan. kebiasaan tidak hanya mendatangkan hasil tapi juga mengajarkan sesuatu yang jauh lebih penting : percaya pada diri sendiri.
+
+dalam setiap pemilihan selalu ada suara mendukung untuk kedua pihak. kita tidak perlu suara mendukung yang bulat untuk memenangi pilihan umum, kita ucma perlu mayoritas. ngga penting ketika ada berapa suara yang mendukung perilaku buruk ata kebiasan yang tidak produktif, sasaran kita cukup memenangkan mayoritas selama mungkin.
+
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
 2. jadikan menarik
 3. jadikan mudah
 4. jadiikan memuaskan
+
+Rumus Menghilangkan kebiasaan buruk :
+1. jadikan tidak terlihat   
+2. jadikan tidak menarik
+3. jadikan sulit
+4. jadikan tidak memuaskan
 
