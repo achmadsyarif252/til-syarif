@@ -109,6 +109,10 @@ Kita dapat melihat bahwa kebiasaan adala jalur untuk mengubah identitas kita. ca
 
 dalam setiap pemilihan selalu ada suara mendukung untuk kedua pihak. kita tidak perlu suara mendukung yang bulat untuk memenangi pilihan umum, kita ucma perlu mayoritas. ngga penting ketika ada berapa suara yang mendukung perilaku buruk ata kebiasan yang tidak produktif, sasaran kita cukup memenangkan mayoritas selama mungkin.
 
+Proses dua langkah yang sederhana : 
+1. putuskan tipe orang yang anda cita citakan
+2. Buktikan pada diri sendiri dengan kemenangan kemenangan kecil.
+
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
 2. jadikan menarik
