@@ -14,3 +14,5 @@ Negara eropa tidak akan jadi negara yg kita kenal seperti sekarnag, mereka akan 
 kira kira begini keadaan dunia apabila jerman dkk menang, seluruh eropa akan dikuasai oleh jerman,italia akan berkuasa di bagian afrika, jepang akan menguasai seluruh asia, amerika akan dikuasai 3 negara itu, efek ke indonesia berarti kita tidak merdeka, jepang akan terus menjajah kita dan mereka akan terus mengajarkan ideologi mereka sampai nyantol di otak, nama nama kita mungkin pakai nama jepang, mata uang dsb
 
 Sumber : Youtube Kok Bisa
+
+Vocab Today : Condone = memaklumi, membiarkan atau mengampuni perilaku yang dianggap salah
