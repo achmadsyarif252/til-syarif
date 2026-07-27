@@ -113,6 +113,14 @@ Proses dua langkah yang sederhana :
 1. putuskan tipe orang yang anda cita citakan
 2. Buktikan pada diri sendiri dengan kemenangan kemenangan kecil.
 
+# Alasan Sesungguhnya mengapa kebiasan it penting
+
+Perubahan identitas adalah kiblat untuk perubahan kebiasaan. Langkah pertama bukan apa atau bagaimana tapi siapa. kita perlu tahu ingin menjadi seperti apa kita. kalau tidak begitu, upaya kita mencari perubahan akan seperti kapal tanpa kemudi
+
+Kita memiliki kuasa untuk mengubah keyakinan terhadap diri sendiri. identitas kita tidak terpahat pada batu. setiap saat kita mempunyai pilihan. kita dapat memilih identitas yang kita perkuat setiap hari dengan kebiasaan kebiasanyang kita pilih hari ini. dan ini mengantar kita ke tujuan lebih mendalam buku ini serta alasan sesungguhnya mengapa kebiasaan itu penting.
+
+Membangun kebiasaan yang lebih baik tiadk sama dengan mengotori hari kita dengan kegiatan kegiatan remeh. tidak sama dengan memebrsihkan gigi tiap malam atau mandi air dingin tiap pagi atau mengenakan baju yang sama tiap hari. tidak sama dengan membuat upaya upaya eksternal yang sukes seperti mencari lebih banyak uang, menurunkan berat badam atau mengurangi stres. kebiasaan dapat memudahkan kita meraih semua hal itu, tapi pada dasarnaya itu tidak berkaitan dnegan mempunyai sesuatu. kebiasaan terkait dengan menjadi seseorang. secara harfiah, kita menjadi kebiasaan kita.
+
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
 2. jadikan menarik
