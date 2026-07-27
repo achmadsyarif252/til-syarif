@@ -2,6 +2,7 @@
 date = '2026-07-27T20:11:18+07:00'
 draft = false
 title = 'What if Jerman Dkk Menang?'
+tags = ["Sejarah","Pengetahuan"]
 +++
 
 Jerman,Jepang,Italia merupakan negara pencetus perang dunia kedua, seperti yang sudah banyak orang tahu nazi itu militer yang sangat kejam bagaimaan jadinya tatanan dunia ini apabila jerman dkk menang di perang dunia ke 2 ?
