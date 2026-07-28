@@ -117,9 +117,16 @@ Proses dua langkah yang sederhana :
 
 Perubahan identitas adalah kiblat untuk perubahan kebiasaan. Langkah pertama bukan apa atau bagaimana tapi siapa. kita perlu tahu ingin menjadi seperti apa kita. kalau tidak begitu, upaya kita mencari perubahan akan seperti kapal tanpa kemudi
 
-Kita memiliki kuasa untuk mengubah keyakinan terhadap diri sendiri. identitas kita tidak terpahat pada batu. setiap saat kita mempunyai pilihan. kita dapat memilih identitas yang kita perkuat setiap hari dengan kebiasaan kebiasanyang kita pilih hari ini. dan ini mengantar kita ke tujuan lebih mendalam buku ini serta alasan sesungguhnya mengapa kebiasaan itu penting.
+Kita memiliki kuasa untuk mengubah keyakinan terhadap diri sendiri. identitas kita tidak terpahat pada batu. setiap saat kita mempunyai pilihan. kita dapat memilih identitas yang kita perkuat setiap hari dengan kebiasaan kebiasan yang kita pilih hari ini. dan ini mengantar kita ke tujuan lebih mendalam buku ini serta alasan sesungguhnya mengapa kebiasaan itu penting.
 
 Membangun kebiasaan yang lebih baik tiadk sama dengan mengotori hari kita dengan kegiatan kegiatan remeh. tidak sama dengan memebrsihkan gigi tiap malam atau mandi air dingin tiap pagi atau mengenakan baju yang sama tiap hari. tidak sama dengan membuat upaya upaya eksternal yang sukes seperti mencari lebih banyak uang, menurunkan berat badam atau mengurangi stres. kebiasaan dapat memudahkan kita meraih semua hal itu, tapi pada dasarnaya itu tidak berkaitan dnegan mempunyai sesuatu. kebiasaan terkait dengan menjadi seseorang. secara harfiah, kita menjadi kebiasaan kita.
+
+# Bab 3 : 4 Langkah sederhana membangun kebiasaan
+Tahun 1898 ada seorang psikolog bernama Edward Thorndike melakukan sebuah penelitian yang akan membawa perubahan mendasar kepada dunia dalam memandang pembentukan kebiasaan, dia menggunakan eksperimen kucing dengen meletakan kucing di sebuah kotak mendesain sebuah kotak sedemikian sehingga apabila kucing dimasukan dan melakukan aksi sederhana akan membuat pintu terbuka dan makanan si kucing akan mendapatkan makanan.
+
+Pada awal percobaan kucing seketika berusaha mencoba untuk keluar dari pintu lalu, di percobaan awal awal kucing membutuhkan waktu lama sekitar belasan sampai dua puluhan detik, namun semakin sering percobaan dilakukan waktu yang dibutuhkan kucing untuk membuka pintu menjadi jauh lebih cepat, hanya di kisaran 7-10 detik saja.
+
+dari penelitian itu diambil kesimpulan bahwa otak kita cenderung akan mengulangi perilaku yang mendatangkan kepuasan sedangkan perilaku perilaku yang disusul akibat yang kurang menyenangkan cenderung tidak diulang
 
 Rumus Membentuk Kebiasaan;
 1. jadikan terlihat
