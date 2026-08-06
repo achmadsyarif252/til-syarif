@@ -134,6 +134,16 @@ Rumus Membentuk Kebiasaan;
 3. jadikan mudah
 4. jadiikan memuaskan
 
+Banyak orang berpikir bahwa dengan kebiasaan maka hidup akan kurang bergairah, bukankah hidup lebih asyik secara spontan tidak dengan kebiasaan membosankan, kita semacam tidak bebas dalam hidup dengan rutinitas kaku setiap harinya, tapi pola pikir macam ini salah, ini terjadi karna adanya dikotomi antara kebiasaan dengan meraih kebebasan padahal keduanya saling melengkapi.
+
+Dengan kebiasaan yang baik kita akan punya lebih banyak waktu dan tenaga untuk berfokus pada hal hal yang ingin kita capai karna hal hal basic sudah dilakukan tanpa perlu memakan energi, fokus dan mental yang banyak, bayangkan jika kita ingin menjadi kaya tapi tanpa manajemen finansial yang baik atau kebiasaan yang buruk dalam mengatur keuangan, justru akan merepotkan kita contohnya harus melakukan side hustle (tidak buruk), dengan kebiasaan olahraga yang baik juga tubuh kita menjadi lebih optimal, fokus lebih terjaga sehingga kita bisa berfokus ke hal hal lain yang ingin kita raih atau meraih kebebasan yang kita inginkan, kalau kita direpotkan oleh hal hal "simpel" seperti itu giamna mau meraih kebebasan.
+
+Rumus Membentuk Kebiasaan :
+1. Jadikan terlihat
+2. Jadikan menarik
+3. Jadikan mudah
+4. Jadikan memuaskan
+
 Rumus Menghilangkan kebiasaan buruk :
 1. jadikan tidak terlihat   
 2. jadikan tidak menarik
