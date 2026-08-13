@@ -16,4 +16,9 @@ namun sejarah berubah sekitar 7500-10.000 tahun lalu melalui peristiwa persisten
 
 kenapa gak 100% karna tidak semua wilayahh di dnia punya sejarah kebudayaan minum susu segar di masa lalu.
 
-Wilayah PopulasiTingkat Intoleransi LaktosaAlasan HistorisEropa Utara & KaukasiaSangat Rendah (5% – 15%)Nenek moyang peternak sapi perah intensif.Timur TengahSedang (50% – 70%)Sejarah peternakan unta dan kambing.Afrika & Amerika SelatanTinggi (70% – 90%)Hanya suku peternak tertentu yang toleran.Asia Timur & Tenggara (Termasuk Indonesia)Sangat Tinggi (90% – 98%)Pertanian purba berbasis tanaman, bukan susu.
+| Wilayah / Populasi | Tingkat Intoleransi Laktosa | Alasan Historis |
+| :--- | :---: | :--- |
+| **Eropa Utara & Kaukasia** | Sangat Rendah (5% – 15%) | Nenek moyang peternak sapi perah intensif. |
+| **Timur Tengah** | Sedang (50% – 70%) | Sejarah peternakan unta dan kambing. |
+| **Afrika & Amerika Selatan** | Tinggi (70% – 90%) | Hanya suku peternak tertentu yang toleran. |
+| **Asia Timur & Tenggara (Termasuk Indonesia)** | Sangat Tinggi (90% – 98%) | Pertanian purba berbasis tanaman, bukan susu. |

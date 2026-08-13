@@ -2,22 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://til-syarif-25.pages.dev/tags/biologi/</loc>
-    <lastmod>2026-08-13T23:24:48+07:00</lastmod>
-  </url><url>
-    <loc>https://til-syarif-25.pages.dev/tags/evolusi/</loc>
-    <lastmod>2026-08-13T23:24:48+07:00</lastmod>
-  </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/lactose/</loc>
     <lastmod>2026-08-13T23:24:48+07:00</lastmod>
   </url><url>
-    <loc>https://til-syarif-25.pages.dev/tags/kesehatan/</loc>
-    <lastmod>2026-08-13T23:24:48+07:00</lastmod>
-  </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/</loc>
-    <lastmod>2026-08-13T23:24:48+07:00</lastmod>
-  </url><url>
-    <loc>https://til-syarif-25.pages.dev/tags/</loc>
     <lastmod>2026-08-13T23:24:48+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/</loc>
@@ -33,6 +21,9 @@
     <lastmod>2026-08-10T23:27:33+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/tags/pengetahuan/</loc>
+    <lastmod>2026-08-10T23:27:33+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/tags/</loc>
     <lastmod>2026-08-10T23:27:33+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/tags/sejarah/</loc>
@@ -220,6 +211,12 @@
   </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/c&#43;&#43;/</loc>
     <lastmod>2026-06-15T23:15:22+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/tags/biologi/</loc>
+    <lastmod>2026-06-13T23:40:23+07:00</lastmod>
+  </url><url>
+    <loc>https://til-syarif-25.pages.dev/tags/kesehatan/</loc>
+    <lastmod>2026-06-13T23:40:23+07:00</lastmod>
   </url><url>
     <loc>https://til-syarif-25.pages.dev/posts/think/</loc>
     <lastmod>2026-06-13T23:40:23+07:00</lastmod>

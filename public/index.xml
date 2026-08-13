@@ -9,78 +9,12 @@
     <lastBuildDate>Thu, 13 Aug 2026 23:24:48 +0700</lastBuildDate>
     <atom:link href="https://til-syarif-25.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intoleransi Laktosa (Lactose Intolerance)</title>
+      <title>Lactose Intolerance</title>
       <link>https://til-syarif-25.pages.dev/posts/lactose/</link>
       <pubDate>Thu, 13 Aug 2026 23:24:48 +0700</pubDate>
       <guid>https://til-syarif-25.pages.dev/posts/lactose/</guid>
-      <description>&lt;p&gt;Intoleransi laktosa adalah ketidakmampuan tubuh mencerna laktosa (gula utama dalam susu) akibat berkurangnya produksi enzim &lt;strong&gt;laktase&lt;/strong&gt; di usus halus setelah masa kanak-kanak/sapih.&lt;/p&gt;
-&lt;p&gt;Secara biologis pada mamalia dewasa, penurunan enzim laktase (&lt;em&gt;Lactase Non-Persistence&lt;/em&gt;) sebenarnya adalah kondisi alami/normal. Namun, beberapa populasi manusia mengalami &lt;strong&gt;ko-evolusi genetik &amp;amp; budaya&lt;/strong&gt; (&lt;em&gt;Lactase Persistence&lt;/em&gt;) karena sejarah panjang beternak hewan perah.&lt;/p&gt;
-&lt;p&gt;Berikut adalah tabel sebaran tingkat intoleransi laktosa di berbagai wilayah populasi beserta alasan evolusinya:&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Wilayah&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Populasi / Kelompok&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;Tingkat Intoleransi Laktosa&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Alasan &amp;amp; Penyebab&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Asia Timur&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Tiongkok, Jepang, Korea, Vietnam&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;90% – 100%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Tidak ada tradisi historis peternakan hewan perah (&lt;em&gt;dairying&lt;/em&gt;); gen &lt;em&gt;LCT&lt;/em&gt; pembentuk laktase secara alami nonaktif setelah masa sapih.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Asia Tenggara&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Indonesia, Thailand, Filipina&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;80% – 95%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Iklim tropis lembap membuat susu segar cepat basi, sehingga tradisi memerah dan mengonsumsi susu hewan tidak berkembang.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Afrika Barat &amp;amp; Tengah&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Suku Bantu, Yoruba, Igbo&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;70% – 90%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Keberadaan lalat tsetse (penyebab penyakit tidur) membatasi peternakan sapi perah di kawasan tropis/sabana lembap.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Eropa Utara &amp;amp; Barat&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Skandinavia, Inggris, Belanda, Jerman&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;2% – 15%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Mengalami mutasi persisten laktase sejak ~7.000-10.000 tahun lalu. Susu menjadi sumber penting kalsium dan Vitamin D di daerah yang minim sinar matahari.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Eropa Selatan &amp;amp; Mediterania&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Italia, Yunani, Spanyol&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;40% – 70%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Sinar matahari melimpah dan adanya tradisi mengolah susu menjadi keju/yoghurt (yang rendah laktosa), sehingga tekanan mutasi genetik tidak sekuat di Eropa Utara.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Timur Tengah&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Suku Bedouin (Peternak) / Populasi Umum&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;20% – 50%&lt;/strong&gt; (Bedouin)&lt;br&gt;&lt;strong&gt;70% – 80%&lt;/strong&gt; (Umum)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Tradisi menggembala unta dan kambing memicu ko-evolusi genetik mandiri (&lt;em&gt;mutation -13915*G&lt;/em&gt;) untuk mencerna susu segar.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Afrika Timur&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Suku Maasai, Tutsi, Fulani&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;20% – 50%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Mengalami mutasi genetik unik (&lt;em&gt;-14010*C&lt;/em&gt;) karena kebudayaan yang sangat bergantung pada darah dan susu sapi sebagai makanan pokok.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Amerika Asli &amp;amp; Aborigin&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Penduduk Asli Amerika, suku Aborigin Australia&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;80% – 100%&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Tidak ada spesies mamalia besar perah yang terdomestikasi di benua tersebut sebelum kedatangan bangsa Eropa.&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;kesimpulan-singkat&#34;&gt;Kesimpulan Singkat&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Toleransi laktosa&lt;/strong&gt; (bisa minum susu saat dewasa) adalah mutasi genetik relatif baru dalam sejarah manusia (~10.000 tahun terakhir).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Intoleransi laktosa&lt;/strong&gt; adalah norma genetik bagi mayoritas populasi dunia (sekitar 65-70% populasi global).&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Adalah gangguan pencernaan saat tubuh tidak mampu mencerna laktosa (gula dalam susu) karena kurangnya enzim laktase di usus halus. Akibatnya konsumsi susu atau produk olahan susu memicu gejala perut kembung,diare, dan kram perut&lt;/p&gt;
+&lt;p&gt;Secara global sekitar 65-70% populasi manusia dewasa mengalami intoleransi laktosa, secara alami tubuh manusia diprogram untuk produksi enzim laktase hanya saat bayi (buat cerna asi). ketika disapih, gen laktase otomatis akan nonaktif atau mati karna tubuh tidak lagi membutuhkan susu&lt;/p&gt;</description>
     </item>
     <item>
       <title>Egalitarian</title>
