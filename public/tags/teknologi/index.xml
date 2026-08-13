@@ -6,8 +6,19 @@
     <description>Recent content in Teknologi on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 25 May 2026 22:34:58 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:59:13 +0700</lastBuildDate>
     <atom:link href="https://til-syarif-25.pages.dev/tags/teknologi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kenapa Chip Kecil Lebih Cepat</title>
+      <link>https://til-syarif-25.pages.dev/posts/chip/</link>
+      <pubDate>Thu, 16 Jul 2026 22:59:13 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/chip/</guid>
+      <description>&lt;p&gt;Semakin kecil chip seperti 3nm atau 2nm semakin bisa lebih cepat dan hemat karena jarak tempuh listrik lebih pendek, butuh daya lebih kecil, dan lebih sedikit panas yang terbuang&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Jarak tempuh lebih pendek
+Chip berisi jutaan sakelar kecil bernama transistor, fungsinya seperti jembatan yang menyala atau mati untuk mengirim data, bayangkan listrik sebagai kurir yang berlari, jika ukuran chip diperkercil, jarak antar gedung (transistor) menjadi semakin dekat, kurir tidak perlu berlari jauh, sehingga data lebih cepat sampai&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LLM Series Part 2 : Parameter &amp; Jaringan Saraf Tiruan</title>
       <link>https://til-syarif-25.pages.dev/posts/llmpart2/</link>

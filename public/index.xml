@@ -6,8 +6,404 @@
     <description>Recent content on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Sun, 05 Jul 2026 23:05:06 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:24:48 +0700</lastBuildDate>
     <atom:link href="https://til-syarif-25.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intoleransi Laktosa (Lactose Intolerance)</title>
+      <link>https://til-syarif-25.pages.dev/posts/lactose/</link>
+      <pubDate>Thu, 13 Aug 2026 23:24:48 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/lactose/</guid>
+      <description>&lt;p&gt;Intoleransi laktosa adalah ketidakmampuan tubuh mencerna laktosa (gula utama dalam susu) akibat berkurangnya produksi enzim &lt;strong&gt;laktase&lt;/strong&gt; di usus halus setelah masa kanak-kanak/sapih.&lt;/p&gt;
+&lt;p&gt;Secara biologis pada mamalia dewasa, penurunan enzim laktase (&lt;em&gt;Lactase Non-Persistence&lt;/em&gt;) sebenarnya adalah kondisi alami/normal. Namun, beberapa populasi manusia mengalami &lt;strong&gt;ko-evolusi genetik &amp;amp; budaya&lt;/strong&gt; (&lt;em&gt;Lactase Persistence&lt;/em&gt;) karena sejarah panjang beternak hewan perah.&lt;/p&gt;
+&lt;p&gt;Berikut adalah tabel sebaran tingkat intoleransi laktosa di berbagai wilayah populasi beserta alasan evolusinya:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Wilayah&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Populasi / Kelompok&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Tingkat Intoleransi Laktosa&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Alasan &amp;amp; Penyebab&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Asia Timur&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tiongkok, Jepang, Korea, Vietnam&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;90% – 100%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tidak ada tradisi historis peternakan hewan perah (&lt;em&gt;dairying&lt;/em&gt;); gen &lt;em&gt;LCT&lt;/em&gt; pembentuk laktase secara alami nonaktif setelah masa sapih.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Asia Tenggara&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Indonesia, Thailand, Filipina&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;80% – 95%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Iklim tropis lembap membuat susu segar cepat basi, sehingga tradisi memerah dan mengonsumsi susu hewan tidak berkembang.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Afrika Barat &amp;amp; Tengah&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Suku Bantu, Yoruba, Igbo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;70% – 90%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Keberadaan lalat tsetse (penyebab penyakit tidur) membatasi peternakan sapi perah di kawasan tropis/sabana lembap.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Eropa Utara &amp;amp; Barat&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Skandinavia, Inggris, Belanda, Jerman&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;2% – 15%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mengalami mutasi persisten laktase sejak ~7.000-10.000 tahun lalu. Susu menjadi sumber penting kalsium dan Vitamin D di daerah yang minim sinar matahari.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Eropa Selatan &amp;amp; Mediterania&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Italia, Yunani, Spanyol&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;40% – 70%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Sinar matahari melimpah dan adanya tradisi mengolah susu menjadi keju/yoghurt (yang rendah laktosa), sehingga tekanan mutasi genetik tidak sekuat di Eropa Utara.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Timur Tengah&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Suku Bedouin (Peternak) / Populasi Umum&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;20% – 50%&lt;/strong&gt; (Bedouin)&lt;br&gt;&lt;strong&gt;70% – 80%&lt;/strong&gt; (Umum)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tradisi menggembala unta dan kambing memicu ko-evolusi genetik mandiri (&lt;em&gt;mutation -13915*G&lt;/em&gt;) untuk mencerna susu segar.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Afrika Timur&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Suku Maasai, Tutsi, Fulani&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;20% – 50%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mengalami mutasi genetik unik (&lt;em&gt;-14010*C&lt;/em&gt;) karena kebudayaan yang sangat bergantung pada darah dan susu sapi sebagai makanan pokok.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Amerika Asli &amp;amp; Aborigin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Penduduk Asli Amerika, suku Aborigin Australia&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;80% – 100%&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tidak ada spesies mamalia besar perah yang terdomestikasi di benua tersebut sebelum kedatangan bangsa Eropa.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;kesimpulan-singkat&#34;&gt;Kesimpulan Singkat&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Toleransi laktosa&lt;/strong&gt; (bisa minum susu saat dewasa) adalah mutasi genetik relatif baru dalam sejarah manusia (~10.000 tahun terakhir).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intoleransi laktosa&lt;/strong&gt; adalah norma genetik bagi mayoritas populasi dunia (sekitar 65-70% populasi global).&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Egalitarian</title>
+      <link>https://til-syarif-25.pages.dev/posts/egalitarian/</link>
+      <pubDate>Wed, 12 Aug 2026 23:53:21 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/egalitarian/</guid>
+      <description>&lt;p&gt;Paham egalitarian atau egalitarianisme adalah pandangan hidup yang memegang prinsip bahwa semua manusia memiliki derajat, hak, dan kesempatan yang setara. Paham ini menolak diskriminasi, memandang setiap orang setara di hadapan hukum, dan menentang perbedaan kelas sosial atau keistimewaan berdasarkan keturunan&lt;/p&gt;
+&lt;p&gt;Inti Nilai Paham Egalitarian&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Kesetaraan derajat: Setiap orang punya nilai dasar yang sama sebagai manusia.&lt;/li&gt;
+&lt;li&gt;Hak yang setara: Hak politik, sosial, dan sipil berlaku sama untuk semua.&lt;/li&gt;
+&lt;li&gt;Peluang yang adil: Akses ke pendidikan dan pekerjaan terbuka rata.&lt;/li&gt;
+&lt;li&gt;Tanpa diskriminasi: Menolak perlakuan beda karena ras, suku, atau status&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bentuk Penerapan dalam Masyarakat&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rama</title>
+      <link>https://til-syarif-25.pages.dev/posts/rama/</link>
+      <pubDate>Tue, 11 Aug 2026 23:29:52 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/rama/</guid>
+      <description>&lt;p&gt;Fakta Unik Rama &amp;amp; Kresna&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Satu Jiwa: Rama dan Kresna adalah entitas yang sama, yaitu reinkarnasi Dewa Wisnu.&lt;/li&gt;
+&lt;li&gt;Beda Zaman: Rama hidup di zaman Treta Yuga, sedangkan Kresna di zaman Dwapa Yuga.&lt;/li&gt;
+&lt;li&gt;Arti Ramayana: Judul &amp;ldquo;Ramayana&amp;rdquo; bukan nama orang, melainkan berarti &amp;ldquo;Perjalanan Hidup Rama&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Sifat Kontras: Rama adalah simbol ketaatan hukum kaku, Kresna adalah simbol strategi fleksibel.&lt;/li&gt;
+&lt;li&gt;Pasangan Abadi: Istri mereka, Dewi Sita dan Dewi Rukmini, sama-sama titisan Dewi Laksmi&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Lasik</title>
+      <link>https://til-syarif-25.pages.dev/posts/lasik/</link>
+      <pubDate>Mon, 10 Aug 2026 23:27:33 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/lasik/</guid>
+      <description>&lt;p&gt;Laser Assisted in Situ Keratomileusis adalah prosedur bedah refraktif menggunakan laser untuk membentuk kembali kornea mata. tujuanya buat memperbaiki kelainan penglihatan seperti rabuh jauh (miopia), rabun dekat (hiperopia), dan silinder (astigmatisme)&lt;/p&gt;
+&lt;p&gt;Cara kerja&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;dokter membuat sayatan tipis atau penutup pada permukaan kornea&lt;/li&gt;
+&lt;li&gt;sinar laser khusus (excimer laser) memahat dan mengubah kelengkungan jaringan kornea di bawahnya&lt;/li&gt;
+&lt;li&gt;cahaya yang masuk ke mata kini dapat terfokus secara tepat di atas retina&lt;/li&gt;
+&lt;li&gt;proses cepat hitungan menit per mata umumnya tanpa rasa sakit&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Teknis tentang memahat&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tugu Pancoran</title>
+      <link>https://til-syarif-25.pages.dev/posts/tugupancoran/</link>
+      <pubDate>Sun, 09 Aug 2026 23:24:30 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/tugupancoran/</guid>
+      <description>&lt;p&gt;Monumen Patung Dirgantara lebih dikenal dengan tugu pancoran digagas oleh soekarnao tahun 1964 melambnagkan keberanian dan semangat bangsa untuk menjelajah angkasa dibuat oleh edhi sunarso, soekarno menjual mobil pribadi untuk membiayai proyek ini&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Konjungsi entah itu juga berpasangan dengan entah ..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transjakarta</title>
+      <link>https://til-syarif-25.pages.dev/posts/tj/</link>
+      <pubDate>Sat, 08 Aug 2026 23:41:03 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/tj/</guid>
+      <description>&lt;p&gt;Fakta singkat TJ&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Perencanaan Transjakarta dimulai pada tahun 2001 di era gubernur Sutisyo&lt;/li&gt;
+&lt;li&gt;Mulai beroperasi pada 15 januari 2004&lt;/li&gt;
+&lt;li&gt;Dinobatkan sebagai jaringan BRT (Buss Rapid Transit) terpanjang di dunia&lt;/li&gt;
+&lt;li&gt;1,4 juta penumpang Rata rata per hari&lt;/li&gt;
+&lt;li&gt;Jumlah rute aktif: Lebih dari 230 rute&lt;/li&gt;
+&lt;li&gt;Laba bersih sebesar Rp205 miliar pada tahun buku 2025&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Magnetic Confinment</title>
+      <link>https://til-syarif-25.pages.dev/posts/magneticconfinment/</link>
+      <pubDate>Fri, 07 Aug 2026 23:04:22 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/magneticconfinment/</guid>
+      <description>&lt;p&gt;Pengekangan Magnetik adalah teknologi yang digunakan dalam reaktor fusi nuklir untuk mengurung dan mengendalikan plasma bersuhu sangat tinggi &amp;gt; 100 juta derajat celcius menggunakan medan magnet super kuat agar plasma tidak menyentuk dinding wadah reaktor.&lt;/p&gt;
+&lt;h1 id=&#34;masalah-utama&#34;&gt;Masalah Utama&lt;/h1&gt;
+&lt;p&gt;Menggunakan dua inti atom ringan (deuterium dan tritium) menjadi satu inti atom yang lebih berat (helium) melontarkan energi raksasa dalam prosesnya.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agar fusi terjadi, gas harus dipanaskan hingga lebih dari 100.000.000 °C.&lt;/li&gt;
+&lt;li&gt;Pada suhu ekstrem ini, elektron terlepas dari atomnya, membentuk plasma (sup partikel bermuatan listrik yang terdiri dari ion positif dan elektron bebas).&lt;/li&gt;
+&lt;li&gt;Tantangannya: Tidak ada material padat apa pun di Bumi (besi, tungsten, maupun keramik) yang sanggup menahan suhu 100 juta °C tanpa meleleh seketika.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;solusi-magnet-sebagai-botol-gaib&#34;&gt;Solusi Magnet sebagai &amp;ldquo;Botol Gaib&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;Plasma terdiri dari partikel-partikel yang memiliki muatan listrik ($q$). Ketika partikel bermuatan bergerak dengan kecepatan ($\vec{v}$) di dalam medan magnet ($\vec{B}$), partikel tersebut mengalami Gaya Lorentz:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>History Singkat Hari ini</title>
+      <link>https://til-syarif-25.pages.dev/posts/history101/</link>
+      <pubDate>Thu, 06 Aug 2026 22:09:04 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/history101/</guid>
+      <description>&lt;p&gt;Konstatinopel ditaklukan salah satu caranya adalah dengan mengangkat kapal (literaly diangkat secara harfiah) melewati daratan, dengan sekitar 10.000 pasukan di malam hari, lintasan sudah dibangung jauh hari sebelumnya, kenapa tidak disadari pasukan bizantium karna mereka terkecoh oleh suara meriam yg ditembakan di bagian depan tembok utama, lalu jalurnya juga tertutup gunung / perbukitan gitu, untuk mengangkutnya jalurnya itu diberi tumpukan kayu dan pelumas dari lemak hewan or something, itu tahun 1453 oleh sultan muhammad al fateh, atau sultan mehmed II&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ininity Monkey Theorem</title>
+      <link>https://til-syarif-25.pages.dev/posts/monkey_theorem/</link>
+      <pubDate>Wed, 05 Aug 2026 23:07:26 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/monkey_theorem/</guid>
+      <description>&lt;p&gt;Kalau kita kasih monyet mesin tik selama waktu tak terbatas, mereka bakal bisa nulis ulang seluruh karya Shakespeare secara sempurna&lt;/p&gt;
+&lt;p&gt;Teorema ini adalah eksperimen probabilitas matematika dasar, intna jika ada probabilitas suatu kejadian bernilai lebih dari nol meski sekecil apa pun, maka dalam skala waktu tak terbatas, kejadian tersebut pasti akan terjadi setidaknya sekali&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;monyet mengetik tanpa pola atau pemikiran&lt;/li&gt;
+&lt;li&gt;kuncinya ada pada waktu tak terbatas&lt;/li&gt;
+&lt;li&gt;semua kombinasi huruf yang mungkin ada di unia akan tercipta, termasuk buku,manuskrip, hingga komputer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Simulasi mtk sederhana&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neokolonialisme dan Teori Sistem Dunia</title>
+      <link>https://til-syarif-25.pages.dev/posts/neokolonialisme/</link>
+      <pubDate>Tue, 04 Aug 2026 23:02:39 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/neokolonialisme/</guid>
+      <description>&lt;h1 id=&#34;neokolonialisme&#34;&gt;Neokolonialisme&lt;/h1&gt;
+&lt;p&gt;Neokolonialisme adalah kondisi di mana suatu negara sudah merdeka secara politik, tetapi ekonomi dan sumber dayanya masih dikendalikan atau didoinasi oleh kekuatan luar.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;kolonialsme : kontrol langsung lewat militer dan tentara&lt;/li&gt;
+&lt;li&gt;Neokolonialisme : kontrol tidak langsung lewat utang, investasi,dominasi teknologi, dan aturan perdagangan internasional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;istilah itu pertama kali dipopulerkan oleh kwame nkrumah (presiden pertama ghana) buat gambarin tantangan negara2 berkemnbang pasca-kemerdekaan&lt;/p&gt;
+&lt;h1 id=&#34;teori-sistem-dunia&#34;&gt;Teori Sistem Dunia&lt;/h1&gt;
+&lt;p&gt;Sosiolog Immanuel Wallersetin membagi ekonomi global menjadi tiga tingkatan&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WWW</title>
+      <link>https://til-syarif-25.pages.dev/posts/www/</link>
+      <pubDate>Mon, 03 Aug 2026 23:04:11 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/www/</guid>
+      <description>&lt;p&gt;World Wide Web Day: Tanggal 1 Agustus (1989) diperingati sebagai hari lahirnya fondasi internet modern yang ditemukan oleh Sir Tim Berners-Lee.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kajian Ust Nuzul Zikri</title>
+      <link>https://til-syarif-25.pages.dev/posts/sabar/</link>
+      <pubDate>Sat, 01 Aug 2026 17:25:08 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/sabar/</guid>
+      <description>&lt;p&gt;Key points&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Orang yang sabar tajam cara berpikirnya&lt;/li&gt;
+&lt;li&gt;Sifat halu, pelit lahir dari rasa rendah diri atau kekerdilan jiwa&lt;/li&gt;
+&lt;li&gt;Oleh karena itu latih diri kita dengan dermawan,keberanian&lt;/li&gt;
+&lt;li&gt;Inti dari sifat sifat jelek yg ada diatas adalah karna ketidakberhasilan dalam mengontrol diri&lt;/li&gt;
+&lt;li&gt;Minta kepada allah agar diri kita berani, tidak mudah protes,komplen dsb&lt;/li&gt;
+&lt;li&gt;Berprogres, biidznillah&lt;/li&gt;
+&lt;li&gt;Selama kita ga berhenti insya Allah akan ada progres,Jangan pernah berhenti. Setiap orang yg berjalan di atas rel. Biidznillah sampai ke tujuan&lt;/li&gt;
+&lt;li&gt;Kalaupun ga bisa, kita akan tercatat sedang berusaha&lt;/li&gt;
+&lt;li&gt;Hati yg bersih dan tenang kunci belajar yg bisa masuk&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Lebah</title>
+      <link>https://til-syarif-25.pages.dev/posts/lebah/</link>
+      <pubDate>Fri, 31 Jul 2026 23:08:46 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/lebah/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Efisiensi Geometris (The Honeycomb Conjecture):&lt;/strong&gt; Selama ribuan tahun, matematikawan menduga bahwa bentuk heksagonal (segi enam) adalah cara paling efisien untuk menyimpan madu dengan material lilin seminimal mungkin. Dugaan ini akhirnya dibuktikan secara mutlak oleh &lt;em&gt;Thomas Hales&lt;/em&gt; pada tahun 1999.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ekonomi Produksi:&lt;/strong&gt; Lebah harus mengonsumsi sekitar 8 ons madu untuk menghasilkan 1 ons lilin. Karena biaya produksinya yang sangat mahal, evolusi mendorong lebah untuk membangun struktur yang paling hemat bahan.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Analisis Matematika:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vaksin</title>
+      <link>https://til-syarif-25.pages.dev/posts/vaksin/</link>
+      <pubDate>Thu, 30 Jul 2026 23:20:21 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/vaksin/</guid>
+      <description>&lt;p&gt;Cara kerja vaksin itu seperti pesan instruksi buat tubuh kita sendiri&lt;/p&gt;
+&lt;p&gt;langkah langkahnya&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;vaksim dimasukkan ke tubuh, vaksin mengandung molekul mRNA (bukan virus hidup atau virus mati) dia ini adalah cetak biru untuk membuat protein&lt;/li&gt;
+&lt;li&gt;mRNA masuk ke sel, mRNA dibungkus oleh lipid (lemak kecil) supaya bisa masuk ke dalam sel otot atau sel imun. setelah masuk, mRNA tidak masuk ke dalam sel sehingga tidak mengubah genetika kita&lt;/li&gt;
+&lt;li&gt;sel membaca mRNA, ribosom di dalam sel membaca mRNA kaya resep makanan lalu memproduksi protein spike (protein khasi virus covid 19) di permukaan sel&lt;/li&gt;
+&lt;li&gt;sistem imun mendeteksi , sistem kekebalan tubuh melilhat protein spike ini sebagai musuh asing, maka tubuh mulai memproduksi antibodi, sel t, sel memori imun&lt;/li&gt;
+&lt;li&gt;mRNA dihancurkan setelah tugasnya selesai (beberapa hari) mRNA secara alami rusak oleh tubuh dan hilang secara total&lt;/li&gt;
+&lt;li&gt;tubuh jadi siap, kalau nanti covid virus beneran masuk ke tubuh sistem imun sudah mengenali protein spike-nya dan langsung menyerang dengan cepat&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Microwave</title>
+      <link>https://til-syarif-25.pages.dev/posts/microwave/</link>
+      <pubDate>Wed, 29 Jul 2026 23:17:03 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/microwave/</guid>
+      <description>&lt;p&gt;Microwave bekerja dengan mengubah energi lisrik menjadi gelombang mikro berfrekuensi tinggi (sekitar 2,45 Ghz) menggunakan komponen inti bernama magnetron. Gelombang mikro yang terpancar di dalam overn ini memiliki sifat unik yaitu mampu menembus wadah kaca, keramik, atau plastik tanpa memanaskanya, lalu langsung masuk ke dalam makanan.&lt;/p&gt;
+&lt;p&gt;Di dalam makanan gelombang ini secara spesifik menyasar molekul polar, terutama air, lemak, dan gula. karena molekul air memiliki kutub positif dan negatif, gelombang mikro memaksa kutub kutub tersebut berputar bolak balik dengan sangat cepat hingga miliaran kali per detik. putaran super cepat ini memicu gesekan atau friiksi yang luar biasa hebat antarmolekul. geekan masif ini menghasilkan energi panas instan. yang kemudian menyebar denganc epat ke seluruh bagian makanan hingga matang secara merata dari dalam.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What if Jerman Dkk Menang?</title>
+      <link>https://til-syarif-25.pages.dev/posts/jerman/</link>
+      <pubDate>Mon, 27 Jul 2026 20:11:18 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/jerman/</guid>
+      <description>&lt;p&gt;Jerman,Jepang,Italia merupakan negara pencetus perang dunia kedua, seperti yang sudah banyak orang tahu nazi itu militer yang sangat kejam bagaimaan jadinya tatanan dunia ini apabila jerman dkk menang di perang dunia ke 2 ?&lt;/p&gt;
+&lt;p&gt;Apabila jerman pada saat itu tidak gegabah menyerang uni soviet padalah persenjataan mereka sedang minim dan tidak menyatakan pereang ke amerika serikat yang pada saat itu salah satu negara terkuat mungkin jerman akan bisa memenangkan perang dunia ke 2, apa yang akan terjadi ke dunia dan indonesia ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Icohsaedron</title>
+      <link>https://til-syarif-25.pages.dev/posts/icohsaedron/</link>
+      <pubDate>Sun, 26 Jul 2026 23:13:42 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/icohsaedron/</guid>
+      <description>&lt;p&gt;Icosahedron adalah bangun ruang tiga dimensi (polihedron) yang memiliki 20 buah bidang sisi, nama bangunan ini diambil dari bahasa yunani yaitu eikosi berarti dua puluh dan hedra yang berarti tempat duduk atau permukaan&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Icosahedron&#34; loading=&#34;lazy&#34; src=&#34;https://til-syarif-25.pages.dev/images/icosa.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sungai Ibarat Nadi Peradaban</title>
+      <link>https://til-syarif-25.pages.dev/posts/sungai/</link>
+      <pubDate>Sun, 26 Jul 2026 19:51:18 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/sungai/</guid>
+      <description>&lt;p&gt;Dari suku mesopotamia yang menciptakan roda, tiongkok yang menemukan bubuk mesiu,mesir piramida semua peradaban tersebut lahir di daerah yang memiliki aliran sungai di sekitarnya, dengan adanya ikan dan sumber air di sungai membuat area di sekitarnya menjadi subur, kebutuhan hidup manusia di saat itu mudah tercukupi, karna perut sudah tercukupi maka otak bisa muter untuk membuat hidup lebih baik dan lebih bermakna.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Sungai&#34; loading=&#34;lazy&#34; src=&#34;https://til-syarif-25.pages.dev/images/sungai.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Misal sungai tigris dan eufrat membuat wilayah di sekitarnya dinamakan dengan kata subur yaitu Bulan Sabit Subur (Fertilce Crescent) di daerah tersebut tinggal banyak peradaban besar seperti sumeria,babilonia,akkadia di sana terbangun sebuah kuil raksaksa yg berbentuk seperti piramida perundak bernama Ziggurat&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Energi</title>
+      <link>https://til-syarif-25.pages.dev/posts/energi/</link>
+      <pubDate>Thu, 23 Jul 2026 21:57:28 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/energi/</guid>
+      <description>&lt;p&gt;Energi adalah kemampuan untuk melakukan kerja.&lt;/p&gt;
+&lt;p&gt;ada banyak jenis energi&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;energi kinetik : energi dari suatu benda yang bergerak, semakin cepat dan besar benda bergerak semakin besar energi kinetik&lt;/li&gt;
+&lt;li&gt;energi potensial : energi yang tersimpan oleh suatu benda hingga pada saat energi tersebut keluar , contoh buku yang ada di atas meja itu punya energi potensial gravitasi, energi itu akan keluar saat buku itu jatuh dan keluar dalam bentuk menjadi energi kinetik dan bunyi / panas.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Seberapa Sulit Buat Roket ?</title>
+      <link>https://til-syarif-25.pages.dev/posts/roket/</link>
+      <pubDate>Wed, 22 Jul 2026 22:44:11 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/roket/</guid>
+      <description>&lt;p&gt;Amerika serikat menjadi negara pertama yang berhasil membuat roket yang berhasil menerbangkan manusia ke bulan, pada tahun 1969 dengan roketnya yang bernama saturn v, tingginya 111 meter dengan bobot saat penuh mencapai 2800 ton. sampai sekarang roket mereka dijuluki sebagai roket terkuat yang pernah dibuat manusia, dibalik roket yang canggih itu terdapat fakta yang jarang diceritakan yaitu amerika &amp;ldquo;menyelundupkan&amp;rdquo; ribuan ilmuan jenius dari jerman yaitu werner von braun, memang sesulit apa membuat roket ?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Atomic Habits</title>
+      <link>https://til-syarif-25.pages.dev/posts/atomic-habits/</link>
+      <pubDate>Wed, 22 Jul 2026 18:28:23 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/atomic-habits/</guid>
+      <description>&lt;h2 id=&#34;cerita-kejadian-kecelakaan&#34;&gt;Cerita Kejadian Kecelakaan&lt;/h2&gt;
+&lt;p&gt;Di hari terakhir tahun kedua james clear dia mendapat musibah, saat bermain bisbol bersama teman-temanya, tongkat bisbol yg dengan sangat keras terlempar ke muka JC saat temanya mencoba memukul bola, tongkat itu mendarat di antara kedua matanya, hingga hidungnya &amp;ldquo;penyok&amp;rdquo; nampak seperti huruf U, hidungnya patah, otaknya membentur tengkorak yg di bagian belakang, dia tidak sadarkan diri, saat membuka mata jc melihat bercak darah di bajunya, dia dipapah menuju klinik di sekolah dia, yg mana harus menuruni bukit untuk kembali ke gedung sekolah. setiap detiknya sangat krusial pada saat itu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sekilas Daskapital</title>
+      <link>https://til-syarif-25.pages.dev/posts/daskapital/</link>
+      <pubDate>Mon, 20 Jul 2026 22:39:19 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/daskapital/</guid>
+      <description>&lt;p&gt;Buku das kapital itu ditulis oleh karl max. inti ajaranya itu bahwa keuntungan para pemilik modal (kapitalis) itu berasal dari eksploitasi tenaga kerja. pekerja dibayar lebih murah dariapada nilai barang yang mereka hasilkan.&lt;/p&gt;
+&lt;p&gt;Sekilas poin penting yg dibahas di buku itu :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Komoditas (Barang) : Barang punya nilai guna dan nilai tukar, nilai guna adalah kemampuan barang untuk emenuhi kebutuhan. nilai tukar adalah harga saat barang diperjualbelikan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nilai Surplus : selisih antara nilai barang yg dihasilkan pekerja dan upah yg diterima. misal pekerja buat sepatu seharga 100 ribu tapi cuma dikasih upah 20 ribu rupiah. sisa 80 ribu ini adalah surplus yg diambil pemilik modal&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bedah Buku : Kajian Mencegahku Menjadi Ateis</title>
+      <link>https://til-syarif-25.pages.dev/posts/mencegah_menjadi_ateis/</link>
+      <pubDate>Sat, 18 Jul 2026 13:24:41 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/mencegah_menjadi_ateis/</guid>
+      <description>&lt;h2 id=&#34;masjid-nurul-iman-blok-m-7182026&#34;&gt;Masjid Nurul Iman Blok M, 7/18/2026&lt;/h2&gt;
+&lt;p&gt;Sains hanya mempelajari mahluk ciptaan Allah, kemampuan mereka hanya what and how, dari mana materi terbuat dan bagaimana cara bekerja, tidak bisa menjawab why and who. Mustahil alam semesta bisa ada tanpa adanya pencipta yang sangat cerdas, ada sekitar 20 konstanta yang mengatur alam semesta ini agar teratur, oleh michaku kaku ilmuwan keturunan jepang di amerika, string theory, dia agnostik&lt;/p&gt;
+&lt;h1 id=&#34;bab-1&#34;&gt;Bab 1&lt;/h1&gt;
+&lt;p&gt;Sains terus mengoreksi diri, seluruh planet semua objek yang ada di alam semesta hanya sekitar 5% (semalam baru dibuat til nya wkwk), materi yang bisa dijangkau sains hanya 5%, kita melihat alam semesta seperti melihat dari lubang kunci, kesimpulan orang orang yg mengklaim baha alam semesta tidak memilik pencipta itu naif, kita hanya baru melihat sangat sedikit dari yg ada di alam semesta ini&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Suhu</title>
+      <link>https://til-syarif-25.pages.dev/posts/suhu/</link>
+      <pubDate>Fri, 17 Jul 2026 21:58:18 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/suhu/</guid>
+      <description>&lt;p&gt;Suhu itu bukan zat, dan api itu bukan benda, dan gak semuanya itu tersusun atas atom&lt;/p&gt;
+&lt;p&gt;sebetulnya apa wujud dari rasa panas atau dingin ? kita mungkin menganggap suhu adalah ukuran derajat panas suatu benda, dan semua hal di alam semesta ini terbuat dari atom.&lt;/p&gt;
+&lt;p&gt;Suhu sebenarnya hanyalah &amp;ldquo;kecepatan&amp;rdquo; atom
+banyak ygn mengira panas adalah sebuah zat tak terlihat yang meresap ke dalam benda, seperti air yang meresap ke dalam spons, dalam ilmu fisika, suhu sama sekali bukan zat. suhu hanyalah sebuah indikator atau efek dari seberapa cepat atom-atom di dalam suatu benda bergerak, makin panas = makin ngebut, saat kita merebus air, atom atom dalam air mulai berpesta, mereka bergerak super cepat, bebas , dan saling bertabrakan dengan ekstrem., makin dingin = makin mager, sebaliknay saat air berubah menjadi es batu, atom2nya mendadak malas gerak, mereka terkunci di tempatnya dan hanya bisa bergetar dengan sangat pelan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kenapa Chip Kecil Lebih Cepat</title>
+      <link>https://til-syarif-25.pages.dev/posts/chip/</link>
+      <pubDate>Thu, 16 Jul 2026 22:59:13 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/chip/</guid>
+      <description>&lt;p&gt;Semakin kecil chip seperti 3nm atau 2nm semakin bisa lebih cepat dan hemat karena jarak tempuh listrik lebih pendek, butuh daya lebih kecil, dan lebih sedikit panas yang terbuang&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Jarak tempuh lebih pendek
+Chip berisi jutaan sakelar kecil bernama transistor, fungsinya seperti jembatan yang menyala atau mati untuk mengirim data, bayangkan listrik sebagai kurir yang berlari, jika ukuran chip diperkercil, jarak antar gedung (transistor) menjadi semakin dekat, kurir tidak perlu berlari jauh, sehingga data lebih cepat sampai&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skandinavia</title>
+      <link>https://til-syarif-25.pages.dev/posts/skandinavia/</link>
+      <pubDate>Tue, 14 Jul 2026 20:59:24 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/skandinavia/</guid>
+      <description>&lt;p&gt;Negara Scandinavia adalah kelompok negara negara yang ada di kawasan eropa utara yang berbagi budaya, bahasa, dan sejarah yang sama, negara negara tersebut merupakan : denmar,norwegia, swedia, dulu negara negara tersebut pernah berada di bawah aliansi politik atau persatuan mahkota (dipimpin oleh raja yang sama) yaitu persatuan kalmar (1397-1523), lalu persatuan denmark norwegia (1523-1814), persatuan swedia (1814-1905) pada saat ini norwegia dipaksa bersatu dengan swedia sebelum akhirnya merdeka penuh pada tahun 1905&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Posisi Tidur Terbaik</title>
+      <link>https://til-syarif-25.pages.dev/posts/posisi-tidur/</link>
+      <pubDate>Fri, 10 Jul 2026 21:31:42 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/posisi-tidur/</guid>
+      <description>&lt;p&gt;Apa posisi tidur terbaik ?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tengkurap -&amp;gt; Pernafasan kerasa lebih lega karna lidah jatoh ke depan dan tidak menghalangi saluran pernafasan, minusnya tulang ikut melengkung kaya huruf u, bisa bikin pinggang pegal&lt;/li&gt;
+&lt;li&gt;Telentang -&amp;gt; Mulut jadi terbuka, lidah merosot ke belakang susah nyari jalan keluar pemicu ngorok, tapi tulang kita seneng dengan posisi ini, beban tubuh jadi tersebar rata, posisi sejajar tidur jadi lebih rileks&lt;/li&gt;
+&lt;li&gt;Ke samping kiri : asam lambung ngga bisa naik ke tenggorokan karna posisi lambung di bawah makanya orang yang penyakit asam lambung sering disarankan tidur arah miring kir&lt;/li&gt;
+&lt;li&gt;Ke samping kanan : Jantung lebih bebas dari tekanan paru paru beban tubuh kalau tidur miring ke kiri bisa bikin pegal2 saat bangung&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;jadi apa yang terbaik ? tergantung kondisi tubuh masing2 orang tapi miring samping biasanya lebih pas tapi tanpa sadar tubuh kita juga pinter, dia bisa gonta ganti posisi tidur sepanjang malam buat hilangin pegal2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ISS</title>
+      <link>https://til-syarif-25.pages.dev/posts/iss/</link>
+      <pubDate>Thu, 09 Jul 2026 22:43:45 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/iss/</guid>
+      <description>&lt;p&gt;Jarak International Space Station Ke Permukaan Bumi adalah sekitar 250 Mil atau sekitar 400 KM di atas permukaan bumi, mengorbit bumi dengan kecepatan 27.600 km/jam , mengitari bumi secara penuh dalam waktu 92-93 menit&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laut Asalnya Dari Mana?</title>
+      <link>https://til-syarif-25.pages.dev/posts/asalusullaut/</link>
+      <pubDate>Tue, 07 Jul 2026 23:46:10 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/asalusullaut/</guid>
+      <description>&lt;p&gt;Ada 3 Teori utama asal usul air laut itu dari mana&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Asteroid : teori favorit ilmuwan menyatakan bahwa asteroid yang kaya mineral air menghujani bumi miliaran tahun lalu dan membawa air ke planet kita.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Komet : komet merupakan bola es raksasa, awalnya dianggap sebagai pembawa air ke bumi, bebrapa komet memiliki sidik jari yang berbeda dengan air namun di tahun 2025 ilmuwan menemukan komet yang sidik jari kimianya mirip dengan air di bumi&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rsa</title>
       <link>https://til-syarif-25.pages.dev/posts/rsa/</link>
@@ -19,14 +415,6 @@
 &lt;li&gt;&lt;strong&gt;Private Key&lt;/strong&gt;: Kunci rahasia yang disimpan rapat-rapat oleh pemiliknya (digunakan untuk mendekripsi pesan).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Keamanan RSA bertumpu pada matematika dasar: &lt;strong&gt;sangat mudah untuk mengalikan dua bilangan prima yang besar, tetapi sangat sulit untuk mencari faktor prima dari hasil perkalian tersebut (faktorisasi prima).&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Atomic Habits</title>
-      <link>https://til-syarif-25.pages.dev/posts/atomic-habits/</link>
-      <pubDate>Sun, 05 Jul 2026 17:24:23 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/posts/atomic-habits/</guid>
-      <description>&lt;h2 id=&#34;cerita-kejadian-kecelakaan&#34;&gt;Cerita Kejadian Kecelakaan&lt;/h2&gt;
-&lt;p&gt;Di hari terakhir tahun kedua james clear dia mendapat musibah, saat bermain bisbol bersama teman-temanya, tongkat bisbol yg dengan sangat keras terlempar ke muka JC saat temanya mencoba memukul bola, tonkgat itu mendarat di antara kedua matanya, hingga hidungnya &amp;ldquo;penyok&amp;rdquo; nampak seperti huruf U, hidungnya patah, otaknya membentur tengkorak yg di bagian belakang, dia tidak sadarkan diri, saat membuka mata jc melihat bercak darah di bajunya, dia dipapah menuju klinik di sekolah dia, yg mana harus menuruni bukit untuk kembali ke gedung sekolah. setiap detiknya sangat krusial pada saat itu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ayat Hari Ini : At Tur 21-28</title>
@@ -127,9 +515,9 @@
     </item>
     <item>
       <title>Rotasi Bumi Melambat</title>
-      <link>https://til-syarif-25.pages.dev/rotasibumi/</link>
+      <link>https://til-syarif-25.pages.dev/posts/rotasibumi/</link>
       <pubDate>Fri, 03 Jul 2026 23:30:40 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/rotasibumi/</guid>
+      <guid>https://til-syarif-25.pages.dev/posts/rotasibumi/</guid>
       <description>&lt;p&gt;Sebab rotasi bumi melambat itu karna pengaruh gaya gravitasi bulan, spesifiknya karna efek pasang surut air laut&lt;/p&gt;
 &lt;p&gt;proses pelambatan ini bertahap akibat fenomena fisika yg disebut gesekan pasang surut (tidal friction)&lt;/p&gt;
 &lt;p&gt;Detail prosesnya secara singkat&lt;/p&gt;

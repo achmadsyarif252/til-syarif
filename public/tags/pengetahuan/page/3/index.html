@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (homeInfo && title) {
     const badge = document.createElement('div');
     badge.className = 'streak-badge';
-    badge.innerHTML = '<span class="fire">🔥</span> 62';
+    badge.innerHTML = '<span class="fire">🔥</span> 94';
     badge.style.top = title.offsetTop + 'px'; 
     homeInfo.appendChild(badge);
   }
@@ -157,77 +157,150 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Kenapa Waktu Bisa Berjalan Berbeda
+    <h2 class="entry-hint-parent">Otak Manusia Spesial, Why?
     </h2>
   </header>
   <div class="entry-content">
-    <p>Ini topik yang sedikit membingungkan memang, saya hanya menulis konsep kasaranya saja dari baca baca beberapa menit
-Kita sering dengar kalau “sesuatu” yang bergerak dengan kecepatan mendekati cahaya waktu di sana berjalan lebih lambat, misal orang yang berada di pesawat bergerak dengan kecepatan 99% cahaya selama satu tahun, sebetulnya yang dilalui di bumi itu sudah 7 tahun. jadi kalau kembali ke bumi, orang orang di bumi 7 tahun lebih tua. Lah ko bisa??
+    <p>Apa yang bikin otak manusia itu spesial sampai bisa bikin peradaban seperti sekarang ? apakah dari ukuran ? kalau dari ukuran maka gajah dan paus mungkin harusnya udah bisa nerbangin roket ke luar angkasa..
+Tapi persentase berat otak di manusia dengan di gajah dan paus tadi tidak sebanding, otak manusia memiliki berat 2% dari total ukuran tubuh manusia kalau gajah dan pauns hanya 0.18 dan 0.02 persen dari ukuran badan mereka ? lalu apakah mahluk hidup yang memiliki rasio otak lebih besar dari manusia bisa lebih pintar ? ternyata tidak juga
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2026-05-08 20:05:40 +0700 +07'>May 8, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
-  <a class="entry-link" aria-label="post link to Kenapa Waktu Bisa Berjalan Berbeda" href="https://til-syarif-25.pages.dev/posts/waktu/"></a>
+  <footer class="entry-footer"><span title='2026-05-26 22:51:00 +0700 +07'>May 26, 2026</span>&nbsp;·&nbsp;<span>3 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Otak Manusia Spesial, Why?" href="https://til-syarif-25.pages.dev/posts/otak/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Bangkok
+    <h2 class="entry-hint-parent">LLM Series Part 2 : Parameter &amp; Jaringan Saraf Tiruan
     </h2>
   </header>
   <div class="entry-content">
-    <p>Nama asli Bangkok, Krungthepmahanakhonamonrattanakosinmahintharayutthayamahadilokphopnopparatrajathaniburiromudomratchaniwetmahasathanamonphimanawatansathitsakkathattiyawitsanukamprasit, sangat panjang karena berasal dari bahasa Pali dan Sanskerta, menggambarkan kemegahan, sejarah, agama, serta perintah raja. Nama tersebut disematkan untuk memuliakan kota sebagai kediaman raja dan dewa.
-</p>
-  </div>
-  <footer class="entry-footer"><span title='2026-05-06 23:06:05 +0700 +07'>May 6, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
-  <a class="entry-link" aria-label="post link to Bangkok" href="https://til-syarif-25.pages.dev/posts/bangkok/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Berat &amp; Massa
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Apa bedanya berat dan masas?
-Berat itu terkait dengan gaya gravitasi yang bekerja pada suatu benda sedangkan massa itu terkait dengan jumlah materi / atom dalam suatu benda
-Jadi berat itu dia mengikuti dimana benda tersebut diukur karna mengikuti gravitasi, berat suatu benda yg sama akan berbeda apabila diukur di bumi dan di bulan atau planet lain karna dia bergantung ke gravitasi, berat kita akan lebih ringan di bulan karna gravitasi bulan lebih kecil dibandingkan bumi
+    <p>Di part 1 sudah dibahas gimana kata yang kita masukan sebagai prompt ditokenisasi sampai akhirnya tiap token tersebut memndapatkan id yang kemudian ditukar ke vektor embedding berupa deretan 4096 koordinat
+lalu setelah jadi vektor embeding gimana proses selanjutnya yang terjadi di dalamnya ?, ada 2 komponen penting yang bekerja di sini yaitu jaringan saraf (deep layers) dan parameter (weight &amp; biases)
+parameter ibarat papan dj raksasa yang punya miliaran tombol untuk atur volume suaranya , biasanya saat llm rilis ke publik mereka akan flexing berapa billion parameter yang digunakan, apa parameter itu ? dalam matematika, parameter di dalam Neural Network terdiri dari 2 hal : weights (bobot) adalah angka pengali untuk menentukan seberapa penting suatu informasi biases (bias) adalah angka konstan penambah untuk menyetel sensitivitas tebakan nah parameter ini adalah miliaran angka pengali yang sdah paten (dikunci) yg diperoleh saat proses training model hasi dari membaca internet (yang menebak kata selanutnya itu), saat user bertanya koordinat yg tadi sudah didapat dari tokenisasi id akan disaring dan dikalikan dengan miliaran tombol ini
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2026-05-03 22:07:17 +0700 +07'>May 3, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
-  <a class="entry-link" aria-label="post link to Berat & Massa" href="https://til-syarif-25.pages.dev/posts/berat_massa/"></a>
+  <footer class="entry-footer"><span title='2026-05-25 22:34:58 +0700 +07'>May 25, 2026</span>&nbsp;·&nbsp;<span>3 menit</span></footer>
+  <a class="entry-link" aria-label="post link to LLM Series Part 2 : Parameter & Jaringan Saraf Tiruan" href="https://til-syarif-25.pages.dev/posts/llmpart2/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Neuroplasticity
+    <h2 class="entry-hint-parent">Fakta Random
     </h2>
   </header>
   <div class="entry-content">
-    <p>Neuroplastisitas adalah proses pembentukan jalur baru di otak saat kita belajar sesuatu, saat kita belajar atau beraktivitas otak akan mengirimkan sinyal listrik dari neuron ke neuron penerima di ujung neuron itu ada celah antar neuron itu namanya sinapsis, kabel dari neuron itu namanya akson,ujung neuron itu namanay terminal akson ,nah sinyal listrik ini tidak bisa lewat tuh antar celah neuron tersebut makanya perlu diubah ke sinyal kimia, sinyal kimia inilah yang akan “nyebrang” ke neuron sebelah dan kembali nanti diubah kembali jadi sinyal listrik. zat pembawa sinyal listrik ke kimia terssebut namanya neurotransmiter.
+    <p> Pisang itu termasuk jenis beri fokus mata kalau diibaratkan kamera digital dia bakal memiliki resolusi 576 megapixel menara eifel bisa bertambah tinggi saat musim panas karna pemuaian besinya bisa nambah 15 cm Tulang manusia bisa lebih kuat daripada beton , batang tulang yang berukuran sama dengan beton bisa menahan beban 4x lebih besar keetimbang beton tumbuhan adalah elemen terlangka di alam semesta, berlian bisa ditemuukan banyak di planet selain bumi contohnya di planet neptunus Iklan iPhone selalu menunjukkan jam 09:41: momen persis saat Steve Jobs pertama kali memperkenalkan iPhone ke dunia pada tahun 2007. </p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-23 23:36:04 +0700 +07'>May 23, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Fakta Random" href="https://til-syarif-25.pages.dev/posts/randomfact/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">LLM Series Part 1 : Tokenisasi
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>komputer tidak mengetahui huruf atau kata dia hanya ngerti angka , makanya perlu diubah si teks yg ditanyakan oleh user menjadi struktur matematika
+caranya pertama adalah dengan memecah teks yg user input ke dalam token token, nama prosesnya adalah tokenisasi proses ini dilakukan oleh program Tokenizer, nah tiap kata nanti dipecah, sebetulnya tidak spesifik dipecah tiap kata, bisa aja tiap suku kata misal “mendengarkan” bisa dipecah menjadi “Men”,“Dengar”,“Kan”
+ada beberapa pertanyaan yg perlu dipahami dulu
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2026-04-30 21:36:50 +0700 +07'>April 30, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
-  <a class="entry-link" aria-label="post link to Neuroplasticity" href="https://til-syarif-25.pages.dev/posts/neuroplasticity/"></a>
+  <footer class="entry-footer"><span title='2026-05-22 22:58:07 +0700 +07'>May 22, 2026</span>&nbsp;·&nbsp;<span>4 menit</span></footer>
+  <a class="entry-link" aria-label="post link to LLM Series Part 1 : Tokenisasi" href="https://til-syarif-25.pages.dev/posts/llmpart1/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Paganisme
+    <h2 class="entry-hint-parent">Backpropagation
     </h2>
   </header>
   <div class="entry-content">
-    <p>Paganisme adalah sebutan untuk kepercayaan yang menyembah banyak dewa (politeisme) dan sangat menghormati alam semesta
-sudah ada sejak zaman dahulu kala bahkan sebelum istilah paganisme (1600 tahun lalu) ada dari zaman pra aksara sampai sekarang pun ada (namanya neopaganisme)
-Fakta menarik, nama nama hari dalam bahasa inggris itu berasal dari dewa dalam paganisme misal wednesday dari weden (odin), thursday dari Thor , friday dari frigg atau freya
-</p>
+    <p>Backpropagation adalah proses komputer memberitahukan layer parameter secara mundur dari layer paling terakhir hingga sampai ke layer pertama kali saat suatu kata itu masuk , apa yang dibertahu ? yg diberi tahukan adalah informasi bahwa koordinat yg dibawa oleh setiap layer itu apakah benar atau salah atas hasil tebakan yang dilakukan layer paling atas , jadi misal ada kata “Kucing itu sedang ….” nah pas training kata terbang ternyata kata terbang itu salah tidak nyambung dnegan kalimat tersebut maka dilakukan backpropagation untuk memberikan nilai faktor pengali (knop parameter) ke kata terbang itu jauh posisinya supaya di masa depan, kalau ada kata kucing layer layer tersebut tidak mengantarkan sinyal menuju koordinat terbang.
+...</p>
   </div>
-  <footer class="entry-footer"><span title='2026-04-29 23:09:13 +0700 +07'>April 29, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
-  <a class="entry-link" aria-label="post link to Paganisme" href="https://til-syarif-25.pages.dev/posts/paganisme/"></a>
+  <footer class="entry-footer"><span title='2026-05-21 22:17:06 +0700 +07'>May 21, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Backpropagation" href="https://til-syarif-25.pages.dev/posts/backpropagation/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Planck Length
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Seberapa kecil suatu ukuran itu bisa kita bayangkan ? manusia mungkin masih bisa melihat sehelai rambut yang lebarnya berkisar 0.1 milimeter, lalu kalau kita perkecil lagi terus menuerus sampai ke ujung yang paling kecil itu sampai mana ?
+Mungkin jawaban yang biasa kita temukan adalah atom, atom adalah suatu hal yang paling kecil yang membentuk kita dan semua yang ada di alam semsta, tapi faktanya ada “ukuran” yang lebih kecil lagi, ibarat atom itu di zoom kan nati ada proton neutron elektron, quark lalu terus menerus sekecil kecilnya sampailah nanti kita ke ukuran terkecil yang diizinkan oleh hukum fisika, nanmanya adalah Planck Length.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-20 21:54:31 +0700 +07'>May 20, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Planck Length" href="https://til-syarif-25.pages.dev/posts/planck/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Nyamuk
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Nyamuk itu memilki manfaat mungkin kita sering luput dari itu menganggap bahwa nyamuk hanyalah hama yang mengganggu manusia, well in a way itu iya tapi di sisi lain sebenarnya nyamuk ini merupakan hewan yang cukup penting untuk keseimbangan ekosistem alam.beberapa manfaat nyamuk adalah sebagai berikut
+sumber pangan ekosistem, larva nyamuk atau jentik itu pakan utama ikan sementara nyamuk dewasa jadi makanan burung,katak,kelelawar capung dll penyerbukan : nyamuk jantan dan betina mengonsumsi nektar untuk sumber energi yang menjadikan mereka penyerbuk tanaman yang efektif daur ulang nutrisi larva nyamuk memakan bahan organik di perairan walaupun bermanfaat secara ekologis memang nyamuk tetap menjadi penyakit mematikan bagi manusia, jadi sekali lagi manfaatnya lebih berdampak pada keseimbangan alam bukan secara langsung untuk kesehatan manusia.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-14 23:42:45 +0700 +07'>May 14, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Nyamuk" href="https://til-syarif-25.pages.dev/posts/nyamuk/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Bule
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Darimana kata bule berasal ? Kata bule itu kalau dilihat di kbbi merujuk kepada kata bulai yang artinya orang/mahluk yang berambut dan berkulit putih karna kekurangan pigmen warna bisa dikatakan albino
+Kata ini diperkenalkan oleh Benedict Anderson seorang pengamat politiik,sejarawan asal irladia pada tahun 1960 an dimana pada masa pasca kemerdekaan orang indonesia menyebut orang luar negeri berkulit putih dengan panggilan kolonial seperti sebutan tuan/master, ben merasa itu kurang tepat lalu mencari padanan kata yang menurutnya lebih tepat dan menemukan kata bulai,masyarakat jawa juga sudah familiar dengan kata bulai dimana digunakan untuk menyebut hewan albino contoh yg terkenal adalah kerbau putih itu biasanya dinamakan kebo bulai.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-13 22:55:26 +0700 +07'>May 13, 2026</span>&nbsp;·&nbsp;<span>1 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Bule" href="https://til-syarif-25.pages.dev/posts/bule/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Obsesi China Terhadap Perak
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Perak dari dulu selalu memiliki status sebagai emas versi murah tapi sekarang statusnya berubah menjadi komoditas yang krusial bagi teknologi masa depan.
+Kenapa perak sangat dicari di zaman sekarang ini alasanya adalah karna dunia modern memerlukan perak untuk berbagai komponen teknologi seperti panel surya,kendaraan listrik,hp,jaringan 5g,sensor, chip dan yang lainya.
+Selama 6 tahun berturut turut perak ini mengalami defisit pasokan karna permintaan industri lebih cepat dari produksi tambang inilah yang membuat harga perak jadi sangat liar dan spekulatif
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-12 20:57:01 +0700 +07'>May 12, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Obsesi China Terhadap Perak" href="https://til-syarif-25.pages.dev/posts/perak/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Fase Tidur
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Tidur adalah saat dimana tubuh melakukan restorasi baik fisik maupun mental, siklus tidur terdiri dari light sleep, deep sleep, dan REM (rapid eye movement),Light sleep (tahap 1-2) adalah transisi awal antara terjaga dengan tidur , deep sleep (tahap 3-4) memperbaiki jaringan tubuh dan imun, lalu REM itu fase mimpi yang mengonsolidasi memori.
+Tiap siklus tidur dan fungsinya
+Light sleep (tahap 1&amp;2) Cirinya adalah Tubuh mulai rileks, detak jantung dan napas melambat, suhu tubuh menurun, mudah terbangun oleh suara kecil, fungsinya adalah transisi antara bangun dan tidur nyenyak, durasinya mencakup 50-60% waktu tidur.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-05-10 13:57:02 +0700 +07'>May 10, 2026</span>&nbsp;·&nbsp;<span>2 menit</span></footer>
+  <a class="entry-link" aria-label="post link to Fase Tidur" href="https://til-syarif-25.pages.dev/posts/tidur/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
     <a class="prev" href="https://til-syarif-25.pages.dev/tags/pengetahuan/page/2/">
       «&nbsp;Sebelumnya&nbsp;
+    </a>
+    <a class="next" href="https://til-syarif-25.pages.dev/tags/pengetahuan/page/4/">Selanjutnya&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>

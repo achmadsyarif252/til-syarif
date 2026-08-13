@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>How on Today I Learned</title>
+    <link>https://til-syarif-25.pages.dev/tags/how/</link>
+    <description>Recent content in How on Today I Learned</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 30 Jul 2026 23:20:21 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/tags/how/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vaksin</title>
+      <link>https://til-syarif-25.pages.dev/posts/vaksin/</link>
+      <pubDate>Thu, 30 Jul 2026 23:20:21 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/vaksin/</guid>
+      <description>&lt;p&gt;Cara kerja vaksin itu seperti pesan instruksi buat tubuh kita sendiri&lt;/p&gt;
+&lt;p&gt;langkah langkahnya&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;vaksim dimasukkan ke tubuh, vaksin mengandung molekul mRNA (bukan virus hidup atau virus mati) dia ini adalah cetak biru untuk membuat protein&lt;/li&gt;
+&lt;li&gt;mRNA masuk ke sel, mRNA dibungkus oleh lipid (lemak kecil) supaya bisa masuk ke dalam sel otot atau sel imun. setelah masuk, mRNA tidak masuk ke dalam sel sehingga tidak mengubah genetika kita&lt;/li&gt;
+&lt;li&gt;sel membaca mRNA, ribosom di dalam sel membaca mRNA kaya resep makanan lalu memproduksi protein spike (protein khasi virus covid 19) di permukaan sel&lt;/li&gt;
+&lt;li&gt;sistem imun mendeteksi , sistem kekebalan tubuh melilhat protein spike ini sebagai musuh asing, maka tubuh mulai memproduksi antibodi, sel t, sel memori imun&lt;/li&gt;
+&lt;li&gt;mRNA dihancurkan setelah tugasnya selesai (beberapa hari) mRNA secara alami rusak oleh tubuh dan hilang secara total&lt;/li&gt;
+&lt;li&gt;tubuh jadi siap, kalau nanti covid virus beneran masuk ke tubuh sistem imun sudah mengenali protein spike-nya dan langsung menyerang dengan cepat&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Microwave</title>
+      <link>https://til-syarif-25.pages.dev/posts/microwave/</link>
+      <pubDate>Wed, 29 Jul 2026 23:17:03 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/microwave/</guid>
+      <description>&lt;p&gt;Microwave bekerja dengan mengubah energi lisrik menjadi gelombang mikro berfrekuensi tinggi (sekitar 2,45 Ghz) menggunakan komponen inti bernama magnetron. Gelombang mikro yang terpancar di dalam overn ini memiliki sifat unik yaitu mampu menembus wadah kaca, keramik, atau plastik tanpa memanaskanya, lalu langsung masuk ke dalam makanan.&lt;/p&gt;
+&lt;p&gt;Di dalam makanan gelombang ini secara spesifik menyasar molekul polar, terutama air, lemak, dan gula. karena molekul air memiliki kutub positif dan negatif, gelombang mikro memaksa kutub kutub tersebut berputar bolak balik dengan sangat cepat hingga miliaran kali per detik. putaran super cepat ini memicu gesekan atau friiksi yang luar biasa hebat antarmolekul. geekan masif ini menghasilkan energi panas instan. yang kemudian menyebar denganc epat ke seluruh bagian makanan hingga matang secara merata dari dalam.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
