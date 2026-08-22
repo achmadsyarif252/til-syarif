@@ -8,3 +8,5 @@ Di label kemasan makanan itu kan ada ya informasi kalorinya berapa, nah itu dari
 
 kalau minuman gimana ? dikeringkan dulu sampai jadi bubuk, nanti bubuk itulah yang dipakai.
 
+nama tekniknya itu Bomb Calorimeter
+
