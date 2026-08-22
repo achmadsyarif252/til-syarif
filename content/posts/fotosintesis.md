@@ -4,31 +4,45 @@ draft = false
 title = 'Fotosintesis'
 +++
 
-Fotosintesis adalah proses pembentukan zat makanan (glukosa) yg dilakukan oleh tumbuhan hijau,alga dan beberapa jenis bakteri dengan memanfaatkan energi cahaya matahari
+Fotosintesis adalah proses pembentukan zat makanan (glukosa) yang dilakukan oleh tumbuhan hijau, alga, dan beberapa jenis bakteri dengan memanfaatkan energi cahaya matahari.
 
 ![Fotosintesis](/images/fotosin.png)
 
-Persamaan Kimia 
+### Persamaan Kimia
 
 ![Persamaan Kimia](/images/fotosin_kimia.png)
 
-Bahan baku: Karbon dioksida Co2 diserap dari udara melalui stomata, dan air h20 diserap dari tanah melalui akar.
-Hasil : Glukosa (C6h12o6) sebagai sumber energi/cadangan makanan bagi tumbuhan, serta Oksigen yang dilepaskan kembali ke atmosfer
+**6CO₂ + 6H₂O + Cahaya Matahari → C₆H₁₂O₆ + 6O₂**  
+*(Karbon dioksida + Air + Energi Cahaya → Glukosa + Oksigen)*
 
-Fotosintesis berlangsung di dalam organel sel bernama kloroplas melalui dua tahapan:
+- **Bahan baku:**
+  - **Karbon dioksida (CO₂):** Diserap dari udara melalui stomata.
+  - **Air (H₂O):** Diserap dari tanah melalui akar.
+- **Hasil reaksi:**
+  - **Glukosa (C₆H₁₂O₆):** Sumber energi dan cadangan makanan bagi tumbuhan.
+  - **Oksigen (O₂):** Dilepaskan kembali ke atmosfer.
 
-1. Reaksi Terang (Light-dependent Reaction)
-Lokasi: Membran tilakoid (grana).
-Proses: Klorofil menyerap foton cahaya matahari untuk memecah molekul air (fotolisis air: $\text{H}_2\text{O} \rightarrow 2\text{H}^+ + \frac{1}{2}\text{O}_2$).
-Hasil: Menghasilkan energi kimia berupa ATP dan NADPH, serta melepaskan oksigen ($\text{O}_2$) sebagai produk sampingan.
+---
 
-2. Reaksi Gelap / Siklus Calvin (Light-independent Reaction)
-Lokasi: Stroma (cairan kloroplas).
-Proses: Menggunakan energi ATP dan NADPH dari reaksi terang untuk memfiksasi gas Co2 dan mengubahnya menjadi molekul gula sederhana.
-Hasil: Menghasilkan glukosa (C6h12o6)
+### Tahapan Fotosintesis
 
-Faktor yang Memengaruhi Laju Fotosintesis
-1. Intensitas Cahaya: Semakin tinggi intensitas cahaya (hingga titik jenuh), semakin cepat laju reaksi terang.
-2. Konsentrasi co2: Ketersediaan gas karbon dioksida menentukan kapasitas produksi glukosa pada siklus Calvin.
-3. Suhu: Enzim fotosintesis bekerja optimal pada rentang suhu 25°C–35°C; suhu terlalu tinggi dapat merusak enzim (denaturasi).
-4. Ketersediaan Air: Kekurangan air memicu stomata menutup untuk mencegah dehidrasi, yang menghambat masuknya co2
+Fotosintesis berlangsung di dalam organel sel bernama **kloroplas** melalui dua tahapan:
+
+#### 1. Reaksi Terang (*Light-dependent Reaction*)
+- **Lokasi:** Membran tilakoid (grana).
+- **Proses:** Klorofil menyerap foton cahaya matahari untuk memecah molekul air (fotolisis air: **2H₂O → 4H⁺ + 4e⁻ + O₂**).
+- **Hasil:** Menghasilkan energi kimia berupa ATP dan NADPH, serta melepaskan **oksigen (O₂)** sebagai produk sampingan.
+
+#### 2. Reaksi Gelap / Siklus Calvin (*Light-independent Reaction*)
+- **Lokasi:** Stroma (cairan kloroplas).
+- **Proses:** Menggunakan energi ATP dan NADPH dari reaksi terang untuk memfiksasi gas **CO₂** dan mengubahnya menjadi molekul gula sederhana.
+- **Hasil:** Menghasilkan **glukosa (C₆H₁₂O₆)**.
+
+---
+
+### Faktor yang Memengaruhi Laju Fotosintesis
+
+1. **Intensitas Cahaya:** Semakin tinggi intensitas cahaya (hingga titik jenuh), semakin cepat laju reaksi terang.
+2. **Konsentrasi CO₂:** Ketersediaan gas karbon dioksida menentukan kapasitas produksi glukosa pada siklus Calvin.
+3. **Suhu:** Enzim fotosintesis bekerja optimal pada rentang suhu 25°C–35°C; suhu terlalu tinggi dapat merusak enzim (denaturasi).
+4. **Ketersediaan Air:** Kekurangan air memicu stomata menutup untuk mencegah dehidrasi, yang menghambat masuknya **CO₂**.
