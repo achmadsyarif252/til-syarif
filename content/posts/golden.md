@@ -10,21 +10,21 @@ Golden ratio (rasio emas) adalah sebuah perbandingan matematika bernilai sekitar
 
 Dua nilai berada dalam **golden ratio** jika perbandingan jumlah total kedua nilai terhadap nilai yang lebih besar sama dengan perbandingan nilai yang lebih besar terhadap nilai yang lebih kecil.
 
-Secara matematis, jika kita memotong sebuah garis menjadi dua bagian: bagian panjang ($a$) dan bagian pendek ($b$), rasionya dirumuskan sebagai:
+Secara matematis, jika kita memotong sebuah garis menjadi dua bagian: bagian panjang (A) dan bagian pendek (B), rasionya dirumuskan sebagai:
 
-$$\frac{a + b}{a} = \frac{a}{b} \approx 1,618$$
+> **(A + B) / A = A / B ≈ 1,618**
 
 ### Contoh Sederhana:
 Bayangkan Anda memiliki seutas tali yang dibagi menjadi dua bagian:
-- **Bagian panjang ($a$):** $16{,}18\text{ cm}$
-- **Bagian pendek ($b$):** $10\text{ cm}$
-- **Total panjang ($a + b$):** $26{,}18\text{ cm}$
+- **Bagian panjang (A):** 16,18 cm
+- **Bagian pendek (B):** 10 cm
+- **Total panjang (A + B):** 26,18 cm
 
 Mari kita buktikan perbandingannya:
 1. **Panjang dibanding Pendek:**  
-   $$\frac{a}{b} = \frac{16{,}18}{10} = \mathbf{1{,}618}$$
+   16,18 / 10 = **1,618**
 2. **Total dibanding Panjang:**  
-   $$\frac{a + b}{a} = \frac{26{,}18}{16{,}18} \approx \mathbf{1{,}618}$$
+   26,18 / 16,18 ≈ **1,618**
 
 Karena hasil perbandingannya sama persis, proporsi potongan tali tersebut memenuhi rasio emas.
 
