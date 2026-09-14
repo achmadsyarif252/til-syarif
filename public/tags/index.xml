@@ -6,20 +6,69 @@
     <description>Recent content in Tags on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:27:33 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 23:37:13 +0700</lastBuildDate>
     <atom:link href="https://til-syarif-25.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pengetahuan</title>
-      <link>https://til-syarif-25.pages.dev/tags/pengetahuan/</link>
-      <pubDate>Mon, 10 Aug 2026 23:27:33 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/tags/pengetahuan/</guid>
+      <title>Agama</title>
+      <link>https://til-syarif-25.pages.dev/tags/agama/</link>
+      <pubDate>Mon, 14 Sep 2026 23:37:13 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/agama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doa</title>
+      <link>https://til-syarif-25.pages.dev/tags/doa/</link>
+      <pubDate>Mon, 14 Sep 2026 23:37:13 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/doa/</guid>
       <description></description>
     </item>
     <item>
       <title>Sejarah</title>
       <link>https://til-syarif-25.pages.dev/tags/sejarah/</link>
-      <pubDate>Sun, 09 Aug 2026 23:24:30 +0700</pubDate>
+      <pubDate>Thu, 10 Sep 2026 21:56:31 +0700</pubDate>
       <guid>https://til-syarif-25.pages.dev/tags/sejarah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bisnis</title>
+      <link>https://til-syarif-25.pages.dev/tags/bisnis/</link>
+      <pubDate>Tue, 08 Sep 2026 23:44:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/bisnis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manufaktur</title>
+      <link>https://til-syarif-25.pages.dev/tags/manufaktur/</link>
+      <pubDate>Tue, 08 Sep 2026 23:44:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/manufaktur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pengetahuan</title>
+      <link>https://til-syarif-25.pages.dev/tags/pengetahuan/</link>
+      <pubDate>Tue, 08 Sep 2026 23:44:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/pengetahuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>English</title>
+      <link>https://til-syarif-25.pages.dev/tags/english/</link>
+      <pubDate>Sat, 15 Aug 2026 23:48:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language</title>
+      <link>https://til-syarif-25.pages.dev/tags/language/</link>
+      <pubDate>Sat, 15 Aug 2026 23:48:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vocabulary</title>
+      <link>https://til-syarif-25.pages.dev/tags/vocabulary/</link>
+      <pubDate>Sat, 15 Aug 2026 23:48:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/vocabulary/</guid>
       <description></description>
     </item>
     <item>
@@ -93,24 +142,10 @@
       <description></description>
     </item>
     <item>
-      <title>Agama</title>
-      <link>https://til-syarif-25.pages.dev/tags/agama/</link>
-      <pubDate>Sat, 04 Jul 2026 18:32:49 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/tags/agama/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Neuroscience</title>
       <link>https://til-syarif-25.pages.dev/tags/neuroscience/</link>
       <pubDate>Thu, 25 Jun 2026 23:40:16 +0700</pubDate>
       <guid>https://til-syarif-25.pages.dev/tags/neuroscience/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vocabulary</title>
-      <link>https://til-syarif-25.pages.dev/tags/vocabulary/</link>
-      <pubDate>Thu, 18 Jun 2026 22:28:36 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/tags/vocabulary/</guid>
       <description></description>
     </item>
     <item>
@@ -156,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>English</title>
-      <link>https://til-syarif-25.pages.dev/tags/english/</link>
-      <pubDate>Thu, 11 Jun 2026 18:39:01 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/tags/english/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Journal</title>
       <link>https://til-syarif-25.pages.dev/tags/journal/</link>
       <pubDate>Thu, 11 Jun 2026 18:39:01 +0700</pubDate>
@@ -174,13 +202,6 @@
       <link>https://til-syarif-25.pages.dev/tags/tips/</link>
       <pubDate>Wed, 10 Jun 2026 23:20:24 +0700</pubDate>
       <guid>https://til-syarif-25.pages.dev/tags/tips/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Language</title>
-      <link>https://til-syarif-25.pages.dev/tags/language/</link>
-      <pubDate>Wed, 03 Jun 2026 08:32:37 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/tags/language/</guid>
       <description></description>
     </item>
     <item>

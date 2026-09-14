@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Manufaktur on Today I Learned</title>
+    <link>https://til-syarif-25.pages.dev/tags/manufaktur/</link>
+    <description>Recent content in Manufaktur on Today I Learned</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Tue, 08 Sep 2026 23:44:00 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/tags/manufaktur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perbedaan OEM dan ODM</title>
+      <link>https://til-syarif-25.pages.dev/posts/oemvsodm/</link>
+      <pubDate>Tue, 08 Sep 2026 23:44:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/oemvsodm/</guid>
+      <description>&lt;p&gt;Dalam industri manufaktur, terdapat dua model produksi utama yang umum digunakan perusahaan untuk memproduksi barang tanpa harus memiliki fasilitas pabrik sendiri: &lt;strong&gt;OEM&lt;/strong&gt; (&lt;em&gt;Original Equipment Manufacturer&lt;/em&gt;) dan &lt;strong&gt;ODM&lt;/strong&gt; (&lt;em&gt;Original Design Manufacturer&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Perbedaan mendasar antara keduanya terletak pada pihak yang merancang produk dan kepemilikan hak kekayaan intelektual (&lt;em&gt;intellectual property&lt;/em&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-oem-original-equipment-manufacturer&#34;&gt;1. OEM (Original Equipment Manufacturer)&lt;/h3&gt;
+&lt;p&gt;Pada model OEM, &lt;strong&gt;pemilik merek merancang seluruh konsep, spesifikasi teknis, dan desain produk secara mandiri&lt;/strong&gt;. Pabrik rekanan hanya bertindak sebagai pelaksana produksi sesuai cetak biru (&lt;em&gt;blueprint&lt;/em&gt;) yang diberikan.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
