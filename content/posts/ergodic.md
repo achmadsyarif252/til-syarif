@@ -17,7 +17,7 @@ bahasa sederhana :
 Pengalaman 1 individu dalam jangka panjang (Time Average) = Rata-rata banyak individu pada satu waktu (Ensemble Average)
 
 Contoh Sistem Ergodik (Lempar Dadu)
-jika 1 orang melempar dadu 6000 kali berturut turut rata ratanya 3,5$. Jika 6000 orang melempar dadu sekali bersamaan, rata-ratanya juga $\approx 3,5$. Karena *time average* $=$ *ensemble average*, proses ini ergodik.
+jika 1 orang melempar dadu 6000 kali berturut turut rata ratanya 3,5. Jika 6000 orang melempar dadu sekali bersamaan, rata-ratanya juga $\approx 3,5$. Karena *time average* = *ensemble average*, proses ini ergodik.
 
 Contoh Sistem Non-Ergodik (Russian Roulete)
 Jika 6 orang bermain sekali bersamaan $\approx 83\%$ selamat ($5/6$) Namun, jika 1 orang yang sama bermain 6 kali berturut-turut, peluang keselamatannya adalah $(5/6)^6 \approx 33,5\%$, dan jika diteruskan menuju tak hingga ($t \to \infty$), peluang sintasnya menjadi $0\%$. Rata-rata kelompok tidak sama dengan rata-rata individu.
