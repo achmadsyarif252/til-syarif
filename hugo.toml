@@ -8,12 +8,6 @@ theme = "PaperMod"
     [markup.goldmark.renderer]
       hardLineBreak = true
       unsafe = true
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)'], ['$', '$']]
 
 [params]
   homeInfoParams = {Title = "Today I Learned", Content = "Hal-hal kecil yang saya pelajari setiap hari."}

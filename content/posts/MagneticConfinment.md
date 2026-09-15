@@ -15,9 +15,9 @@ Menggunakan dua inti atom ringan (deuterium dan tritium) menjadi satu inti atom 
 
 # Solusi Magnet sebagai "Botol Gaib"
 
-Plasma terdiri dari partikel-partikel yang memiliki muatan listrik ($q$). Ketika partikel bermuatan bergerak dengan kecepatan ($\vec{v}$) di dalam medan magnet ($\vec{B}$), partikel tersebut mengalami Gaya Lorentz:
+Plasma terdiri dari partikel-partikel yang memiliki muatan listrik (q). Ketika partikel bermuatan bergerak dengan kecepatan (v) di dalam medan magnet (B), partikel tersebut mengalami Gaya Lorentz:
 
-$$\vec{F} = q(\vec{v} \times \vec{B})$$
+> F = q (v × B)
 
 Gaya ini membelokkan gerak partikel sehingga partikel terpaksa berputar mengelilingi garis medan magnet (bergerak secara heliks) alih-alih bergerak lurus menabrak dinding.
 

@@ -35,7 +35,7 @@ Kalkulus tidak ditemukan oleh satu roang, penemuana melibatkan perseteruan sengi
 
 - Perang tuduhan : Saat leibniz mempublikasikan metodenya lebih dulu, netwon menuduhnya menncuri ide tersebut, terjadi debat nasional antara komunitas sains inggris dan eropa barat.
 
-- Pemenang : Sejarah modern membuktikan keduanya jujur dan menemukan sendiri. notasi yang kita pakai saat ini seperti lambang integral \(\int \) dan dx adalah buatan leibniz.
+- Pemenang : Sejarah modern membuktikan keduanya jujur dan menemukan sendiri. notasi yang kita pakai saat ini seperti lambang integral (∫) dan dx adalah buatan leibniz.
 
 Archimides dan cikal bakal kalkulus
 
