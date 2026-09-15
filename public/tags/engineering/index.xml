@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Engineering on Today I Learned</title>
-    <link>https://til-syarif-25.pages.dev/tags/engineering/</link>
-    <description>Recent content in Engineering on Today I Learned</description>
-    <generator>Hugo</generator>
-    <language>id</language>
-    <lastBuildDate>Mon, 20 Apr 2026 22:17:34 +0700</lastBuildDate>
-    <atom:link href="https://til-syarif-25.pages.dev/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pelapis Tangki Pesawat</title>
-      <link>https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/</link>
-      <pubDate>Mon, 20 Apr 2026 22:17:34 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/</guid>
-      <description>&lt;p&gt;Tangki Pesawat Pakai Bahan Pelapis Karet&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Engineering on Today I Learned</title><link>https://til-syarif-25.pages.dev/tags/engineering/</link><description>Recent content in Engineering on Today I Learned</description><generator>Hugo</generator><language>id</language><lastBuildDate>Mon, 20 Apr 2026 22:17:34 +0700</lastBuildDate><atom:link href="https://til-syarif-25.pages.dev/tags/engineering/index.xml" rel="self" type="application/rss+xml"/><item><title>Pelapis Tangki Pesawat</title><link>https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/</link><pubDate>Mon, 20 Apr 2026 22:17:34 +0700</pubDate><guid>https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/</guid><description>&lt;p&gt;Tangki Pesawat Pakai Bahan Pelapis Karet&lt;/p&gt;
 &lt;p&gt;Mulanya tangki pesawat itu seperti biasanya pakainya ya logam biasa, namun hal itu akan membahayakan apabila tertembak dan bahan bakar melebar ke mana mana&lt;/p&gt;
-&lt;p&gt;Enginerr lalu membuat lapisan tangki pesawat dengan karet sehingga apabila ditembak pun atau terdapat kebocoran dia akan menutup dengan sendirinya, karena karet sifatnya dia akan membengkak apabila terkena bahan hidrokarbon dari avtur atau bensinya, jadi ketika lubang, avtur kan akan keluar melalu lubang itu namun nanti karentya bakal melebar melar/bengkak sehingga bisa tertutup sendiri.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;Enginerr lalu membuat lapisan tangki pesawat dengan karet sehingga apabila ditembak pun atau terdapat kebocoran dia akan menutup dengan sendirinya, karena karet sifatnya dia akan membengkak apabila terkena bahan hidrokarbon dari avtur atau bensinya, jadi ketika lubang, avtur kan akan keluar melalu lubang itu namun nanti karentya bakal melebar melar/bengkak sehingga bisa tertutup sendiri.&lt;/p&gt;</description></item></channel></rss>

@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>LLM on Today I Learned</title>
-    <link>https://til-syarif-25.pages.dev/tags/llm/</link>
-    <description>Recent content in LLM on Today I Learned</description>
-    <generator>Hugo</generator>
-    <language>id</language>
-    <lastBuildDate>Mon, 25 May 2026 22:34:58 +0700</lastBuildDate>
-    <atom:link href="https://til-syarif-25.pages.dev/tags/llm/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LLM Series Part 2 : Parameter &amp; Jaringan Saraf Tiruan</title>
-      <link>https://til-syarif-25.pages.dev/posts/llmpart2/</link>
-      <pubDate>Mon, 25 May 2026 22:34:58 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/posts/llmpart2/</guid>
-      <description>&lt;p&gt;Di part 1 sudah dibahas gimana kata yang kita masukan sebagai prompt ditokenisasi sampai akhirnya tiap token tersebut memndapatkan id yang kemudian ditukar ke vektor embedding berupa deretan 4096 koordinat&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>LLM on Today I Learned</title><link>https://til-syarif-25.pages.dev/tags/llm/</link><description>Recent content in LLM on Today I Learned</description><generator>Hugo</generator><language>id</language><lastBuildDate>Mon, 25 May 2026 22:34:58 +0700</lastBuildDate><atom:link href="https://til-syarif-25.pages.dev/tags/llm/index.xml" rel="self" type="application/rss+xml"/><item><title>LLM Series Part 2 : Parameter &amp; Jaringan Saraf Tiruan</title><link>https://til-syarif-25.pages.dev/posts/llmpart2/</link><pubDate>Mon, 25 May 2026 22:34:58 +0700</pubDate><guid>https://til-syarif-25.pages.dev/posts/llmpart2/</guid><description>&lt;p&gt;Di part 1 sudah dibahas gimana kata yang kita masukan sebagai prompt ditokenisasi sampai akhirnya tiap token tersebut memndapatkan id yang kemudian ditukar ke vektor embedding berupa deretan 4096 koordinat&lt;/p&gt;
 &lt;p&gt;lalu setelah jadi vektor embeding gimana proses selanjutnya yang terjadi di dalamnya ?, ada 2 komponen penting yang bekerja di sini yaitu jaringan saraf (deep layers) dan parameter (weight &amp;amp; biases)&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;parameter ibarat papan dj raksasa yang punya miliaran tombol untuk atur volume suaranya , biasanya saat llm rilis ke publik mereka akan flexing berapa billion parameter yang digunakan, apa parameter itu ? dalam matematika, parameter di dalam Neural Network terdiri dari 2 hal :&lt;/li&gt;
@@ -22,7 +7,4 @@
 &lt;li&gt;weights (bobot) adalah angka pengali untuk menentukan seberapa penting suatu informasi&lt;/li&gt;
 &lt;li&gt;biases (bias) adalah angka konstan penambah untuk menyetel sensitivitas tebakan&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;nah parameter ini adalah miliaran angka pengali yang sdah paten (dikunci) yg diperoleh saat proses training model hasi dari membaca internet (yang menebak kata selanutnya itu), saat user bertanya koordinat yg tadi sudah didapat dari tokenisasi id akan disaring dan dikalikan dengan miliaran tombol ini&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;nah parameter ini adalah miliaran angka pengali yang sdah paten (dikunci) yg diperoleh saat proses training model hasi dari membaca internet (yang menebak kata selanutnya itu), saat user bertanya koordinat yg tadi sudah didapat dari tokenisasi id akan disaring dan dikalikan dengan miliaran tombol ini&lt;/p&gt;</description></item></channel></rss>

@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>XP on Today I Learned</title>
-    <link>https://til-syarif-25.pages.dev/tags/xp/</link>
-    <description>Recent content in XP on Today I Learned</description>
-    <generator>Hugo</generator>
-    <language>id</language>
-    <lastBuildDate>Fri, 15 May 2026 08:03:23 +0700</lastBuildDate>
-    <atom:link href="https://til-syarif-25.pages.dev/tags/xp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Asal Usul Nama Bandung</title>
-      <link>https://til-syarif-25.pages.dev/posts/bandung/</link>
-      <pubDate>Fri, 15 May 2026 08:03:23 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/posts/bandung/</guid>
-      <description>&lt;p&gt;Nama Bandung diyakini sebagian besar orang dari kata bendung atau bendungan yang mana artinya adalah genangan air atau air yang tergenang, jadi dulu bandung itu merupakan danau purba pada saat 220 ribu hingga 160 ribu tahun yang lalu, lalu sekitar 16 ribu tahun lalu danaunya mengering karna erosi (ada sumber lain jg mengatakan karna gempa bumi)&lt;/p&gt;
-&lt;p&gt;Danau ini terbentuk karna adanya letusan gunung sunda purba (cikal bakal gunung tangkuban perahu) nah lavannya ini kan menyebar ya kemana maan lava tersebut membendung aliran air sungai citarum di daerah cisarua, aliran air yang tersumbat ini menciptakan genangan air raksasa (danau) yang membendung wilayah padelarang hingga cicalengka&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>XP on Today I Learned</title><link>https://til-syarif-25.pages.dev/tags/xp/</link><description>Recent content in XP on Today I Learned</description><generator>Hugo</generator><language>id</language><lastBuildDate>Fri, 15 May 2026 08:03:23 +0700</lastBuildDate><atom:link href="https://til-syarif-25.pages.dev/tags/xp/index.xml" rel="self" type="application/rss+xml"/><item><title>Asal Usul Nama Bandung</title><link>https://til-syarif-25.pages.dev/posts/bandung/</link><pubDate>Fri, 15 May 2026 08:03:23 +0700</pubDate><guid>https://til-syarif-25.pages.dev/posts/bandung/</guid><description>&lt;p&gt;Nama Bandung diyakini sebagian besar orang dari kata bendung atau bendungan yang mana artinya adalah genangan air atau air yang tergenang, jadi dulu bandung itu merupakan danau purba pada saat 220 ribu hingga 160 ribu tahun yang lalu, lalu sekitar 16 ribu tahun lalu danaunya mengering karna erosi (ada sumber lain jg mengatakan karna gempa bumi)&lt;/p&gt;
+&lt;p&gt;Danau ini terbentuk karna adanya letusan gunung sunda purba (cikal bakal gunung tangkuban perahu) nah lavannya ini kan menyebar ya kemana maan lava tersebut membendung aliran air sungai citarum di daerah cisarua, aliran air yang tersumbat ini menciptakan genangan air raksasa (danau) yang membendung wilayah padelarang hingga cicalengka&lt;/p&gt;</description></item></channel></rss>

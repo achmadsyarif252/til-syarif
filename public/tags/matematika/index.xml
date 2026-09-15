@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Matematika on Today I Learned</title>
-    <link>https://til-syarif-25.pages.dev/tags/matematika/</link>
-    <description>Recent content in Matematika on Today I Learned</description>
-    <generator>Hugo</generator>
-    <language>id</language>
-    <lastBuildDate>Mon, 04 May 2026 22:32:33 +0700</lastBuildDate>
-    <atom:link href="https://til-syarif-25.pages.dev/tags/matematika/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Konjektur</title>
-      <link>https://til-syarif-25.pages.dev/posts/konjektur/</link>
-      <pubDate>Mon, 04 May 2026 22:32:33 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/posts/konjektur/</guid>
-      <description>&lt;p&gt;Konjektur bisa dibilang teorema yang belum dibuktikan melalui persamaan matematis hingga tidak terpatahkan, jadi sebelum konjektur itu menjadi sebuah teorema harus diuji dulu kalau dia break di number tertentu maka konjektur tersebut gagal tidak bisa mejadi teorema.&lt;/p&gt;
-&lt;p&gt;konjektur tidak hanya ada di matematika tapi ada di fisikan dan bidang ilmu lainya, tapi kalau di bidang lain sebutan umumnya itu bisa hipotesis, dugaan, dsb, konjektur lebih umum dipakai di matematika.kalau di matematika itu pembuktian konjektur hanya perlu lembaran kertas berisi logika murni kalau mau menentukan &amp;ldquo;konjektur&amp;rdquo; di fisika itu melalui observasi untuk membuktikan hipotesis tersebut (misal black hole yang baru terbukti keberadaanya (didapatkan gambarnya th 2019))&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Matematika on Today I Learned</title><link>https://til-syarif-25.pages.dev/tags/matematika/</link><description>Recent content in Matematika on Today I Learned</description><generator>Hugo</generator><language>id</language><lastBuildDate>Mon, 04 May 2026 22:32:33 +0700</lastBuildDate><atom:link href="https://til-syarif-25.pages.dev/tags/matematika/index.xml" rel="self" type="application/rss+xml"/><item><title>Konjektur</title><link>https://til-syarif-25.pages.dev/posts/konjektur/</link><pubDate>Mon, 04 May 2026 22:32:33 +0700</pubDate><guid>https://til-syarif-25.pages.dev/posts/konjektur/</guid><description>&lt;p&gt;Konjektur bisa dibilang teorema yang belum dibuktikan melalui persamaan matematis hingga tidak terpatahkan, jadi sebelum konjektur itu menjadi sebuah teorema harus diuji dulu kalau dia break di number tertentu maka konjektur tersebut gagal tidak bisa mejadi teorema.&lt;/p&gt;
+&lt;p&gt;konjektur tidak hanya ada di matematika tapi ada di fisikan dan bidang ilmu lainya, tapi kalau di bidang lain sebutan umumnya itu bisa hipotesis, dugaan, dsb, konjektur lebih umum dipakai di matematika.kalau di matematika itu pembuktian konjektur hanya perlu lembaran kertas berisi logika murni kalau mau menentukan &amp;ldquo;konjektur&amp;rdquo; di fisika itu melalui observasi untuk membuktikan hipotesis tersebut (misal black hole yang baru terbukti keberadaanya (didapatkan gambarnya th 2019))&lt;/p&gt;</description></item></channel></rss>

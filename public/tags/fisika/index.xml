@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Fisika on Today I Learned</title>
-    <link>https://til-syarif-25.pages.dev/tags/fisika/</link>
-    <description>Recent content in Fisika on Today I Learned</description>
-    <generator>Hugo</generator>
-    <language>id</language>
-    <lastBuildDate>Wed, 20 May 2026 21:54:31 +0700</lastBuildDate>
-    <atom:link href="https://til-syarif-25.pages.dev/tags/fisika/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Planck Length</title>
-      <link>https://til-syarif-25.pages.dev/posts/planck/</link>
-      <pubDate>Wed, 20 May 2026 21:54:31 +0700</pubDate>
-      <guid>https://til-syarif-25.pages.dev/posts/planck/</guid>
-      <description>&lt;p&gt;Seberapa kecil suatu ukuran itu bisa kita bayangkan ? manusia mungkin masih bisa melihat sehelai rambut yang lebarnya berkisar 0.1 milimeter, lalu kalau kita perkecil lagi terus menuerus sampai ke ujung yang paling kecil itu sampai mana ?&lt;/p&gt;
-&lt;p&gt;Mungkin jawaban yang biasa kita temukan adalah atom, atom adalah suatu hal yang paling kecil yang membentuk kita dan semua yang ada di alam semsta, tapi faktanya ada &amp;ldquo;ukuran&amp;rdquo; yang lebih kecil lagi, ibarat atom itu di zoom kan nati ada proton neutron elektron, quark lalu terus menerus sekecil kecilnya sampailah nanti kita ke ukuran terkecil yang diizinkan oleh hukum fisika, nanmanya adalah Planck Length.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fisika on Today I Learned</title><link>https://til-syarif-25.pages.dev/tags/fisika/</link><description>Recent content in Fisika on Today I Learned</description><generator>Hugo</generator><language>id</language><lastBuildDate>Wed, 20 May 2026 21:54:31 +0700</lastBuildDate><atom:link href="https://til-syarif-25.pages.dev/tags/fisika/index.xml" rel="self" type="application/rss+xml"/><item><title>Planck Length</title><link>https://til-syarif-25.pages.dev/posts/planck/</link><pubDate>Wed, 20 May 2026 21:54:31 +0700</pubDate><guid>https://til-syarif-25.pages.dev/posts/planck/</guid><description>&lt;p&gt;Seberapa kecil suatu ukuran itu bisa kita bayangkan ? manusia mungkin masih bisa melihat sehelai rambut yang lebarnya berkisar 0.1 milimeter, lalu kalau kita perkecil lagi terus menuerus sampai ke ujung yang paling kecil itu sampai mana ?&lt;/p&gt;
+&lt;p&gt;Mungkin jawaban yang biasa kita temukan adalah atom, atom adalah suatu hal yang paling kecil yang membentuk kita dan semua yang ada di alam semsta, tapi faktanya ada &amp;ldquo;ukuran&amp;rdquo; yang lebih kecil lagi, ibarat atom itu di zoom kan nati ada proton neutron elektron, quark lalu terus menerus sekecil kecilnya sampailah nanti kita ke ukuran terkecil yang diizinkan oleh hukum fisika, nanmanya adalah Planck Length.&lt;/p&gt;</description></item></channel></rss>
