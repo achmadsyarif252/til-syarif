@@ -2,7 +2,7 @@
 date = '2026-09-20T19:39:43+07:00'
 draft = false
 title = 'Mafahim Islam'
-tags = ["Buku"]
+tags = ["Buku","Islam"]
 +++
 
 Permasalahan umat Islam saat ini adalah kurangnya pemahaman terhadap islam, padahal itu yg menentukan sikap dan perilaku seseorang, ketika seorang muslim memahamai islam hanya sekadar agama yg mengajarkan perkara akidah dan hukum2 tentang ibadah, maka dia akan mencukupkan diri dan tidak terlintas di benaknya menerapkan dalam pemerintahan ekonomi, pendidikan, dan negara.
