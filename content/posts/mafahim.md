@@ -20,3 +20,9 @@ Islam datang sebagai sekumpulan pemahaman tentang kehidupan yang membentuk suatu
 Hukum2 islam datang untuk beri solusi manusia dalam urusan jual beli dg cara khusus sebagaimana beri solusi tentang shalat. persoalan pernikahan dengan cara khsus sebagaimaan ia menangani urusan zakat. islam menangani cara memiliki harta dan cara membelanjakanya dg cara khusus sebagaimana menjelaskan perkara haji,islam merinci akad2 transaksi dg cara khusus segimaan merinci doa2 dan ibadah. dg demikian islam datang mengarur seluruh hubungan manusia baik dengan diri sendiri, atau sesalma manusia. sehingga manusia dibebani tugas untuk berjalan di kehidupan ini dengan dorongan tertentu, di jalan yg sepsifik dan telah ditentukan.
 
 Paragraf selanjutnya mosly membahas menengai bagaimana seorang muslim harus mengikuti jalan yg ada bukan yg lainya, dan akan mendapatkan hukuman tegas jika menyimpang dari jalan ini meski hanya seutas rambut, intinya menekankan bahwa seorang muslim harus mengikuti jalan hidup yg sudah diterangkan dalam islam. menekankan pola hidup teratur yg sudah ditentukan. 
+
+Dalam islam tidak dijumpai perkara2 gaib murni yg tidak berdasar, yg diperintahkan untuk diimani adalah perkara gainyg terhubung dengan akal melalui pemahaman akal terhadap dalil yang menunjukanya, yaitu al quran dan hadits muawatir. Bagi seorang muslim wajib memahami dalam islam ada 2 hal
+
+Pertama bahwa islam datang membawa mafahim sebagai pedoman untuk merngatur perilaku manusia dalam kehidupan dunia menuju akhirat. pada dasarnya mafahim islam ini menekankan bahwa ajaran dalam agama islam itu tidak hanya dijadikan pengetahuan teori belaka seperti geografi dan sejarah namun benar2 dijadikan undang undang dalam kehidupan kita dan juga sebagai panduan untuk bekal ke akhirat.
+
+Kedua bahwa alquran dan hadits datang sebagai din (agama) dan syariah, bukan sebagai pengetahuan dan ilmu. dan keduanya tidak terikta dengan ilmu apapun sejarah,geografi,kimia fisikan dsb.
