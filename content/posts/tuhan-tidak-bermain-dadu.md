@@ -2,10 +2,10 @@
 date = '2026-09-19T00:10:00+07:00'
 draft = false
 title = 'Tuhan Tidak Bermain Dadu'
-tags = ["Sains","Sejarah"]
+tags = ["Sejarah","Sains"]
 +++
 
-"Tuhan tidak bermain dadu" adalah kalimat Albert Einstein yang paling sering dikutip. Kalimat ini bukan pernyataan teologis, melainkan keberatan Einstein terhadap tafsir mekanika kuantum yang berkembang pada 1920-an.
+"Tuhan tidak bermain dadu" adalah kalimat Albert Einstein yang paling sering dikutip. Kalimat ini bukan pernyataan teologis, melainkan keberatan Einstein terhadap tafsir mekanika kuantum yang berkembang pada tahun 1920-an.
 
 ## Asal kalimat
 

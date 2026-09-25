@@ -1,7 +1,7 @@
 +++
 date = '2026-09-23T22:58:44+07:00'
 draft = false
-title = 'Kapurajaib'
+title = 'Kapur Ajaib'
 tags = ["Sains","Hewan"]
 +++
 
