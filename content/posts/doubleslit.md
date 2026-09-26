@@ -1,5 +1,5 @@
 +++
-date = '2026-09-26T21:00:00+07:00'
+date = '2026-09-26T07:36:24+07:00'
 draft = false
 title = 'Eksperimen Celah Ganda (Double Slit)'
 tags = ["Sains","Pengetahuan"]
