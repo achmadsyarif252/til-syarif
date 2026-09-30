@@ -54,6 +54,8 @@ Hampir semua kelompok Sunni **mengklaim** dirinya Aswaja sejati. Itulah sumber b
 6. [Wahabi: asal-usul dan kontroversi istilah](/posts/wahabi/)
 7. [NU dan Muhammadiyah](/posts/nu-dan-muhammadiyah/)
 8. [Khilafiyah: kenapa ulama bisa berbeda](/posts/khilafiyah/)
+9. [Sunni dan Syiah](/posts/sunni-syiah/)
+10. [Mu'tazilah](/posts/mutazilah/)
 
 ---
 
