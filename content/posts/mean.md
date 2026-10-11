@@ -1,6 +1,6 @@
 +++
 date = '2026-10-11T21:56:34+07:00'
-draft = true
+draft = false
 title = 'Mean'
 +++
 
