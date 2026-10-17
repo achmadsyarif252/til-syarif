@@ -8,6 +8,57 @@ title = 'Antimateri: Kembaran Materi yang Saling Memusnahkan'
 
 *Catatan: postingan ini belum berisi tulisan asli, jadi bagian ini langsung membahas apa itu antimateri, bagaimana ia ditemukan, dan kenapa alam semesta kita hampir seluruhnya terbuat dari materi.*
 
+### Versi sederhana dulu
+
+#### 1. Semua benda tersusun dari partikel kecil
+
+Meja, air, dan tubuh kita semuanya tersusun dari **atom**. Di dalam atom ada:
+
+- **proton**, bermuatan listrik **positif (+)**
+- **neutron**, tidak bermuatan (netral)
+- **elektron**, bermuatan **negatif (−)**
+
+Semua ini disebut **materi**.
+
+#### 2. Antimateri adalah "kembaran terbalik"-nya
+
+Setiap partikel punya kembaran yang **massanya sama persis**, tetapi **muatannya berlawanan**.
+
+| Materi (biasa) | Kembaran antimateri |
+|---|---|
+| Elektron (−) | **Positron** (+) |
+| Proton (+) | **Antiproton** (−) |
+
+Hanya itu bedanya. Antimateri bukan zat ajaib, bukan energi gaib, dan bukan "materi yang tidak ada". Ia partikel nyata yang "tandanya" dibalik.
+
+Bayangkan bayangan di cermin: wajahnya sama, tetapi kiri dan kanannya tertukar. Antimateri mirip seperti itu, hanya saja yang tertukar adalah muatannya.
+
+Kalau antiproton dan positron digabung, terbentuklah **atom antihidrogen**. Secara teori, dari situ bisa ada "anti-air", "anti-besi", bahkan "anti-manusia", yang kelihatannya akan sama saja dengan aslinya.
+
+#### 3. Kalau bertemu, keduanya lenyap
+
+Elektron yang bertemu positron akan **saling memusnahkan**. Keduanya hilang tanpa sisa, dan seluruh massanya berubah menjadi **energi** dalam bentuk cahaya (sinar gamma).
+
+Ibaratnya angka **+1 dan −1**: kalau dijumlahkan hasilnya **0**, tetapi "selisihnya" dilepas sebagai energi yang sangat besar.
+
+Energinya sangat besar karena **100%** massanya berubah menjadi energi, sedangkan bom nuklir hanya mengubah sekitar **0,1%** massanya. Itulah sebabnya 1 gram antimateri yang bertemu 1 gram materi bisa menghasilkan ledakan setara kira-kira **3 bom Hiroshima**.
+
+#### 4. Kenapa kita tidak pernah melihatnya?
+
+Karena dunia kita **penuh materi**. Begitu antimateri muncul, misalnya dari sinar kosmik atau di laboratorium, ia hampir langsung menabrak materi di sekitarnya lalu lenyap. Umurnya sangat singkat.
+
+Di CERN, ilmuwan harus menyimpannya **melayang di ruang hampa** dengan bantuan medan magnet agar tidak menyentuh dinding wadah.
+
+#### 5. Misterinya
+
+Saat alam semesta lahir (Big Bang), materi dan antimateri seharusnya tercipta **sama banyak**. Kalau memang begitu, semuanya akan saling memusnahkan dan alam semesta hanya berisi cahaya.
+
+Kenyataannya, materi "menang" sedikit, dan sisa itulah yang menjadi bintang, planet, dan kita. **Kenapa materi bisa menang, sampai sekarang belum ada yang tahu pasti.**
+
+> **Versi satu kalimat:** antimateri adalah partikel kembaran materi dengan muatan terbalik, dan kalau keduanya bertemu, keduanya musnah menjadi energi.
+
+Bagian-bagian berikut membahas hal yang sama dengan lebih rinci.
+
 ### Apa itu antimateri?
 
 Setiap partikel materi punya **antipartikel**: kembarannya dengan **massa yang sama persis**, tetapi **muatan listrik dan beberapa bilangan kuantum lainnya berlawanan**.
