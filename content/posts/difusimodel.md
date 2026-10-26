@@ -23,19 +23,25 @@ Ide dasarnya terinspirasi dari fisika, yaitu proses **difusi**: setetes tinta ya
 
 Secara matematis, pada versi DDPM satu langkah maju ditulis:
 
-$$q(x_t \mid x_{t-1}) = \mathcal{N}\big(x_t;\ \sqrt{1-\beta_t}\,x_{t-1},\ \beta_t I\big)$$
+```
+x_t = √(1 − β_t) · x_(t−1) + √β_t · ε
+```
 
-dengan $\beta_t$ adalah besarnya *noise* pada langkah ke-$t$. Hebatnya, kita bisa langsung "melompat" ke langkah mana pun tanpa menghitung satu per satu:
+dengan β_t adalah besarnya *noise* pada langkah ke-t dan ε adalah *noise* acak Gaussian. Hebatnya, kita bisa langsung "melompat" ke langkah mana pun tanpa menghitung satu per satu:
 
-$$x_t = \sqrt{\bar\alpha_t}\,x_0 + \sqrt{1-\bar\alpha_t}\,\epsilon, \quad \epsilon \sim \mathcal{N}(0, I)$$
+```
+x_t = √ᾱ_t · x_0 + √(1 − ᾱ_t) · ε
+```
+
+dengan ᾱ_t adalah hasil kali semua (1 − β) dari langkah 1 sampai t.
 
 ### Bagaimana Model Dilatih?
 
-1. Ambil gambar asli $x_0$ dari dataset.
-2. Pilih langkah acak $t$ (misalnya antara 1 dan 1.000).
-3. Tambahkan *noise* $\epsilon$ sesuai rumus di atas sehingga diperoleh $x_t$.
-4. Minta jaringan saraf $\epsilon_\theta$ **menebak noise apa yang ditambahkan**.
-5. Hitung selisih tebakan dengan *noise* sebenarnya: $\lVert \epsilon - \epsilon_\theta(x_t, t) \rVert^2$.
+1. Ambil gambar asli x_0 dari dataset.
+2. Pilih langkah acak t (misalnya antara 1 dan 1.000).
+3. Tambahkan *noise* ε sesuai rumus di atas sehingga diperoleh x_t.
+4. Minta jaringan saraf ε_θ **menebak noise apa yang ditambahkan**.
+5. Hitung selisih tebakan dengan *noise* sebenarnya: `‖ε − ε_θ(x_t, t)‖²`.
 6. Perbaiki bobot jaringan dengan *backpropagation* dan *gradient descent*, lalu ulangi jutaan kali.
 
 Jadi model tidak belajar "menggambar kucing" secara langsung. Ia belajar **mengenali noise**, dan dengan membuang noise berulang kali, gambar kucing perlahan muncul.
