@@ -16,7 +16,7 @@ Saat menyelam di laut dalam, tubuh menghirup udara bertekanan tinggi dari tabung
 
 Jika penyelam naik ke permukaan secara bertahap dan melakukan safety stop (berhenti dekompresi), nitrogen akan keluar dari tubuh secara aman lewat paru paru. namun jika penyelam naik terlalu cepat, nitrogen tidak sempat dibuang dan lagnsung berubah menjadi gelembung gas berbahaya yang menyumbat aliran darah serta merusak jaringan saraf.
 
-!["Dekompresi"](/images/dekommpresi.png)
+!["Dekompresi"](/images/dekompresi.png)
 
 Isi tabung selam (scuba-tank) standar yg sering digunakan bukan 100% oksigen murni, melainkan udara biasa yang dimampatkan. komposisinya sama persis dengan udara yg kita hirup di daratan saat ini, yaitu.
 
