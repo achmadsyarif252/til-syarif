@@ -2,6 +2,7 @@
 date = '2026-11-24T22:10:23+07:00'
 draft = false
 title = 'Jatayu'
+tags = ["Pengetahuan","India"]
 +++
 
 Jatayu itu tokoh burung raksasa yg berani dan bijaksana dalam wiracarita Ramayana yg berusaha menyelamatkan Dewi Sinta dari penculikan Rahwana.
