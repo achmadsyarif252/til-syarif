@@ -2,7 +2,7 @@
 date = '2026-11-24T22:15:35+07:00'
 draft = false
 title = 'Rust 101'
-tags = false
+tags = ['rust']
 +++
 
 
